@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "game_version": "1.60",
   "items": [
     {
@@ -8618,6 +8618,9 @@
             "ability": "ランパート",
             "strength": 5
           }
+        ],
+        "weapon_bonuses": [
+          "lightning_damage"
         ]
       }
     },
@@ -9251,6 +9254,10 @@
             "type": "spirit",
             "amount": 1
           }
+        ],
+        "weapon_bonuses": [
+          "fire_damage",
+          "wind_damage"
         ]
       }
     },
@@ -9295,6 +9302,10 @@
             "type": "agility",
             "amount": 1
           }
+        ],
+        "weapon_bonuses": [
+          "freeze",
+          "wind_damage"
         ]
       }
     },
@@ -9609,6 +9620,9 @@
             "ability": "ヒート",
             "levels": 1
           }
+        ],
+        "weapon_bonuses": [
+          "fire_damage"
         ]
       }
     },
@@ -10139,6 +10153,9 @@
             "ability": "ヒート",
             "levels": 2
           }
+        ],
+        "weapon_bonuses": [
+          "fire_damage"
         ]
       }
     },
@@ -10499,6 +10516,10 @@
             "type": "evasion_percent",
             "percent": 10
           }
+        ],
+        "weapon_bonuses": [
+          "sleep",
+          "stun"
         ]
       }
     },
@@ -10575,6 +10596,9 @@
             "type": "agility",
             "amount": 2
           }
+        ],
+        "weapon_bonuses": [
+          "wind_damage"
         ]
       }
     },
@@ -10612,6 +10636,9 @@
             "ability": "サンダースラッシュ",
             "levels": 1
           }
+        ],
+        "weapon_bonuses": [
+          "lightning_damage"
         ]
       }
     },
@@ -10648,6 +10675,9 @@
             "type": "vitality",
             "amount": 3
           }
+        ],
+        "weapon_bonuses": [
+          "stun"
         ]
       }
     },
@@ -10744,6 +10774,9 @@
             "type": "evasion_percent",
             "percent": 10
           }
+        ],
+        "weapon_bonuses": [
+          "stun"
         ]
       }
     },
@@ -10811,6 +10844,9 @@
             "type": "damage",
             "amount": 1
           }
+        ],
+        "weapon_bonuses": [
+          "fire_damage"
         ]
       }
     },
@@ -10847,6 +10883,9 @@
             "type": "damage",
             "amount": 1
           }
+        ],
+        "weapon_bonuses": [
+          "freeze"
         ]
       }
     },
@@ -11047,6 +11086,9 @@
             "type": "spirit",
             "amount": 2
           }
+        ],
+        "weapon_bonuses": [
+          "lightning_damage"
         ]
       }
     },
@@ -11239,6 +11281,9 @@
             "type": "maximum_ap",
             "amount": 50
           }
+        ],
+        "weapon_bonuses": [
+          "sleep"
         ]
       }
     },
@@ -11641,6 +11686,9 @@
             "type": "maximum_hp",
             "amount": 50
           }
+        ],
+        "weapon_bonuses": [
+          "stun"
         ]
       }
     },
@@ -11713,6 +11761,9 @@
             "type": "agility",
             "amount": 1
           }
+        ],
+        "weapon_bonuses": [
+          "wind_damage"
         ]
       }
     },
@@ -11965,6 +12016,9 @@
             "type": "maximum_hp",
             "amount": -9
           }
+        ],
+        "weapon_bonuses": [
+          "fire_damage"
         ]
       }
     },
@@ -12005,6 +12059,9 @@
             "type": "maximum_hp",
             "amount": -9
           }
+        ],
+        "weapon_bonuses": [
+          "freeze"
         ]
       }
     },
@@ -12233,6 +12290,9 @@
             "type": "maximum_hp",
             "amount": -9
           }
+        ],
+        "weapon_bonuses": [
+          "lightning_damage"
         ]
       }
     },
@@ -12445,6 +12505,9 @@
             "type": "maximum_hp",
             "amount": -9
           }
+        ],
+        "weapon_bonuses": [
+          "sleep"
         ]
       }
     },
@@ -12894,6 +12957,9 @@
             "type": "vitality",
             "amount": 1
           }
+        ],
+        "weapon_bonuses": [
+          "stun"
         ]
       }
     },
@@ -12978,6 +13044,9 @@
             "type": "maximum_hp",
             "amount": -9
           }
+        ],
+        "weapon_bonuses": [
+          "wind_damage"
         ]
       }
     },
@@ -13202,6 +13271,9 @@
             "type": "damage",
             "amount": 3
           }
+        ],
+        "weapon_bonuses": [
+          "fire_damage"
         ]
       }
     },
@@ -13238,6 +13310,9 @@
             "type": "damage",
             "amount": 3
           }
+        ],
+        "weapon_bonuses": [
+          "freeze"
         ]
       }
     },
@@ -13438,6 +13513,9 @@
             "type": "spirit",
             "amount": 3
           }
+        ],
+        "weapon_bonuses": [
+          "lightning_damage"
         ]
       }
     },
@@ -13626,6 +13704,9 @@
             "type": "intelligence",
             "amount": 2
           }
+        ],
+        "weapon_bonuses": [
+          "sleep"
         ]
       }
     },
@@ -14032,6 +14113,9 @@
             "type": "vitality",
             "amount": 2
           }
+        ],
+        "weapon_bonuses": [
+          "stun"
         ]
       }
     },
@@ -14108,6 +14192,9 @@
             "type": "agility",
             "amount": 3
           }
+        ],
+        "weapon_bonuses": [
+          "wind_damage"
         ]
       }
     },
@@ -14528,6 +14615,9 @@
             "type": "vitality",
             "amount": 2
           }
+        ],
+        "weapon_bonuses": [
+          "fire_damage"
         ]
       }
     },
@@ -15038,6 +15128,9 @@
             "ability": "チャーム",
             "strength": 5
           }
+        ],
+        "weapon_bonuses": [
+          "charm"
         ]
       }
     },
@@ -17210,6 +17303,9 @@
             "type": "maximum_ap",
             "amount": 20
           }
+        ],
+        "weapon_bonuses": [
+          "fire_damage"
         ]
       }
     },
@@ -17634,6 +17730,9 @@
             "type": "damage",
             "amount": 2
           }
+        ],
+        "weapon_bonuses": [
+          "fire_damage"
         ]
       }
     },
@@ -18354,6 +18453,10 @@
             "ability": "オーバードライブ",
             "strength": 5
           }
+        ],
+        "weapon_bonuses": [
+          "lightning_damage",
+          "stun"
         ]
       }
     },
@@ -18607,6 +18710,9 @@
             "type": "strength",
             "amount": 2
           }
+        ],
+        "weapon_bonuses": [
+          "fire_damage"
         ]
       }
     },
@@ -18647,6 +18753,9 @@
             "type": "dexterity",
             "amount": 2
           }
+        ],
+        "weapon_bonuses": [
+          "lightning_damage"
         ]
       }
     },
@@ -18687,6 +18796,9 @@
             "type": "vitality",
             "amount": 2
           }
+        ],
+        "weapon_bonuses": [
+          "freeze"
         ]
       }
     },
@@ -18727,6 +18839,9 @@
             "type": "agility",
             "amount": 2
           }
+        ],
+        "weapon_bonuses": [
+          "wind_damage"
         ]
       }
     },
@@ -18763,6 +18878,9 @@
             "type": "critical_rate_percent",
             "percent": 10
           }
+        ],
+        "weapon_bonuses": [
+          "stun"
         ]
       }
     },
@@ -18803,6 +18921,9 @@
             "type": "spirit",
             "amount": 2
           }
+        ],
+        "weapon_bonuses": [
+          "sleep"
         ]
       }
     },
@@ -23751,7 +23872,10 @@
         "attack": 6,
         "defense": null,
         "weight": 7,
-        "effects": []
+        "effects": [],
+        "weapon_bonuses": [
+          "three_way_shot"
+        ]
       }
     },
     {
@@ -23935,6 +24059,9 @@
             "type": "physical_defense",
             "amount": 2
           }
+        ],
+        "weapon_bonuses": [
+          "three_way_shot"
         ]
       }
     },
@@ -24002,7 +24129,10 @@
         "attack": 9,
         "defense": null,
         "weight": 10,
-        "effects": []
+        "effects": [],
+        "weapon_bonuses": [
+          "charm"
+        ]
       }
     },
     {
@@ -24038,6 +24168,9 @@
             "type": "spirit",
             "amount": 1
           }
+        ],
+        "weapon_bonuses": [
+          "rear_shot"
         ]
       }
     },
@@ -24074,6 +24207,9 @@
             "type": "movement_speed_percent",
             "percent": 5
           }
+        ],
+        "weapon_bonuses": [
+          "two_shot_burst"
         ]
       }
     },
@@ -24321,6 +24457,9 @@
             "type": "attack_power",
             "amount": 1
           }
+        ],
+        "weapon_bonuses": [
+          "two_shot_burst"
         ]
       }
     },
@@ -24432,6 +24571,9 @@
             "type": "intelligence",
             "amount": -1
           }
+        ],
+        "weapon_bonuses": [
+          "two_shot_burst"
         ]
       }
     },
@@ -24468,6 +24610,9 @@
             "type": "strength",
             "amount": 4
           }
+        ],
+        "weapon_bonuses": [
+          "two_shot_burst"
         ]
       }
     },
@@ -24544,6 +24689,9 @@
             "type": "intelligence",
             "amount": 1
           }
+        ],
+        "weapon_bonuses": [
+          "stun"
         ]
       }
     },
@@ -24694,7 +24842,10 @@
         "attack": 12,
         "defense": null,
         "weight": 15,
-        "effects": []
+        "effects": [],
+        "weapon_bonuses": [
+          "two_shot_burst"
+        ]
       }
     },
     {
@@ -24769,6 +24920,9 @@
             "type": "agility",
             "amount": 2
           }
+        ],
+        "weapon_bonuses": [
+          "three_way_shot"
         ]
       }
     },
@@ -24841,6 +24995,9 @@
             "type": "spirit",
             "amount": 4
           }
+        ],
+        "weapon_bonuses": [
+          "rear_shot"
         ]
       }
     },
@@ -24872,7 +25029,10 @@
         "attack": 9,
         "defense": null,
         "weight": 9,
-        "effects": []
+        "effects": [],
+        "weapon_bonuses": [
+          "two_shot_burst"
+        ]
       }
     },
     {
@@ -24952,6 +25112,9 @@
             "type": "magic_damage_received_percent",
             "percent": -10
           }
+        ],
+        "weapon_bonuses": [
+          "three_way_shot"
         ]
       }
     },
@@ -24983,7 +25146,10 @@
         "attack": 4,
         "defense": null,
         "weight": 5,
-        "effects": []
+        "effects": [],
+        "weapon_bonuses": [
+          "three_way_shot"
+        ]
       }
     },
     {
@@ -25056,6 +25222,9 @@
             "ability": "スリープショット",
             "strength": 5
           }
+        ],
+        "weapon_bonuses": [
+          "three_way_shot"
         ]
       }
     },
@@ -25180,7 +25349,10 @@
         "attack": 17,
         "defense": null,
         "weight": 18,
-        "effects": []
+        "effects": [],
+        "weapon_bonuses": [
+          "rear_shot"
+        ]
       }
     },
     {
@@ -25211,7 +25383,10 @@
         "attack": 12,
         "defense": null,
         "weight": 12,
-        "effects": []
+        "effects": [],
+        "weapon_bonuses": [
+          "two_shot_burst"
+        ]
       }
     },
     {
@@ -25255,6 +25430,9 @@
             "type": "spirit",
             "amount": 3
           }
+        ],
+        "weapon_bonuses": [
+          "two_shot_burst"
         ]
       }
     },
@@ -25292,6 +25470,9 @@
             "ability": "精霊召還の術",
             "levels": 1
           }
+        ],
+        "weapon_bonuses": [
+          "three_way_shot"
         ]
       }
     },
@@ -25376,6 +25557,9 @@
             "type": "intelligence",
             "amount": 4
           }
+        ],
+        "weapon_bonuses": [
+          "rear_shot"
         ]
       }
     },
@@ -25420,6 +25604,9 @@
             "type": "vitality",
             "amount": 3
           }
+        ],
+        "weapon_bonuses": [
+          "three_way_shot"
         ]
       }
     },
@@ -25624,6 +25811,9 @@
             "type": "attack_power",
             "amount": 4
           }
+        ],
+        "weapon_bonuses": [
+          "two_shot_burst"
         ]
       }
     },
@@ -25664,6 +25854,9 @@
             "type": "maximum_ap",
             "amount": 10
           }
+        ],
+        "weapon_bonuses": [
+          "rear_shot"
         ]
       }
     },
@@ -25704,6 +25897,9 @@
             "type": "dexterity",
             "amount": 4
           }
+        ],
+        "weapon_bonuses": [
+          "three_way_shot"
         ]
       }
     },
@@ -25817,6 +26013,9 @@
             "ability": "エターナルソード",
             "levels": 1
           }
+        ],
+        "weapon_bonuses": [
+          "three_way_shot"
         ]
       }
     },
@@ -29707,6 +29906,9 @@
             "type": "spirit",
             "amount": 3
           }
+        ],
+        "weapon_bonuses": [
+          "charm"
         ]
       }
     },
