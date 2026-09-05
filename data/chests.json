@@ -11694,7 +11694,7 @@
         },
         {
           "tier": "gold",
-          "player_action": "For the normal Gold chest, clear 女神の凱旋, add ENTRANT HALL to your recorded rooms, and reach floor 60. If any party member carries ウツロの証, a separate chest also appears. That chest contains one random item: スーパーダークオーブ, スーパーダークリング, スーパーダークイヤリング, or スーパーダークネックレス.",
+          "player_action": "For the normal Gold chest, clear 女神の凱旋, add ENTRANT HALL to your recorded rooms, and reach floor 60. If any party member carries ウツロの証, a separate chest also appears. It contains one random item from the separate chest rewards below.",
           "variants": [],
           "rewards": [
             {
@@ -11719,6 +11719,30 @@
               "recipient": "Xeovalga",
               "type": "item",
               "item_id": 62258,
+              "quantity": 1
+            },
+            {
+              "recipient": "Separate chest random result",
+              "type": "item",
+              "item_id": 40756,
+              "quantity": 1
+            },
+            {
+              "recipient": "Separate chest random result",
+              "type": "item",
+              "item_id": 40757,
+              "quantity": 1
+            },
+            {
+              "recipient": "Separate chest random result",
+              "type": "item",
+              "item_id": 40758,
+              "quantity": 1
+            },
+            {
+              "recipient": "Separate chest random result",
+              "type": "item",
+              "item_id": 40759,
               "quantity": 1
             }
           ],
