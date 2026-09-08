@@ -2722,7 +2722,7 @@
         },
         {
           "tier": "silver",
-          "player_action": "Defeat every enemy on floors 1, 7, 13, and 25 before you leave each floor.",
+          "player_action": "On the first, second, third, and fifth floors of the current six-floor run, defeat all normal enemies, including the Super enemy, before you leave each floor. Explore each floor to activate nearby enemy spawns. For a run starting at floor 1, the required floors are 1, 2, 3, and 5. For a run starting at floor 7, they are 7, 8, 9, and 11. The rare Gua'dlang Jha'rah and the timed Blue Wisp are not required. A separate 1-in-2001 random result can also qualify for Silver. If any party member carries ウツロの証, the special reward replaces this Silver reward.",
           "variants": [],
           "rewards": [
             {
@@ -2898,27 +2898,6 @@
               "world_x": 321.0,
               "world_z": 309.0,
               "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 610.0,
-              "world_z": 299.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 390.0,
-              "world_z": 19.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 112.0,
-              "world_z": 101.0,
-              "radius": 20.0
             }
           ]
         },
@@ -2951,27 +2930,6 @@
               "world_x": 321.0,
               "world_z": 309.0,
               "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 610.0,
-              "world_z": 299.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 390.0,
-              "world_z": 19.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 112.0,
-              "world_z": 101.0,
-              "radius": 20.0
             }
           ]
         },
@@ -3001,29 +2959,8 @@
             {
               "kind": "sol",
               "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 321.0,
-              "world_z": 309.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
               "world_x": 610.0,
               "world_z": 299.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 390.0,
-              "world_z": 19.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 112.0,
-              "world_z": 101.0,
               "radius": 20.0
             }
           ]
@@ -3054,29 +2991,8 @@
             {
               "kind": "sol",
               "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 321.0,
-              "world_z": 309.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
               "world_x": 610.0,
               "world_z": 299.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 390.0,
-              "world_z": 19.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 112.0,
-              "world_z": 101.0,
               "radius": 20.0
             }
           ]
@@ -3107,29 +3023,8 @@
             {
               "kind": "sol",
               "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 321.0,
-              "world_z": 309.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
               "world_x": 610.0,
               "world_z": 299.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 390.0,
-              "world_z": 19.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 112.0,
-              "world_z": 101.0,
               "radius": 20.0
             }
           ]
@@ -3160,29 +3055,8 @@
             {
               "kind": "sol",
               "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 321.0,
-              "world_z": 309.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 610.0,
-              "world_z": 299.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
               "world_x": 390.0,
               "world_z": 19.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 112.0,
-              "world_z": 101.0,
               "radius": 20.0
             }
           ]
@@ -3210,27 +3084,6 @@
             "origin_z": 0
           },
           "locations": [
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 321.0,
-              "world_z": 309.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 610.0,
-              "world_z": 299.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 390.0,
-              "world_z": 19.0,
-              "radius": 20.0
-            },
             {
               "kind": "sol",
               "player_action": "Use Force at the center of the selected ring.",
@@ -3263,27 +3116,6 @@
             "origin_z": 0
           },
           "locations": [
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 321.0,
-              "world_z": 309.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 610.0,
-              "world_z": 299.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 390.0,
-              "world_z": 19.0,
-              "radius": 20.0
-            },
             {
               "kind": "sol",
               "player_action": "Use Force at the center of the selected ring.",
@@ -3316,27 +3148,6 @@
             "origin_z": 0
           },
           "locations": [
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 321.0,
-              "world_z": 309.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 610.0,
-              "world_z": 299.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 390.0,
-              "world_z": 19.0,
-              "radius": 20.0
-            },
             {
               "kind": "sol",
               "player_action": "Use Force at the center of the selected ring.",
@@ -7901,7 +7712,7 @@
         },
         {
           "tier": "red",
-          "player_action": "Reach floor 127, ENTRANT HALL. Complete your own quest progression to receive the finale rewards. The finale gives three Red chests: one equipment chest and two material chests. Each material chest contains one copy of your character's material.",
+          "player_action": "Complete your own quest progression through the run that starts at floor 121. Finish the quest to receive the finale rewards. The finale gives three Red chests: one equipment chest and two material chests. Each material chest contains one copy of your character's material.",
           "variants": [],
           "rewards": [
             {
@@ -7958,43 +7769,43 @@
         },
         {
           "tier": "silver",
-          "player_action": "Activate one of the hidden secrets on the first five random floors. Then clear the final ENTRANT HALL floor. Use the floor table and diagrams for the exact action. If any party member carries ウツロの証, the treasury instead gives the special reward listed under Gold.",
+          "player_action": "Activate one of the hidden secrets in the first five random rooms. Then defeat the boss in GATEKEEPER'S ROOM. Use the room table and diagrams for the exact action. If any party member carries ウツロの証, the treasury instead gives the special reward listed under Gold.",
           "variants": [
             {
-              "name": "Floor 2",
-              "player_action": "Stand in the red area and use normal Attack."
+              "name": "DRUAGA'S GRAVE",
+              "player_action": "Stand in the red area and use Force."
             },
             {
-              "name": "Floor 15",
-              "player_action": "Stand in the red area and use normal Attack."
+              "name": "KITCHEN",
+              "player_action": "Stand in the red area and use Force."
             },
             {
-              "name": "Floor 41",
+              "name": "SHRINE OF EVIL",
               "player_action": "Destroy the Evil Idol at the red mark."
             },
             {
-              "name": "Floor 53",
+              "name": "FORGOTTEN ROOM",
               "player_action": "Walk up to Ishtar at the red mark."
             },
             {
-              "name": "Floor 54",
-              "player_action": "Stand in the red area and use normal Attack."
+              "name": "TROPHY ROOM",
+              "player_action": "Stand in the red area and use Force."
             },
             {
-              "name": "Floor 60",
+              "name": "MUSEUM",
               "player_action": "Destroy all four Evil Idols at the red marks."
             },
             {
-              "name": "Floor 81",
+              "name": "FORBIDDEN HALL",
               "player_action": "Enter the red area."
             },
             {
-              "name": "Floor 113",
+              "name": "THIRD CELL",
               "player_action": "Enter the red area."
             },
             {
-              "name": "Floor 126",
-              "player_action": "Stand in the red area and use normal Attack."
+              "name": "WATER DUCT",
+              "player_action": "Stand in the red area and use Force."
             }
           ],
           "rewards": [
@@ -8024,15 +7835,15 @@
             }
           ],
           "illustrations": [
-            "<figure class=\"route-map\"><svg viewBox=\"-11.781746 -32.468033 150.59293 150.59293\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-2-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-2-bounds)\"><ellipse cx=\"40.5\" cy=\"28.5\" rx=\"6\" ry=\"6\"/><text x=\"40.5\" y=\"32.5\">A</text></g></g></svg><figcaption>Floor 2. Stand at A and use normal Attack.</figcaption></figure>",
-            "<figure class=\"route-map\"><svg viewBox=\"-11.781746 -32.468033 150.59293 150.59293\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-15-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-15-bounds)\"><ellipse cx=\"117.5\" cy=\"10.5\" rx=\"6\" ry=\"6\"/><text x=\"117.5\" y=\"14.5\">A</text></g></g></svg><figcaption>Floor 15. Stand at A and use normal Attack.</figcaption></figure>",
-            "<figure class=\"route-map\"><svg viewBox=\"8.017246 -32.468033 125.84419 150.59293\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-41-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-41-bounds)\"><ellipse cx=\"53.5\" cy=\"15.5\" rx=\"5\" ry=\"5\"/><text x=\"53.5\" y=\"19.5\">I</text></g></g></svg><figcaption>Floor 41. Destroy the Evil Idol at I.</figcaption></figure>",
-            "<figure class=\"route-map\"><svg viewBox=\"-11.781746 -22.568542 150.59293 140.69344\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-53-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-53-bounds)\"><ellipse cx=\"60.5\" cy=\"48.5\" rx=\"10\" ry=\"10\"/><text x=\"60.5\" y=\"52.5\">I</text></g></g></svg><figcaption>Floor 53. Walk up to Ishtar at I.</figcaption></figure>",
-            "<figure class=\"route-map\"><svg viewBox=\"3.0674973 -32.468033 135.74368 150.59293\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-54-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-54-bounds)\"><ellipse cx=\"16.9\" cy=\"57.5\" rx=\"5\" ry=\"5\"/><text x=\"16.9\" y=\"61.5\">A</text></g></g></svg><figcaption>Floor 54. Stand at A and use normal Attack.</figcaption></figure>",
-            "<figure class=\"route-map\"><svg viewBox=\"-6.8320007 -32.468033 142.4612 145.64317\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-60-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-60-bounds)\"><ellipse cx=\"64.5\" cy=\"5.5\" rx=\"5\" ry=\"5\"/><text x=\"64.5\" y=\"9.5\">1</text><ellipse cx=\"80\" cy=\"29.5\" rx=\"5\" ry=\"5\"/><text x=\"80\" y=\"33.5\">2</text><ellipse cx=\"80\" cy=\"41.5\" rx=\"5\" ry=\"5\"/><text x=\"80\" y=\"45.5\">3</text><ellipse cx=\"115.5\" cy=\"54\" rx=\"5\" ry=\"5\"/><text x=\"115.5\" y=\"58\">4</text></g></g></svg><figcaption>Floor 60. Destroy all four Evil Idols.</figcaption></figure>",
-            "<figure class=\"route-map\"><svg viewBox=\"-1.8822479 -32.468033 140.69344 140.69342\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-81-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-81-bounds)\"><ellipse cx=\"103.5\" cy=\"60.5\" rx=\"5\" ry=\"5\"/><text x=\"103.5\" y=\"64.5\">1</text></g></g></svg><figcaption>Floor 81. Enter the marked area.</figcaption></figure>",
-            "<figure class=\"route-map\"><svg viewBox=\"3.0674973 -17.618793 120.89445 120.89444\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-113-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-113-bounds)\"><ellipse cx=\"64.5\" cy=\"4.5\" rx=\"8\" ry=\"8\"/><text x=\"64.5\" y=\"8.5\">1</text></g></g></svg><figcaption>Floor 113. Enter the marked area.</figcaption></figure>",
-            "<figure class=\"route-map\"><svg viewBox=\"-6.8320007 -32.892296 145.64319 151.01718\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-126-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-126-bounds)\"><ellipse cx=\"116.1\" cy=\"5.5\" rx=\"5\" ry=\"5\"/><text x=\"116.1\" y=\"9.5\">A</text></g></g></svg><figcaption>Floor 126. Stand at A and use normal Attack.</figcaption></figure>"
+            "<figure class=\"route-map\"><svg viewBox=\"-11.781746 -32.468033 150.59293 150.59293\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-2-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-2-bounds)\"><ellipse cx=\"40.5\" cy=\"28.5\" rx=\"6\" ry=\"6\"/><text x=\"40.5\" y=\"32.5\">A</text></g></g></svg><figcaption>DRUAGA'S GRAVE. Stand at A and use Force.</figcaption></figure>",
+            "<figure class=\"route-map\"><svg viewBox=\"-11.781746 -32.468033 150.59293 150.59293\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-15-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-15-bounds)\"><ellipse cx=\"117.5\" cy=\"10.5\" rx=\"6\" ry=\"6\"/><text x=\"117.5\" y=\"14.5\">A</text></g></g></svg><figcaption>KITCHEN. Stand at A and use Force.</figcaption></figure>",
+            "<figure class=\"route-map\"><svg viewBox=\"8.017246 -32.468033 125.84419 150.59293\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-41-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-41-bounds)\"><ellipse cx=\"53.5\" cy=\"15.5\" rx=\"5\" ry=\"5\"/><text x=\"53.5\" y=\"19.5\">I</text></g></g></svg><figcaption>SHRINE OF EVIL. Destroy the Evil Idol at I.</figcaption></figure>",
+            "<figure class=\"route-map\"><svg viewBox=\"-11.781746 -22.568542 150.59293 140.69344\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-53-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-53-bounds)\"><ellipse cx=\"60.5\" cy=\"48.5\" rx=\"10\" ry=\"10\"/><text x=\"60.5\" y=\"52.5\">I</text></g></g></svg><figcaption>FORGOTTEN ROOM. Walk up to Ishtar at I.</figcaption></figure>",
+            "<figure class=\"route-map\"><svg viewBox=\"3.0674973 -32.468033 135.74368 150.59293\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-54-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-54-bounds)\"><ellipse cx=\"16.9\" cy=\"57.5\" rx=\"5\" ry=\"5\"/><text x=\"16.9\" y=\"61.5\">A</text></g></g></svg><figcaption>TROPHY ROOM. Stand at A and use Force.</figcaption></figure>",
+            "<figure class=\"route-map\"><svg viewBox=\"-6.8320007 -32.468033 142.4612 145.64317\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-60-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-60-bounds)\"><ellipse cx=\"64.5\" cy=\"5.5\" rx=\"5\" ry=\"5\"/><text x=\"64.5\" y=\"9.5\">1</text><ellipse cx=\"80\" cy=\"29.5\" rx=\"5\" ry=\"5\"/><text x=\"80\" y=\"33.5\">2</text><ellipse cx=\"80\" cy=\"41.5\" rx=\"5\" ry=\"5\"/><text x=\"80\" y=\"45.5\">3</text><ellipse cx=\"115.5\" cy=\"54\" rx=\"5\" ry=\"5\"/><text x=\"115.5\" y=\"58\">4</text></g></g></svg><figcaption>MUSEUM. Destroy all four Evil Idols.</figcaption></figure>",
+            "<figure class=\"route-map\"><svg viewBox=\"-1.8822479 -32.468033 140.69344 140.69342\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-81-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-81-bounds)\"><ellipse cx=\"103.5\" cy=\"60.5\" rx=\"5\" ry=\"5\"/><text x=\"103.5\" y=\"64.5\">1</text></g></g></svg><figcaption>FORBIDDEN HALL. Enter the marked area.</figcaption></figure>",
+            "<figure class=\"route-map\"><svg viewBox=\"3.0674973 -17.618793 120.89445 120.89444\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-113-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-113-bounds)\"><ellipse cx=\"64.5\" cy=\"4.5\" rx=\"8\" ry=\"8\"/><text x=\"64.5\" y=\"8.5\">1</text></g></g></svg><figcaption>THIRD CELL. Enter the marked area.</figcaption></figure>",
+            "<figure class=\"route-map\"><svg viewBox=\"-6.8320007 -32.892296 145.64319 151.01718\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-126-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJAAAABQCAYAAAD2rvwMAAAOo0lEQVR4Ae3AA6AkWZbG8f937o3IzKdyS2Oubdu2bdu2bdu2bWmMnpZKr54yMyLu+Xa3anqmhztr1U9cddW/HeJf8nI/Z/4t/uItxH+0l/s58x/tL95C/Fd6uZ8z/5X+4i3Efx7Ev+Tlfs78xVfwr/JyHwd/8RbiP9rL/Zz5i6/gP8zLfRz8xVuI/0ov93PmL76C/xIv93HwF28h/vMg/iUv93PmL76Cf5WX+zj4i7cQ/9Fe7ufMX3wF/2Fe7uPgL95C/Fd6uZ8zf/EV/Jd4uY+Dv3gL8Z8H8S95uZ8zf/EV/Ku83MfBX7yF+I/2cj9n/uIr+A/zch8Hf/EW4r/Sy/2c+Yuv4L/Ey30c/MVbiP88iH/Jy/2c+Yuv4F/l5T4O/uItxH+0l/s58xdfwX+Yl/s4+Iu3EP+VXu7nzF98Bf8lXu7j4C/eQvznQfxLXu7nzF98Bf8qL/dx8BdvIf6jvdzPmb/4Cv7DvNzHwV+8hfiv9HI/Z/7iK/gv8XIfB3/xFuI/D+Jf8nI/Z/7iK/hXebmPg794C/Ef7eV+zvzFV/Af5uU+Dv7iLcR/pZf7OfMXX8F/iZf7OPiLtxD/eRAAL/dz5oX5i6/gX+XlPo4X6i/eQvxbvNzPmb/4Cv7DvNzHwV+8hfiv9HI/Z/7iK/gv8XIfB3/xFuI/DwLg5X7O/MVX8F/i5T4O/uItxL/Fy/2c+Yuv4D/My30c/MVbiP9KL/dz5i++gv8SL/dx8BdvIf7zIABe7ufMX3wF/yVe7uPgL95C/Fu83M+Zv/gK/sO83MfBX7yF+K/0cj9n/uIr+C/xch8Hf/EW4j8PAuDlfs78xVfwX+LlPg7+4i3Ev8XL/Zz5i6/gP8zLfRz8xVuI/0ov93PmL76C/xIv93HwF28h/vMgAF7u58xffAX/JV7u4+Av3kL8W7zcz5m/+Ar+w7zcx8FfvIX4r/RyP2f+4iv4L/FyHwd/8RbiPw8C4OV+zvzFV/Bf4uU+Dv7iLcS/xcv9nPmLr+A/zMt9HPzFW4j/Si/3c+YvvoL/Ei/3cfAXbyH+8yAAXu7nzF98Bf8lXu7j4C/eQvxbvNzPmb/4Cv7DvNzHwV+8hfiv9HI/Z/7iK/gv8XIfB3/xFuI/DwLg5X7O/MVX8F/i5T4O/uItxL/Fy/2c+Yuv4D/My30c/y3+4iv4L/FyHwd/8RbiPw8C4OV+zvzFV/Bf4uU+Dv7iLcS/xcv9nPmLr+CqF9HLfRz8xVuI/zwIgJf7OfMXX8F/iZf7OPiLtxD/Fi/3c+YvvoKrXkQv93HwF28h/vMgAF7u58xffAX/JV7u4+Av3kL8W7zcz5m/+AquehG93MfBX7yF+M+DAHi5nzN/8RX8l3i5j4O/eAvxb/FyP2f+4iu46kX0ch8Hf/EW4j8PAuDlfs78xVfwX+LlPg7+4i3Ev8XL/Zz5i6/gqhfRy30c/MVbiP88CICX+znzF1/Bf4mX+zj4i7cQ/xYv93PmL76Cq15EL/dx8BdvIf7zIABe7ufMX3wF/yVe7uPgL95C/Fu83M+Zv/gKrnoRvdzHwV+8hfjPgwB4uZ8zf/EV/Jd4uY+Dv3gL8W/xcj9n/uIruOpF9HIfB3/xFuI/DwLg5X7O/MVX8F/i5T4O/uItxL/Fy/2c+Yuv4KoX0ct9HPzFW4j/PAiAl/s58xdfwX+Jl/s4+Iu3EP8WL/dz5i++gqteRC/3cfAXbyH+8yAAXu7nzF98Bf8lXu7j4C/eQvxbvNzPmb/4Cq56Eb3cx8FfvIX4z4MAeLmfM3/xFfyXeLmPg794C/Fv8XI/Z/7iK7jqRfRyHwd/8RbiPw8C4OV+zrwwf/EV/Ku83MfxQv3FW4h/i5f7OfPC/MVX8K/ych/Hf4u/+Ar+VV7u4/g3+4u3EP95EP+Sl/s58xdfwb/Ky30c/MVbiP9KL/dz5i++gn+Vl/s4+Iu3EP+VXu7nzF98Bf8qL/dx8BdvIf7nQfxLXu7nzF98Bf8qL/dx8BdvIf4rvdzPmb/4Cv5VXu7j4C/eQvxXermfM3/xFfyrvNzHwV+8hfifB/EvebmfM3/xFfyrvNzHwV+8hfiv9HI/Z/7iK/hXebmPg794C/Ff6eV+zvzFV/Cv8nIfB3/xFuJ/HsS/5OV+zvzFV/Cv8nIfB3/xFuK/0sv9nPmLr+Bf5eU+Dv7iLcR/pZf7OfMXX8G/yst9HPzFW4j/eRD/kpf7OfMXX8G/yst9HPzFW4j/Si/3c+YvvoJ/lZf7OPiLtxD/lV7u58xffAX/Ki/3cfAXbyH+50H8S17u58xffAX/Ki/3cfAXbyH+K73cz5m/+Ar+VV7u4+Av3kL8V3q5nzN/8RX8q7zcx8FfvIX4nwfxL3m5nzN/8RX8q7zcx8FfvIX4r/RyP2f+4iv4V3m5j4O/eAvxX+nlfs78xVfwr/JyHwd/8Rbifx7Ev+Tlfs78xVfwr/JyHwd/8Rbiv9LL/Zz5i6/gX+XlPg7+4i3Ef6WX+znzF1/Bv8rLfRz8xVuI/3kQ/5KX+znzF1/Bv8rLfRz8xVuI/0ov93PmL76Cf5WX+zj4i7cQ/5Ve7ufMX3wF/yov93HwF28h/udB/Ete7ufMX3wF/yov93HwF28h/iu93M+Zv/gK/lVe7uPgL95C/Fd6uZ8zf/EV/Ku83MfBX7yF+J8H8S95uZ8zf/EV/Ku83MfBX7yF+K/0cj9n/uIr+Fd5uY+Dv3gL8V/p5X7O/MVX8K/ych8Hf/EW4n8exL/k5X7O/MVX8K/ych8Hf/EW4r/Sy/2c+Yuv4F/l5T4O/uItxH+ll/s58xdfwb/Ky30c/MVbiP95EP+Sl/s58xdfwb/Ky30c/MVbiP9KL/dz5i++gn+Vl/s4+Iu3EP+VXu7nzF98Bf8qL/dx8BdvIf7nQfxLXu7nzF98Bf8qL/dx8BdvIf4rvdzPmb/4Cv5VXu7j4C/eQvxXermfM3/xFfyrvNzHwV+8hfifBwHwcj9nXpi/+Ar+VV7u4/hv8Rdfwb/Ky30cL9RfvIX4j/ZyP2f+4iv4V3m5j+M/xV+8hfj3QQC83M+Zv/gKrnqAl/s4+Iu3EP/RXu7nzF98Bf8qL/dxAPAXX8F/mJf7OPiLtxD/PgiAl/s58xdfwVUP8HIfB3/xFuI/2sv9nPmLr+Bf5eU+DgD+4iv4D/NyHwd/8Rbi3wcB8HI/Z/7iK7jqAV7u4+Av3kL8R3u5nzN/8RX8q7zcxwHAX3wF/2Fe7uPgL95C/PsgAF7u58xffAVXPcDLfRz8xVuI/2gv93PmL76Cf5WX+zgA+Iuv4D/My30c/MVbiH8fBMDL/Zz5i6/gqgd4uY+Dv3gL8R/t5X7O/MVX8K/ych8HAH/xFfyHebmPg794C/HvgwB4uZ8zf/EVXPUAL/dx8BdvIf6jvdzPmb/4Cv5VXu7jAOAvvoL/MC/3cfAXbyH+fRAAL/dz5i++gqse4OU+Dv7iLcR/tJf7OfMXX8G/yst9HAD8xVfwH+blPg7+4i3Evw8C4OV+zvzFV3DVA7zcx8FfvIX4j/ZyP2f+4iv4V3m5jwOAv/gK/sO83MfBX7yF+PdBALzcz5m/+AqueoCX+zj4i7cQ/9Fe7ufMX3wF/yov93EA8BdfwX+Yl/s4+Iu3EP8+CICX+znzF1/BVQ/wch8Hf/EW4j/ay/2c+Yuv4F/l5T4OAP7iK/gP83IfB3/xFuLfBwHwcj9n/uIruOoBXu7j4C/eQvxHe7mfM3/xFfyrvNzHAcBffAX/YV7u4+Av3kL8+yAAXu7nzF98BVc9wMt9HPzFW4j/aC/3c+YvvoJ/lZf7OAD4i6/gP8zLfRz8xVuIfx8EwMv9nPmLr+A/zMt9HP8t/uIr+A/zch8Hf/EW4j/ay/2c+Yuv4F/l5T4OAP7iK/gP83IfB3/xFuLfBwHwcj9n/uIr+A/zch8Hf/EW4r/Sy/2c+Yuv4D/My30c/MVbiP9oL/dz5i++gn+Vl/s4APiLr+A/zMt9HPzFW4h/HwTAy/2c+Yuv4D/My30c/MVbiP9KL/dz5i++gv8wL/dx8BdvIf6jvdzPmb/4Cv7bvdzHwV+8hfj3QQC83M+Zv/gK/sO83MfBX7yF+K/0cj9n/uIr+A/zch8Hf/EW4j/ay/2c+Yuv4L/dy30c/MVbiH8fBMDL/Zz5i6/gP8zLfRz8xVuI/0ov93PmL76C/zAv93HwF28h/qO93M+Zv/gK/tu93MfBX7yF+PdBALzcz5m/+Ar+w7zcx8FfvIX4r/RyP2f+4iv4D/NyHwd/8RbiP9rL/Zz5i6/gv93LfRz8xVuIfx8EwMv9nPmLr+A/zMt9HPzFW4j/Si/3c+YvvoL/MC/3cfAXbyH+o73cz5m/+Ar+273cx8FfvIX490EAvNzPmb/4Cv7DvNzHwV+8hfiv9HI/Z/7iK/gP83IfB3/xFuI/2sv9nPmLr+C/3ct9HPzFW4h/HwTAy/2c+Yuv4D/My30c/MVbiP9KL/dz5i++gv8wL/dx8BdvIf6jvdzPmb/4Cv7bvdzHwV+8hfj3QQC83M+Zv/gK/sO83MfBX7yF+K/0cj9n/uIr+A/zch8Hf/EW4j/ay/2c+Yuv4L/dy30c/MVbiH8fBMDL/Zz5i6/gP8zLfRz8xVuI/0ov93PmL76C/zAv93HwF28h/qO93M+Zv/gK/tu93MfBX7yF+PdBALzcz5m/+Ar+w7zcx8FfvIX4r/RyP2f+4iv4D/NyHwd/8RbiP9rL/Zz5i6/gv93LfRz8xVuIfx8EwMv9nPmLr+A/zMt9HPzFW4j/Si/3c+YvvoL/MC/3cfAXbyH+o73cz5m/+Ar+273cx8FfvIX490EAvNzPmb/4Cv7DvNzHwV+8hfiv9HI/Z/7iK/gP83IfB3/xFuI/2sv9nPmLr+C/3ct9HPzFW4h/HwTAy/2c+Y/2F28h/iu93M+Z/2h/8RbiP9rL/Zz5n+Iv3kL8+yCuuurfDnHVVf92iKuu+rdDXHXVvx3iqqv+7RBXXfVvh7jqqn87xFVX/dshrrrq345/BKpCpn6zss1nAAAAAElFTkSuQmCC\"/><g class=\"targets\" clip-path=\"url(#pq29-0-126-bounds)\"><ellipse cx=\"116.1\" cy=\"5.5\" rx=\"5\" ry=\"5\"/><text x=\"116.1\" y=\"9.5\">A</text></g></g></svg><figcaption>WATER DUCT. Stand at A and use Force.</figcaption></figure>"
           ],
           "requires_location_map": true
         },
@@ -8102,10 +7913,10 @@
       "sol_areas": [
         {
           "area_index": 0,
-          "floor": 2,
-          "stage": "pq29_0_2.gmk",
+          "room_name": "WATER DUCT",
+          "stage": "pq29_0_126.gmk",
           "minimap": {
-            "image": "minimaps/pq29_0_2.png",
+            "image": "minimaps/pq29_0_126.png",
             "width": 144,
             "height": 80,
             "origin_x": 0,
@@ -8115,15 +7926,15 @@
             {
               "kind": "gold_sol",
               "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 195.0,
-              "world_z": 135.0,
-              "radius": 30.0
+              "world_x": 573.0,
+              "world_z": 20.0,
+              "radius": 20.0
             }
           ]
         },
         {
           "area_index": 0,
-          "floor": 15,
+          "room_name": "KITCHEN",
           "stage": "pq29_0_15.gmk",
           "minimap": {
             "image": "minimaps/pq29_0_15.png",
@@ -8144,7 +7955,28 @@
         },
         {
           "area_index": 0,
-          "floor": 54,
+          "room_name": "DRUAGA'S GRAVE",
+          "stage": "pq29_0_2.gmk",
+          "minimap": {
+            "image": "minimaps/pq29_0_2.png",
+            "width": 144,
+            "height": 80,
+            "origin_x": 0,
+            "origin_z": 0
+          },
+          "locations": [
+            {
+              "kind": "gold_sol",
+              "player_action": "Use Force at the center of the selected ring.",
+              "world_x": 195.0,
+              "world_z": 135.0,
+              "radius": 30.0
+            }
+          ]
+        },
+        {
+          "area_index": 0,
+          "room_name": "TROPHY ROOM",
           "stage": "pq29_0_54.gmk",
           "minimap": {
             "image": "minimaps/pq29_0_54.png",
@@ -8165,7 +7997,7 @@
         },
         {
           "area_index": 0,
-          "floor": 84,
+          "room_name": "WEAPON STORAGE",
           "stage": "pq29_0_84.gmk",
           "minimap": {
             "image": "minimaps/pq29_0_84.png",
@@ -8186,7 +8018,7 @@
         },
         {
           "area_index": 0,
-          "floor": 85,
+          "room_name": "ARMOR STORAGE",
           "stage": "pq29_0_85.gmk",
           "minimap": {
             "image": "minimaps/pq29_0_85.png",
@@ -8207,7 +8039,7 @@
         },
         {
           "area_index": 0,
-          "floor": 86,
+          "room_name": "SHIELD STORAGE",
           "stage": "pq29_0_86.gmk",
           "minimap": {
             "image": "minimaps/pq29_0_86.png",
@@ -8228,7 +8060,7 @@
         },
         {
           "area_index": 0,
-          "floor": 87,
+          "room_name": "HELM STORAGE",
           "stage": "pq29_0_87.gmk",
           "minimap": {
             "image": "minimaps/pq29_0_87.png",
@@ -8249,7 +8081,7 @@
         },
         {
           "area_index": 0,
-          "floor": 89,
+          "room_name": "DEAD END",
           "stage": "pq29_0_89.gmk",
           "minimap": {
             "image": "minimaps/pq29_0_89.png",
@@ -8269,28 +8101,8 @@
           ]
         },
         {
-          "area_index": 0,
-          "floor": 126,
-          "stage": "pq29_0_126.gmk",
-          "minimap": {
-            "image": "minimaps/pq29_0_126.png",
-            "width": 144,
-            "height": 80,
-            "origin_x": 0,
-            "origin_z": 0
-          },
-          "locations": [
-            {
-              "kind": "gold_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 573.0,
-              "world_z": 20.0,
-              "radius": 20.0
-            }
-          ]
-        },
-        {
           "area_index": 5,
+          "room_name": "GATEKEEPER'S ROOM",
           "stage": "pq29_1_1.gmk",
           "minimap": {
             "image": "minimaps/pq29_1_1.png",
@@ -8332,6 +8144,7 @@
         },
         {
           "area_index": 5,
+          "room_name": "GATEKEEPER'S ROOM",
           "stage": "pq29_1_2.gmk",
           "minimap": {
             "image": "minimaps/pq29_1_2.png",
@@ -8373,6 +8186,7 @@
         },
         {
           "area_index": 5,
+          "room_name": "GATEKEEPER'S ROOM",
           "stage": "pq29_1_3.gmk",
           "minimap": {
             "image": "minimaps/pq29_1_3.png",
@@ -8414,6 +8228,7 @@
         },
         {
           "area_index": 5,
+          "room_name": "GATEKEEPER'S ROOM",
           "stage": "pq29_1_4.gmk",
           "minimap": {
             "image": "minimaps/pq29_1_4.png",
@@ -8441,6 +8256,7 @@
         },
         {
           "area_index": 5,
+          "room_name": "GATEKEEPER'S ROOM",
           "stage": "pq29_1_5.gmk",
           "minimap": {
             "image": "minimaps/pq29_1_5.png",
@@ -8482,6 +8298,7 @@
         },
         {
           "area_index": 5,
+          "room_name": "GATEKEEPER'S ROOM",
           "stage": "pq29_1_6.gmk",
           "minimap": {
             "image": "minimaps/pq29_1_6.png",
@@ -8523,6 +8340,7 @@
         },
         {
           "area_index": 5,
+          "room_name": "GATEKEEPER'S ROOM",
           "stage": "pq29_1_7.gmk",
           "minimap": {
             "image": "minimaps/pq29_1_7.png",
@@ -8564,6 +8382,7 @@
         },
         {
           "area_index": 5,
+          "room_name": "GATEKEEPER'S ROOM",
           "stage": "pq29_1_8.gmk",
           "minimap": {
             "image": "minimaps/pq29_1_8.png",
@@ -8591,6 +8410,7 @@
         },
         {
           "area_index": 5,
+          "room_name": "GATEKEEPER'S ROOM",
           "stage": "pq29_1_9.gmk",
           "minimap": {
             "image": "minimaps/pq29_1_9.png",
@@ -12955,7 +12775,7 @@
       "chests": [
         {
           "tier": "blue",
-          "player_action": "During the six-floor run, defeat the Super-named enemy on floors 1, 2, 3, and 5 before you leave each floor. Floors 4 and 6 do not count.",
+          "player_action": "During each six-floor run, defeat the Super-named enemy on the first, second, third, and fifth floors before you leave each floor. The fourth and sixth floors do not count.",
           "variants": [],
           "rewards": [
             {
@@ -13069,29 +12889,29 @@
         },
         {
           "tier": "silver",
-          "player_action": "On each non-boss floor, defeat every normal enemy before you take the key. Each player must meet this condition.",
+          "player_action": "During each six-floor run, defeat all normal enemies and all Super-named enemies on the first five floors before you take the key on each floor. The rare Gua'dlang Jha'rah and Blue Wisp do not count. Each player must meet this condition. The chest gives one random White accessory. If any party member carries ウツロの証, the special chest replaces this reward and does not give the Silver chest record.",
           "variants": [],
           "rewards": [
             {
-              "recipient": "Gilgamesh",
+              "recipient": "Random result",
               "type": "item",
               "item_id": 40776,
               "quantity": 1
             },
             {
-              "recipient": "Valkyrie",
+              "recipient": "Random result",
               "type": "item",
               "item_id": 40777,
               "quantity": 1
             },
             {
-              "recipient": "Young Ki",
+              "recipient": "Random result",
               "type": "item",
               "item_id": 40778,
               "quantity": 1
             },
             {
-              "recipient": "Xeovalga",
+              "recipient": "Random result",
               "type": "item",
               "item_id": 40779,
               "quantity": 1
@@ -13102,7 +12922,7 @@
         },
         {
           "tier": "gold",
-          "player_action": "For the normal Gold chest, clear 女神の凱旋, add ENTRANT HALL to your recorded rooms, and reach floor 60. If any party member carries ウツロの証, a separate chest also appears. It contains one random item from the separate chest rewards below.",
+          "player_action": "For the normal Gold chest, clear 女神の凱旋, add ENTRANT HALL to your recorded rooms, and reach floor 60. If any party member carries ウツロの証, the earlier Blue or Silver chest is replaced by one random Super Dark accessory. The floor-60 finale rewards remain separate.",
           "variants": [],
           "rewards": [
             {
@@ -13188,27 +13008,6 @@
               "world_x": 321.0,
               "world_z": 309.0,
               "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 610.0,
-              "world_z": 299.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 390.0,
-              "world_z": 19.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 112.0,
-              "world_z": 101.0,
-              "radius": 20.0
             }
           ]
         },
@@ -13241,27 +13040,6 @@
               "world_x": 321.0,
               "world_z": 309.0,
               "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 610.0,
-              "world_z": 299.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 390.0,
-              "world_z": 19.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 112.0,
-              "world_z": 101.0,
-              "radius": 20.0
             }
           ]
         },
@@ -13291,29 +13069,8 @@
             {
               "kind": "silver_sol",
               "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 321.0,
-              "world_z": 309.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
               "world_x": 610.0,
               "world_z": 299.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 390.0,
-              "world_z": 19.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 112.0,
-              "world_z": 101.0,
               "radius": 20.0
             }
           ]
@@ -13344,29 +13101,8 @@
             {
               "kind": "silver_sol",
               "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 321.0,
-              "world_z": 309.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
               "world_x": 610.0,
               "world_z": 299.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 390.0,
-              "world_z": 19.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 112.0,
-              "world_z": 101.0,
               "radius": 20.0
             }
           ]
@@ -13397,29 +13133,8 @@
             {
               "kind": "silver_sol",
               "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 321.0,
-              "world_z": 309.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
               "world_x": 610.0,
               "world_z": 299.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 390.0,
-              "world_z": 19.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 112.0,
-              "world_z": 101.0,
               "radius": 20.0
             }
           ]
@@ -13450,29 +13165,8 @@
             {
               "kind": "silver_sol",
               "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 321.0,
-              "world_z": 309.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 610.0,
-              "world_z": 299.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
               "world_x": 390.0,
               "world_z": 19.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 112.0,
-              "world_z": 101.0,
               "radius": 20.0
             }
           ]
@@ -13500,27 +13194,6 @@
             "origin_z": 0
           },
           "locations": [
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 321.0,
-              "world_z": 309.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 610.0,
-              "world_z": 299.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 390.0,
-              "world_z": 19.0,
-              "radius": 20.0
-            },
             {
               "kind": "silver_sol",
               "player_action": "Use Force at the center of the selected ring.",
@@ -13553,27 +13226,6 @@
             "origin_z": 0
           },
           "locations": [
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 321.0,
-              "world_z": 309.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 610.0,
-              "world_z": 299.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 390.0,
-              "world_z": 19.0,
-              "radius": 20.0
-            },
             {
               "kind": "silver_sol",
               "player_action": "Use Force at the center of the selected ring.",
@@ -13606,27 +13258,6 @@
             "origin_z": 0
           },
           "locations": [
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 321.0,
-              "world_z": 309.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 610.0,
-              "world_z": 299.0,
-              "radius": 20.0
-            },
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 390.0,
-              "world_z": 19.0,
-              "radius": 20.0
-            },
             {
               "kind": "silver_sol",
               "player_action": "Use Force at the center of the selected ring.",
@@ -16281,7 +15912,7 @@
       "chests": [
         {
           "tier": "blue",
-          "player_action": "On floor 84, 85, 86, 87, or 101, stand at the numbered location for that floor and use Force. If any party member carries ウツロの証, the treasury instead gives the special reward listed under Gold.",
+          "player_action": "In WEAPON STORAGE, ARMOR STORAGE, SHIELD STORAGE, HELM STORAGE, or HARNESS STORAGE, stand at the marked point and use Force. Use the diagram for that room. If any party member carries ウツロの証, the treasury instead gives the special reward listed under Gold.",
           "variants": [],
           "rewards": [
             {
@@ -16291,17 +15922,17 @@
             }
           ],
           "illustrations": [
-            "<figure class=\"route-map\"><svg viewBox=\"-11.781746 -32.468033 150.59293 150.59293\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-84-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-84-bounds)\"><ellipse cx=\"64.5\" cy=\"29.5\" rx=\"5\" ry=\"5\"/><text x=\"64.5\" y=\"33.5\">F</text></g></g></svg><figcaption>Floor 84. Stand at F and use Force.</figcaption></figure>",
-            "<figure class=\"route-map\"><svg viewBox=\"-11.781746 -32.468033 130.79395 150.59293\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-85-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-85-bounds)\"><ellipse cx=\"115.5\" cy=\"5.5\" rx=\"5\" ry=\"5\"/><text x=\"115.5\" y=\"9.5\">F</text></g></g></svg><figcaption>Floor 85. Stand at F and use Force.</figcaption></figure>",
-            "<figure class=\"route-map\"><svg viewBox=\"3.0674973 -17.618793 135.74368 135.74368\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-86-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-86-bounds)\"><ellipse cx=\"31.5\" cy=\"10.5\" rx=\"5\" ry=\"5\"/><text x=\"31.5\" y=\"14.5\">F</text></g></g></svg><figcaption>Floor 86. Stand at F and use Force.</figcaption></figure>",
-            "<figure class=\"route-map\"><svg viewBox=\"-11.781746 -32.468033 150.59293 150.59293\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-87-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-87-bounds)\"><ellipse cx=\"30.5\" cy=\"6.5\" rx=\"5\" ry=\"5\"/><text x=\"30.5\" y=\"10.5\">F</text></g></g></svg><figcaption>Floor 87. Stand at F and use Force.</figcaption></figure>",
-            "<figure class=\"route-map\"><svg viewBox=\"-11.781746 -32.468033 150.59293 150.59293\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-101-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-101-bounds)\"><ellipse cx=\"18.9\" cy=\"3.7\" rx=\"5\" ry=\"5\"/><text x=\"18.9\" y=\"7.7\">F</text></g></g></svg><figcaption>Floor 101. Stand at F and use Force.</figcaption></figure>"
+            "<figure class=\"route-map\"><svg viewBox=\"-11.781746 -32.468033 150.59293 150.59293\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-84-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-84-bounds)\"><ellipse cx=\"64.5\" cy=\"29.5\" rx=\"5\" ry=\"5\"/><text x=\"64.5\" y=\"33.5\">F</text></g></g></svg><figcaption>WEAPON STORAGE. Stand at F and use Force.</figcaption></figure>",
+            "<figure class=\"route-map\"><svg viewBox=\"-11.781746 -32.468033 130.79395 150.59293\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-85-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-85-bounds)\"><ellipse cx=\"115.5\" cy=\"5.5\" rx=\"5\" ry=\"5\"/><text x=\"115.5\" y=\"9.5\">F</text></g></g></svg><figcaption>ARMOR STORAGE. Stand at F and use Force.</figcaption></figure>",
+            "<figure class=\"route-map\"><svg viewBox=\"3.0674973 -17.618793 135.74368 135.74368\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-86-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-86-bounds)\"><ellipse cx=\"31.5\" cy=\"10.5\" rx=\"5\" ry=\"5\"/><text x=\"31.5\" y=\"14.5\">F</text></g></g></svg><figcaption>SHIELD STORAGE. Stand at F and use Force.</figcaption></figure>",
+            "<figure class=\"route-map\"><svg viewBox=\"-11.781746 -32.468033 150.59293 150.59293\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-87-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-87-bounds)\"><ellipse cx=\"30.5\" cy=\"6.5\" rx=\"5\" ry=\"5\"/><text x=\"30.5\" y=\"10.5\">F</text></g></g></svg><figcaption>HELM STORAGE. Stand at F and use Force.</figcaption></figure>",
+            "<figure class=\"route-map\"><svg viewBox=\"-11.781746 -32.468033 150.59293 150.59293\" role=\"img\" aria-label=\"Game minimap with required areas marked\"><defs><clipPath id=\"pq29-0-101-bounds\"><rect width=\"144\" height=\"80\"/></clipPath></defs><g transform=\"rotate(-45 72 40)\"><image width=\"144\" height=\"80\" href=\"data:image/png;base64,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\"/><g class=\"targets\" clip-path=\"url(#pq29-0-101-bounds)\"><ellipse cx=\"18.9\" cy=\"3.7\" rx=\"5\" ry=\"5\"/><text x=\"18.9\" y=\"7.7\">F</text></g></g></svg><figcaption>HARNESS STORAGE. Stand at F and use Force.</figcaption></figure>"
           ],
           "requires_location_map": true
         },
         {
           "tier": "red",
-          "player_action": "Reach floor 127, ENTRANT HALL. Complete your own quest progression to receive the finale rewards. The finale gives three Red chests: one equipment chest and two material chests. Each material chest contains one copy of your character's material.",
+          "player_action": "Complete your own quest progression through the run that starts at floor 121. Finish the quest to receive the finale rewards. The finale gives three Red chests: one equipment chest and two material chests. Each material chest contains one copy of your character's material.",
           "variants": [],
           "rewards": [
             {
@@ -16358,7 +15989,7 @@
         },
         {
           "tier": "silver",
-          "player_action": "Complete all seven floors in the quest and enter the treasury. If any party member carries ウツロの証, the treasury instead gives the special reward listed under Gold.",
+          "player_action": "Reach ENTRANT HALL as the sixth area and finish the quest. This route requires you or another party member to have reached the final progression run, which starts at floor 121 for that player. If any party member carries ウツロの証, the treasury instead gives the special reward listed under Gold.",
           "variants": [],
           "rewards": [
             {
@@ -16443,7 +16074,28 @@
       "sol_areas": [
         {
           "area_index": 0,
-          "floor": 54,
+          "room_name": "HARNESS STORAGE",
+          "stage": "pq29_0_101.gmk",
+          "minimap": {
+            "image": "minimaps/pq29_0_101.png",
+            "width": 144,
+            "height": 80,
+            "origin_x": 0,
+            "origin_z": 0
+          },
+          "locations": [
+            {
+              "kind": "silver_sol",
+              "player_action": "Use Force at the center of the selected ring.",
+              "world_x": 87.0,
+              "world_z": 11.0,
+              "radius": 20.0
+            }
+          ]
+        },
+        {
+          "area_index": 0,
+          "room_name": "TROPHY ROOM",
           "stage": "pq29_0_54.gmk",
           "minimap": {
             "image": "minimaps/pq29_0_54.png",
@@ -16464,7 +16116,7 @@
         },
         {
           "area_index": 0,
-          "floor": 84,
+          "room_name": "WEAPON STORAGE",
           "stage": "pq29_0_84.gmk",
           "minimap": {
             "image": "minimaps/pq29_0_84.png",
@@ -16485,7 +16137,7 @@
         },
         {
           "area_index": 0,
-          "floor": 85,
+          "room_name": "ARMOR STORAGE",
           "stage": "pq29_0_85.gmk",
           "minimap": {
             "image": "minimaps/pq29_0_85.png",
@@ -16506,7 +16158,7 @@
         },
         {
           "area_index": 0,
-          "floor": 86,
+          "room_name": "SHIELD STORAGE",
           "stage": "pq29_0_86.gmk",
           "minimap": {
             "image": "minimaps/pq29_0_86.png",
@@ -16527,7 +16179,7 @@
         },
         {
           "area_index": 0,
-          "floor": 87,
+          "room_name": "HELM STORAGE",
           "stage": "pq29_0_87.gmk",
           "minimap": {
             "image": "minimaps/pq29_0_87.png",
@@ -16542,27 +16194,6 @@
               "player_action": "Use Force at the center of the selected ring.",
               "world_x": 145.0,
               "world_z": 25.0,
-              "radius": 20.0
-            }
-          ]
-        },
-        {
-          "area_index": 0,
-          "floor": 101,
-          "stage": "pq29_0_101.gmk",
-          "minimap": {
-            "image": "minimaps/pq29_0_101.png",
-            "width": 144,
-            "height": 80,
-            "origin_x": 0,
-            "origin_z": 0
-          },
-          "locations": [
-            {
-              "kind": "silver_sol",
-              "player_action": "Use Force at the center of the selected ring.",
-              "world_x": 87.0,
-              "world_z": 11.0,
               "radius": 20.0
             }
           ]
@@ -18441,6 +18072,7 @@
       "sol_areas": [
         {
           "area_index": 0,
+          "room_name": "HARNESS STORAGE",
           "stage": "pq65_0_101.gmk",
           "minimap": {
             "image": "minimaps/pq65_0_101.png",
@@ -18461,6 +18093,7 @@
         },
         {
           "area_index": 0,
+          "room_name": "TROPHY ROOM",
           "stage": "pq65_0_54.gmk",
           "minimap": {
             "image": "minimaps/pq65_0_54.png",
@@ -18481,6 +18114,7 @@
         },
         {
           "area_index": 0,
+          "room_name": "WEAPON STORAGE",
           "stage": "pq65_0_84.gmk",
           "minimap": {
             "image": "minimaps/pq65_0_84.png",
@@ -18501,6 +18135,7 @@
         },
         {
           "area_index": 0,
+          "room_name": "ARMOR STORAGE",
           "stage": "pq65_0_85.gmk",
           "minimap": {
             "image": "minimaps/pq65_0_85.png",
@@ -18521,6 +18156,7 @@
         },
         {
           "area_index": 0,
+          "room_name": "SHIELD STORAGE",
           "stage": "pq65_0_86.gmk",
           "minimap": {
             "image": "minimaps/pq65_0_86.png",
@@ -18541,6 +18177,7 @@
         },
         {
           "area_index": 0,
+          "room_name": "HELM STORAGE",
           "stage": "pq65_0_87.gmk",
           "minimap": {
             "image": "minimaps/pq65_0_87.png",
@@ -18862,6 +18499,7 @@
       "sol_areas": [
         {
           "area_index": 0,
+          "room_name": "HARNESS STORAGE",
           "stage": "pq65_0_101.gmk",
           "minimap": {
             "image": "minimaps/pq65_0_101.png",
@@ -18882,6 +18520,7 @@
         },
         {
           "area_index": 0,
+          "room_name": "TROPHY ROOM",
           "stage": "pq65_0_54.gmk",
           "minimap": {
             "image": "minimaps/pq65_0_54.png",
@@ -18902,6 +18541,7 @@
         },
         {
           "area_index": 0,
+          "room_name": "WEAPON STORAGE",
           "stage": "pq65_0_84.gmk",
           "minimap": {
             "image": "minimaps/pq65_0_84.png",
@@ -18922,6 +18562,7 @@
         },
         {
           "area_index": 0,
+          "room_name": "ARMOR STORAGE",
           "stage": "pq65_0_85.gmk",
           "minimap": {
             "image": "minimaps/pq65_0_85.png",
@@ -18942,6 +18583,7 @@
         },
         {
           "area_index": 0,
+          "room_name": "SHIELD STORAGE",
           "stage": "pq65_0_86.gmk",
           "minimap": {
             "image": "minimaps/pq65_0_86.png",
@@ -18962,6 +18604,7 @@
         },
         {
           "area_index": 0,
+          "room_name": "HELM STORAGE",
           "stage": "pq65_0_87.gmk",
           "minimap": {
             "image": "minimaps/pq65_0_87.png",

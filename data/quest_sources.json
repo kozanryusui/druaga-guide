@@ -7233,7 +7233,7 @@
           ],
           "maps": [
             {
-              "label": "Gold Sol: required points",
+              "label": "SHRINE OF EVIL: Gold Sol: required points",
               "minimap": {
                 "image": "minimaps/pq29_0_41.png",
                 "width": 144,
@@ -7262,7 +7262,7 @@
           ],
           "maps": [
             {
-              "label": "Gold Sol: required points",
+              "label": "MUSEUM: Gold Sol: required points",
               "minimap": {
                 "image": "minimaps/pq29_0_60.png",
                 "width": 144,
@@ -7291,7 +7291,7 @@
           ],
           "maps": [
             {
-              "label": "Gold Sol: required points",
+              "label": "THIRD CELL: Gold Sol: required points",
               "minimap": {
                 "image": "minimaps/pq29_0_113.png",
                 "width": 144,
@@ -7581,7 +7581,7 @@
           ],
           "maps": [
             {
-              "label": "Room-entry box",
+              "label": "FORGOTTEN ROOM: Room-entry box",
               "minimap": {
                 "image": "minimaps/pq29_0_53.png",
                 "width": 144,
@@ -7813,7 +7813,7 @@
           ],
           "maps": [
             {
-              "label": "Room-entry box",
+              "label": "HARNESS STORAGE: Room-entry box",
               "minimap": {
                 "image": "minimaps/pq29_0_101.png",
                 "width": 144,
@@ -8868,7 +8868,7 @@
           ],
           "maps": [
             {
-              "label": "Gold Sol: required points",
+              "label": "MUSEUM: Gold Sol: required points",
               "minimap": {
                 "image": "minimaps/pq60_0_60.png",
                 "width": 144,
@@ -9083,7 +9083,7 @@
           ],
           "maps": [
             {
-              "label": "Room-entry box",
+              "label": "FORGOTTEN ROOM: Room-entry box",
               "minimap": {
                 "image": "minimaps/pq29_0_53.png",
                 "width": 144,
@@ -9720,7 +9720,7 @@
           ],
           "maps": [
             {
-              "label": "Gold Sol: required points",
+              "label": "MUSEUM: Gold Sol: required points",
               "minimap": {
                 "image": "minimaps/pq65_0_60.png",
                 "width": 144,
@@ -9935,7 +9935,7 @@
           ],
           "maps": [
             {
-              "label": "Room-entry box",
+              "label": "FORGOTTEN ROOM: Room-entry box",
               "minimap": {
                 "image": "minimaps/pq65_0_53.png",
                 "width": 144,
@@ -10372,7 +10372,7 @@
           ],
           "maps": [
             {
-              "label": "Gold Sol: required points",
+              "label": "MUSEUM: Gold Sol: required points",
               "minimap": {
                 "image": "minimaps/pq65_0_60.png",
                 "width": 144,
@@ -10587,7 +10587,7 @@
           ],
           "maps": [
             {
-              "label": "Room-entry box",
+              "label": "FORGOTTEN ROOM: Room-entry box",
               "minimap": {
                 "image": "minimaps/pq65_0_53.png",
                 "width": 144,
