@@ -5238,42 +5238,42 @@
       "direct_reward_sources": [
         {
           "pool_id": "crown_result_0_9",
-          "acquisition": "0 through 9 total records. Count the distinct Silver records plus the distinct Gold records for the first 64 quest record entries. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "0 through 9 chest points. Earn one point for opening Silver and one for opening Gold in each of the first 64 quests in the guide, from 零下３０度の罠 through 追憶（ついおく）. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         },
         {
           "pool_id": "crown_result_10_19",
-          "acquisition": "10 through 19 total records. Count the distinct Silver records plus the distinct Gold records for the first 64 quest record entries. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "10 through 19 chest points. Earn one point for opening Silver and one for opening Gold in each of the first 64 quests in the guide, from 零下３０度の罠 through 追憶（ついおく）. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         },
         {
           "pool_id": "crown_result_20_39",
-          "acquisition": "20 through 39 total records. Count the distinct Silver records plus the distinct Gold records for the first 64 quest record entries. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "20 through 39 chest points. Earn one point for opening Silver and one for opening Gold in each of the first 64 quests in the guide, from 零下３０度の罠 through 追憶（ついおく）. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         },
         {
           "pool_id": "crown_result_40_59",
-          "acquisition": "40 through 59 total records. Count the distinct Silver records plus the distinct Gold records for the first 64 quest record entries. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "40 through 59 chest points. Earn one point for opening Silver and one for opening Gold in each of the first 64 quests in the guide, from 零下３０度の罠 through 追憶（ついおく）. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         },
         {
           "pool_id": "crown_result_60_79",
-          "acquisition": "60 through 79 total records. Count the distinct Silver records plus the distinct Gold records for the first 64 quest record entries. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "60 through 79 chest points. Earn one point for opening Silver and one for opening Gold in each of the first 64 quests in the guide, from 零下３０度の罠 through 追憶（ついおく）. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         },
         {
           "pool_id": "crown_result_80_99",
-          "acquisition": "80 through 99 total records. Count the distinct Silver records plus the distinct Gold records for the first 64 quest record entries. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "80 through 99 chest points. Earn one point for opening Silver and one for opening Gold in each of the first 64 quests in the guide, from 零下３０度の罠 through 追憶（ついおく）. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         },
         {
           "pool_id": "crown_result_100_127",
-          "acquisition": "100 through 127 total records. Count the distinct Silver records plus the distinct Gold records for the first 64 quest record entries. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "100 through 127 chest points. Earn one point for opening Silver and one for opening Gold in each of the first 64 quests in the guide, from 零下３０度の罠 through 追憶（ついおく）. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         },
         {
           "pool_id": "crown_result_128_128",
-          "acquisition": "128 total records. Count the distinct Silver records plus the distinct Gold records for the first 64 quest record entries. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "128 chest points. Earn one point for opening Silver and one for opening Gold in each of the first 64 quests in the guide, from 零下３０度の罠 through 追憶（ついおく）. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         }
       ]
@@ -5335,42 +5335,42 @@
       "direct_reward_sources": [
         {
           "pool_id": "crown_result_0_9",
-          "acquisition": "0 through 9 total records. Count the distinct Silver records plus the distinct Gold records for the first 64 quest record entries. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "0 through 9 chest points. Earn one point for opening Silver and one for opening Gold in each of the first 64 quests in the guide, from 零下３０度の罠 through 追憶（ついおく）. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         },
         {
           "pool_id": "crown_result_10_19",
-          "acquisition": "10 through 19 total records. Count the distinct Silver records plus the distinct Gold records for the first 64 quest record entries. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "10 through 19 chest points. Earn one point for opening Silver and one for opening Gold in each of the first 64 quests in the guide, from 零下３０度の罠 through 追憶（ついおく）. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         },
         {
           "pool_id": "crown_result_20_39",
-          "acquisition": "20 through 39 total records. Count the distinct Silver records plus the distinct Gold records for the first 64 quest record entries. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "20 through 39 chest points. Earn one point for opening Silver and one for opening Gold in each of the first 64 quests in the guide, from 零下３０度の罠 through 追憶（ついおく）. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         },
         {
           "pool_id": "crown_result_40_59",
-          "acquisition": "40 through 59 total records. Count the distinct Silver records plus the distinct Gold records for the first 64 quest record entries. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "40 through 59 chest points. Earn one point for opening Silver and one for opening Gold in each of the first 64 quests in the guide, from 零下３０度の罠 through 追憶（ついおく）. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         },
         {
           "pool_id": "crown_result_60_79",
-          "acquisition": "60 through 79 total records. Count the distinct Silver records plus the distinct Gold records for the first 64 quest record entries. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "60 through 79 chest points. Earn one point for opening Silver and one for opening Gold in each of the first 64 quests in the guide, from 零下３０度の罠 through 追憶（ついおく）. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         },
         {
           "pool_id": "crown_result_80_99",
-          "acquisition": "80 through 99 total records. Count the distinct Silver records plus the distinct Gold records for the first 64 quest record entries. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "80 through 99 chest points. Earn one point for opening Silver and one for opening Gold in each of the first 64 quests in the guide, from 零下３０度の罠 through 追憶（ついおく）. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         },
         {
           "pool_id": "crown_result_100_127",
-          "acquisition": "100 through 127 total records. Count the distinct Silver records plus the distinct Gold records for the first 64 quest record entries. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "100 through 127 chest points. Earn one point for opening Silver and one for opening Gold in each of the first 64 quests in the guide, from 零下３０度の罠 through 追憶（ついおく）. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         },
         {
           "pool_id": "crown_result_128_128",
-          "acquisition": "128 total records. Count the distinct Silver records plus the distinct Gold records for the first 64 quest record entries. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "128 chest points. Earn one point for opening Silver and one for opening Gold in each of the first 64 quests in the guide, from 零下３０度の罠 through 追憶（ついおく）. Each color counts once per quest. Repeated openings do not add points. The maximum is 128. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         }
       ]
@@ -6103,22 +6103,22 @@
       "direct_reward_sources": [
         {
           "pool_id": "short_crown_result_0_2",
-          "acquisition": "0 through 2 total records. Count the distinct cleared subtitles from 財宝を求めて and 試練の旅, up to 18 and 27 respectively. Each subtitle counts once. Chest colors do not affect this count. The maximum is 45. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "0 through 2 different quest subtitles completed. Count the distinct cleared subtitles from 財宝を求めて and 試練の旅, up to 18 and 27 respectively. Each subtitle counts once. Chest colors do not affect this count. The maximum is 45. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         },
         {
           "pool_id": "short_crown_result_3_35",
-          "acquisition": "3 through 35 total records. Count the distinct cleared subtitles from 財宝を求めて and 試練の旅, up to 18 and 27 respectively. Each subtitle counts once. Chest colors do not affect this count. The maximum is 45. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "3 through 35 different quest subtitles completed. Count the distinct cleared subtitles from 財宝を求めて and 試練の旅, up to 18 and 27 respectively. Each subtitle counts once. Chest colors do not affect this count. The maximum is 45. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         },
         {
           "pool_id": "short_crown_result_36_44",
-          "acquisition": "36 through 44 total records. Count the distinct cleared subtitles from 財宝を求めて and 試練の旅, up to 18 and 27 respectively. Each subtitle counts once. Chest colors do not affect this count. The maximum is 45. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "36 through 44 different quest subtitles completed. Count the distinct cleared subtitles from 財宝を求めて and 試練の旅, up to 18 and 27 respectively. Each subtitle counts once. Chest colors do not affect this count. The maximum is 45. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         },
         {
           "pool_id": "short_crown_result_45_45",
-          "acquisition": "45 total records. Count the distinct cleared subtitles from 財宝を求めて and 試練の旅, up to 18 and 27 respectively. Each subtitle counts once. Chest colors do not affect this count. The maximum is 45. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "45 different quest subtitles completed. Count the distinct cleared subtitles from 財宝を求めて and 試練の旅, up to 18 and 27 respectively. Each subtitle counts once. Chest colors do not affect this count. The maximum is 45. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         }
       ]
@@ -6180,22 +6180,22 @@
       "direct_reward_sources": [
         {
           "pool_id": "short_crown_result_0_2",
-          "acquisition": "0 through 2 total records. Count the distinct cleared subtitles from 財宝を求めて and 試練の旅, up to 18 and 27 respectively. Each subtitle counts once. Chest colors do not affect this count. The maximum is 45. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "0 through 2 different quest subtitles completed. Count the distinct cleared subtitles from 財宝を求めて and 試練の旅, up to 18 and 27 respectively. Each subtitle counts once. Chest colors do not affect this count. The maximum is 45. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         },
         {
           "pool_id": "short_crown_result_3_35",
-          "acquisition": "3 through 35 total records. Count the distinct cleared subtitles from 財宝を求めて and 試練の旅, up to 18 and 27 respectively. Each subtitle counts once. Chest colors do not affect this count. The maximum is 45. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "3 through 35 different quest subtitles completed. Count the distinct cleared subtitles from 財宝を求めて and 試練の旅, up to 18 and 27 respectively. Each subtitle counts once. Chest colors do not affect this count. The maximum is 45. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         },
         {
           "pool_id": "short_crown_result_36_44",
-          "acquisition": "36 through 44 total records. Count the distinct cleared subtitles from 財宝を求めて and 試練の旅, up to 18 and 27 respectively. Each subtitle counts once. Chest colors do not affect this count. The maximum is 45. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "36 through 44 different quest subtitles completed. Count the distinct cleared subtitles from 財宝を求めて and 試練の旅, up to 18 and 27 respectively. Each subtitle counts once. Chest colors do not affect this count. The maximum is 45. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         },
         {
           "pool_id": "short_crown_result_45_45",
-          "acquisition": "45 total records. Count the distinct cleared subtitles from 財宝を求めて and 試練の旅, up to 18 and 27 respectively. Each subtitle counts once. Chest colors do not affect this count. The maximum is 45. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
+          "acquisition": "45 different quest subtitles completed. Count the distinct cleared subtitles from 財宝を求めて and 試練の旅, up to 18 and 27 respectively. Each subtitle counts once. Chest colors do not affect this count. The maximum is 45. Receive one random item in the reward scene before the normal completion chest. Only the items in this row are available at this total.",
           "repeatability": "One random item per clear, in addition to any normal completion chest."
         }
       ]

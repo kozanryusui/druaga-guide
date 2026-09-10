@@ -8347,9 +8347,9 @@
           "value": 0,
           "label": "F-"
         },
-        "attack": 8,
+        "attack": 10,
         "defense": null,
-        "weight": 10,
+        "weight": 20,
         "effects": []
       }
     },
@@ -8378,9 +8378,9 @@
           "value": 0,
           "label": "F-"
         },
-        "attack": 10,
+        "attack": 12,
         "defense": null,
-        "weight": 12,
+        "weight": 21,
         "effects": []
       }
     },
@@ -8409,9 +8409,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 12,
+        "attack": 16,
         "defense": null,
-        "weight": 16,
+        "weight": 25,
         "effects": []
       }
     },
@@ -8440,9 +8440,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 15,
+        "attack": 17,
         "defense": null,
-        "weight": 17,
+        "weight": 25,
         "effects": []
       }
     },
@@ -8471,9 +8471,9 @@
           "value": 0,
           "label": "F-"
         },
-        "attack": 11,
+        "attack": 12,
         "defense": null,
-        "weight": 12,
+        "weight": 27,
         "effects": []
       }
     },
@@ -8502,9 +8502,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 20,
+        "attack": 21,
         "defense": null,
-        "weight": 21,
+        "weight": 25,
         "effects": [
           {
             "type": "damage",
@@ -8538,9 +8538,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 12,
+        "attack": 14,
         "defense": null,
-        "weight": 14,
+        "weight": 24,
         "effects": []
       }
     },
@@ -8569,9 +8569,9 @@
           "value": 17,
           "label": "A+"
         },
-        "attack": 24,
+        "attack": 26,
         "defense": null,
-        "weight": 26,
+        "weight": 22,
         "effects": [
           {
             "type": "maximum_hp",
@@ -8611,7 +8611,7 @@
         },
         "attack": 21,
         "defense": null,
-        "weight": 21,
+        "weight": 19,
         "effects": [
           {
             "type": "ability_strength",
@@ -8649,9 +8649,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 21,
+        "attack": 23,
         "defense": null,
-        "weight": 23,
+        "weight": 18,
         "effects": [
           {
             "type": "damage",
@@ -8689,9 +8689,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 25,
+        "attack": 27,
         "defense": null,
-        "weight": 27,
+        "weight": 28,
         "effects": [
           {
             "type": "maximum_hp",
@@ -8729,9 +8729,9 @@
           "value": 0,
           "label": "F-"
         },
-        "attack": 10,
+        "attack": 15,
         "defense": null,
-        "weight": 15,
+        "weight": 25,
         "effects": []
       }
     },
@@ -8760,9 +8760,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 11,
+        "attack": 13,
         "defense": null,
-        "weight": 13,
+        "weight": 20,
         "effects": []
       }
     },
@@ -8791,9 +8791,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 14,
+        "attack": 16,
         "defense": null,
-        "weight": 16,
+        "weight": 20,
         "effects": []
       }
     },
@@ -8822,9 +8822,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 20,
+        "attack": 22,
         "defense": null,
-        "weight": 22,
+        "weight": 20,
         "effects": []
       }
     },
@@ -8853,9 +8853,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 22,
+        "attack": 24,
         "defense": null,
-        "weight": 24,
+        "weight": 20,
         "effects": []
       }
     },
@@ -8884,9 +8884,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 24,
+        "attack": 26,
         "defense": null,
-        "weight": 26,
+        "weight": 20,
         "effects": []
       }
     },
@@ -8917,7 +8917,7 @@
         },
         "attack": 20,
         "defense": null,
-        "weight": 20,
+        "weight": 22,
         "effects": [
           {
             "type": "agility",
@@ -8959,9 +8959,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 7,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 20,
         "effects": []
       }
     },
@@ -8990,9 +8990,9 @@
           "value": 16,
           "label": "A"
         },
-        "attack": 26,
+        "attack": 28,
         "defense": null,
-        "weight": 28,
+        "weight": 20,
         "effects": [
           {
             "type": "strength",
@@ -9046,9 +9046,9 @@
           "value": 23,
           "label": "SS+"
         },
-        "attack": 26,
+        "attack": 28,
         "defense": null,
-        "weight": 28,
+        "weight": 19,
         "effects": [
           {
             "type": "accuracy_percent",
@@ -9086,9 +9086,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 13,
+        "attack": 17,
         "defense": null,
-        "weight": 17,
+        "weight": 35,
         "effects": [
           {
             "type": "vitality",
@@ -9122,9 +9122,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 18,
+        "attack": 21,
         "defense": null,
-        "weight": 21,
+        "weight": 35,
         "effects": [
           {
             "type": "attack_power",
@@ -9166,9 +9166,9 @@
           "value": 10,
           "label": "C"
         },
-        "attack": 21,
+        "attack": 25,
         "defense": null,
-        "weight": 25,
+        "weight": 28,
         "effects": [
           {
             "type": "critical_rate_percent",
@@ -9202,9 +9202,9 @@
           "value": 5,
           "label": "E+"
         },
-        "attack": 14,
+        "attack": 16,
         "defense": null,
-        "weight": 16,
+        "weight": 20,
         "effects": [
           {
             "type": "dexterity",
@@ -9334,9 +9334,9 @@
           "value": 21,
           "label": "SS-"
         },
-        "attack": 24,
+        "attack": 25,
         "defense": null,
-        "weight": 25,
+        "weight": 21,
         "effects": [
           {
             "type": "enemy_family_advantage",
@@ -9370,9 +9370,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 18,
+        "attack": 19,
         "defense": null,
-        "weight": 19,
+        "weight": 35,
         "effects": [
           {
             "type": "ability_level",
@@ -9407,9 +9407,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 13,
+        "attack": 14,
         "defense": null,
-        "weight": 14,
+        "weight": 27,
         "effects": []
       }
     },
@@ -9438,9 +9438,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 16,
+        "attack": 18,
         "defense": null,
-        "weight": 18,
+        "weight": 27,
         "effects": [
           {
             "type": "strength",
@@ -9478,9 +9478,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 17,
+        "attack": 19,
         "defense": null,
-        "weight": 19,
+        "weight": 25,
         "effects": [
           {
             "type": "strength",
@@ -9518,9 +9518,9 @@
           "value": 13,
           "label": "B"
         },
-        "attack": 25,
+        "attack": 26,
         "defense": null,
-        "weight": 26,
+        "weight": 25,
         "effects": [
           {
             "type": "critical_rate_percent",
@@ -9566,9 +9566,9 @@
           "value": 22,
           "label": "SS"
         },
-        "attack": 26,
+        "attack": 29,
         "defense": null,
-        "weight": 29,
+        "weight": 28,
         "effects": [
           {
             "type": "physical_defense",
@@ -9606,9 +9606,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 22,
+        "attack": 24,
         "defense": null,
-        "weight": 24,
+        "weight": 25,
         "effects": [
           {
             "type": "ability_level",
@@ -9651,9 +9651,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 20,
+        "attack": 22,
         "defense": null,
-        "weight": 22,
+        "weight": 20,
         "effects": [
           {
             "type": "dexterity",
@@ -9691,7 +9691,7 @@
           "value": 21,
           "label": "SS-"
         },
-        "attack": 27,
+        "attack": 28,
         "defense": null,
         "weight": 28,
         "effects": [
@@ -9735,9 +9735,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 15,
+        "attack": 16,
         "defense": null,
-        "weight": 16,
+        "weight": 15,
         "effects": []
       }
     },
@@ -9766,9 +9766,9 @@
           "value": 7,
           "label": "D"
         },
-        "attack": 19,
+        "attack": 20,
         "defense": null,
-        "weight": 20,
+        "weight": 19,
         "effects": [
           {
             "type": "magic_defense",
@@ -9806,9 +9806,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 21,
+        "attack": 22,
         "defense": null,
-        "weight": 22,
+        "weight": 20,
         "effects": [
           {
             "type": "vitality",
@@ -9847,9 +9847,9 @@
           "value": 20,
           "label": "S+"
         },
-        "attack": 27,
+        "attack": 28,
         "defense": null,
-        "weight": 28,
+        "weight": 30,
         "effects": [
           {
             "type": "spirit",
@@ -9887,9 +9887,9 @@
           "value": 0,
           "label": "F-"
         },
-        "attack": 10,
+        "attack": 11,
         "defense": null,
-        "weight": 11,
+        "weight": 30,
         "effects": []
       }
     },
@@ -9918,9 +9918,9 @@
           "value": 8,
           "label": "D+"
         },
-        "attack": 19,
+        "attack": 22,
         "defense": null,
-        "weight": 22,
+        "weight": 19,
         "effects": [
           {
             "type": "maximum_hp",
@@ -9960,7 +9960,7 @@
         },
         "attack": 29,
         "defense": null,
-        "weight": 29,
+        "weight": 19,
         "effects": [
           {
             "type": "dexterity",
@@ -9994,7 +9994,7 @@
           "value": 24,
           "label": "SSS-"
         },
-        "attack": 26,
+        "attack": 29,
         "defense": null,
         "weight": 29,
         "effects": [
@@ -10038,9 +10038,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 14,
+        "attack": 18,
         "defense": null,
-        "weight": 18,
+        "weight": 25,
         "effects": []
       }
     },
@@ -10069,9 +10069,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 17,
+        "attack": 21,
         "defense": null,
-        "weight": 21,
+        "weight": 30,
         "effects": []
       }
     },
@@ -10100,9 +10100,9 @@
           "value": 25,
           "label": "SSS"
         },
-        "attack": 27,
+        "attack": 29,
         "defense": null,
-        "weight": 29,
+        "weight": 19,
         "effects": [
           {
             "type": "critical_rate_percent",
@@ -10144,9 +10144,9 @@
           "value": 28,
           "label": "SSSS"
         },
-        "attack": 28,
+        "attack": 30,
         "defense": null,
-        "weight": 30,
+        "weight": 24,
         "effects": [
           {
             "type": "ability_level",
@@ -10184,9 +10184,9 @@
           "value": 29,
           "label": "SSSS+"
         },
-        "attack": 30,
+        "attack": 31,
         "defense": null,
-        "weight": 31,
+        "weight": 25,
         "effects": [
           {
             "type": "vitality",
@@ -10228,9 +10228,9 @@
           "value": 30,
           "label": "EX-"
         },
-        "attack": 29,
+        "attack": 32,
         "defense": null,
-        "weight": 32,
+        "weight": 19,
         "effects": [
           {
             "type": "damage",
@@ -10268,9 +10268,9 @@
           "value": 31,
           "label": "EX"
         },
-        "attack": 30,
+        "attack": 33,
         "defense": null,
-        "weight": 33,
+        "weight": 25,
         "effects": [
           {
             "type": "strength",
@@ -10312,9 +10312,9 @@
           "value": 19,
           "label": "S"
         },
-        "attack": 26,
+        "attack": 28,
         "defense": null,
-        "weight": 28,
+        "weight": 20,
         "effects": [
           {
             "type": "strength",
@@ -10370,7 +10370,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 40,
         "effects": []
       }
     },
@@ -10401,7 +10401,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 40,
         "effects": []
       }
     },
@@ -10432,7 +10432,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 40,
         "effects": []
       }
     },
@@ -10463,7 +10463,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 40,
         "effects": []
       }
     },
@@ -10492,9 +10492,9 @@
           "value": 31,
           "label": "EX"
         },
-        "attack": 33,
+        "attack": 34,
         "defense": null,
-        "weight": 34,
+        "weight": 25,
         "effects": [
           {
             "type": "maximum_hp",
@@ -10548,9 +10548,9 @@
           "value": 28,
           "label": "SSSS"
         },
-        "attack": 22,
+        "attack": 25,
         "defense": null,
-        "weight": 25,
+        "weight": 23,
         "effects": [
           {
             "type": "final_damage_percent",
@@ -10584,9 +10584,9 @@
           "value": 28,
           "label": "SSSS"
         },
-        "attack": 17,
+        "attack": 25,
         "defense": null,
-        "weight": 25,
+        "weight": 11,
         "effects": [
           {
             "type": "movement_speed_percent",
@@ -10627,9 +10627,9 @@
           "value": 16,
           "label": "A"
         },
-        "attack": 25,
+        "attack": 27,
         "defense": null,
-        "weight": 27,
+        "weight": 18,
         "effects": [
           {
             "type": "ability_level",
@@ -10667,9 +10667,9 @@
           "value": 19,
           "label": "S"
         },
-        "attack": 25,
+        "attack": 29,
         "defense": null,
-        "weight": 29,
+        "weight": 25,
         "effects": [
           {
             "type": "vitality",
@@ -10706,9 +10706,9 @@
           "value": 16,
           "label": "A"
         },
-        "attack": 27,
+        "attack": 28,
         "defense": null,
-        "weight": 28,
+        "weight": 25,
         "effects": [
           {
             "type": "critical_rate_percent",
@@ -10750,9 +10750,9 @@
           "value": 31,
           "label": "EX"
         },
-        "attack": 24,
+        "attack": 30,
         "defense": null,
-        "weight": 30,
+        "weight": 21,
         "effects": [
           {
             "type": "maximum_hp",
@@ -10807,7 +10807,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 0,
         "effects": []
       }
     },
@@ -10836,9 +10836,9 @@
           "value": 4,
           "label": "E"
         },
-        "attack": 2,
+        "attack": 3,
         "defense": null,
-        "weight": 3,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -10875,9 +10875,9 @@
           "value": 4,
           "label": "E"
         },
-        "attack": 2,
+        "attack": 3,
         "defense": null,
-        "weight": 3,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -10914,9 +10914,9 @@
           "value": 0,
           "label": "F-"
         },
-        "attack": 1,
+        "attack": 2,
         "defense": null,
-        "weight": 2,
+        "weight": 0,
         "effects": []
       }
     },
@@ -10947,7 +10947,7 @@
         },
         "attack": 2,
         "defense": null,
-        "weight": 2,
+        "weight": 0,
         "effects": [
           {
             "type": "accuracy_percent",
@@ -10983,7 +10983,7 @@
         },
         "attack": 3,
         "defense": null,
-        "weight": 3,
+        "weight": 0,
         "effects": []
       }
     },
@@ -11014,7 +11014,7 @@
         },
         "attack": 4,
         "defense": null,
-        "weight": 4,
+        "weight": 0,
         "effects": []
       }
     },
@@ -11045,7 +11045,7 @@
         },
         "attack": 5,
         "defense": null,
-        "weight": 5,
+        "weight": 0,
         "effects": []
       }
     },
@@ -11074,9 +11074,9 @@
           "value": 17,
           "label": "A+"
         },
-        "attack": 5,
+        "attack": 6,
         "defense": null,
-        "weight": 6,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -11117,9 +11117,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 3,
+        "attack": 4,
         "defense": null,
-        "weight": 4,
+        "weight": 0,
         "effects": [
           {
             "type": "enemy_family_advantage",
@@ -11153,9 +11153,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 4,
+        "attack": 5,
         "defense": null,
-        "weight": 5,
+        "weight": 0,
         "effects": [
           {
             "type": "accuracy_percent",
@@ -11189,9 +11189,9 @@
           "value": 0,
           "label": "F-"
         },
-        "attack": 1,
+        "attack": 2,
         "defense": null,
-        "weight": 2,
+        "weight": 0,
         "effects": [
           {
             "type": "dexterity",
@@ -11229,9 +11229,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 5,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "maximum_hp",
@@ -11273,9 +11273,9 @@
           "value": 21,
           "label": "SS-"
         },
-        "attack": 5,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "maximum_ap",
@@ -11314,7 +11314,7 @@
         },
         "attack": 2,
         "defense": null,
-        "weight": 2,
+        "weight": 0,
         "effects": [
           {
             "type": "attack_speed_percent",
@@ -11348,9 +11348,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 2,
+        "attack": 3,
         "defense": null,
-        "weight": 3,
+        "weight": 0,
         "effects": []
       }
     },
@@ -11379,9 +11379,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 4,
+        "attack": 5,
         "defense": null,
-        "weight": 5,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_strength",
@@ -11416,9 +11416,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 3,
+        "attack": 4,
         "defense": null,
-        "weight": 4,
+        "weight": 0,
         "effects": [
           {
             "type": "attack_speed_percent",
@@ -11452,9 +11452,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 6,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": []
       }
     },
@@ -11483,9 +11483,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 4,
+        "attack": 6,
         "defense": null,
-        "weight": 6,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -11519,9 +11519,9 @@
           "value": 24,
           "label": "SSS-"
         },
-        "attack": 6,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -11559,9 +11559,9 @@
           "value": 19,
           "label": "S"
         },
-        "attack": 6,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "strength",
@@ -11603,9 +11603,9 @@
           "value": 25,
           "label": "SSS"
         },
-        "attack": 8,
+        "attack": 10,
         "defense": null,
-        "weight": 10,
+        "weight": 0,
         "effects": [
           {
             "type": "accuracy_percent",
@@ -11647,9 +11647,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 5,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": []
       }
     },
@@ -11678,9 +11678,9 @@
           "value": 21,
           "label": "SS-"
         },
-        "attack": 5,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "maximum_hp",
@@ -11717,9 +11717,9 @@
           "value": 14,
           "label": "B+"
         },
-        "attack": 5,
+        "attack": 6,
         "defense": null,
-        "weight": 6,
+        "weight": 0,
         "effects": [
           {
             "type": "enemy_family_advantage",
@@ -11755,7 +11755,7 @@
         },
         "attack": 4,
         "defense": null,
-        "weight": 4,
+        "weight": 0,
         "effects": [
           {
             "type": "agility",
@@ -11792,9 +11792,9 @@
           "value": 24,
           "label": "SSS-"
         },
-        "attack": 8,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -11832,9 +11832,9 @@
           "value": 25,
           "label": "SSS"
         },
-        "attack": 10,
+        "attack": 11,
         "defense": null,
-        "weight": 11,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -11872,9 +11872,9 @@
           "value": 26,
           "label": "SSS+"
         },
-        "attack": 10,
+        "attack": 11,
         "defense": null,
-        "weight": 11,
+        "weight": 0,
         "effects": [
           {
             "type": "intelligence",
@@ -11912,9 +11912,9 @@
           "value": 27,
           "label": "SSSS-"
         },
-        "attack": 11,
+        "attack": 12,
         "defense": null,
-        "weight": 12,
+        "weight": 0,
         "effects": [
           {
             "type": "spirit",
@@ -11952,9 +11952,9 @@
           "value": 28,
           "label": "SSSS"
         },
-        "attack": 11,
+        "attack": 13,
         "defense": null,
-        "weight": 13,
+        "weight": 0,
         "effects": [
           {
             "type": "strength",
@@ -12004,9 +12004,9 @@
           "value": 7,
           "label": "D"
         },
-        "attack": 2,
+        "attack": 4,
         "defense": null,
-        "weight": 4,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -12047,9 +12047,9 @@
           "value": 7,
           "label": "D"
         },
-        "attack": 2,
+        "attack": 4,
         "defense": null,
-        "weight": 4,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -12090,9 +12090,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 1,
+        "attack": 3,
         "defense": null,
-        "weight": 3,
+        "weight": 0,
         "effects": [
           {
             "type": "maximum_hp",
@@ -12126,9 +12126,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 2,
+        "attack": 3,
         "defense": null,
-        "weight": 3,
+        "weight": 0,
         "effects": [
           {
             "type": "accuracy_percent",
@@ -12166,9 +12166,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 3,
+        "attack": 4,
         "defense": null,
-        "weight": 4,
+        "weight": 0,
         "effects": [
           {
             "type": "maximum_hp",
@@ -12202,9 +12202,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 4,
+        "attack": 5,
         "defense": null,
-        "weight": 5,
+        "weight": 0,
         "effects": [
           {
             "type": "maximum_hp",
@@ -12238,9 +12238,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 5,
+        "attack": 6,
         "defense": null,
-        "weight": 6,
+        "weight": 0,
         "effects": [
           {
             "type": "maximum_hp",
@@ -12274,9 +12274,9 @@
           "value": 20,
           "label": "S+"
         },
-        "attack": 5,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -12321,9 +12321,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 3,
+        "attack": 5,
         "defense": null,
-        "weight": 5,
+        "weight": 0,
         "effects": [
           {
             "type": "enemy_family_advantage",
@@ -12365,9 +12365,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 4,
+        "attack": 6,
         "defense": null,
-        "weight": 6,
+        "weight": 0,
         "effects": [
           {
             "type": "accuracy_percent",
@@ -12405,9 +12405,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 1,
+        "attack": 3,
         "defense": null,
-        "weight": 3,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -12445,9 +12445,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 5,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "maximum_hp",
@@ -12489,9 +12489,9 @@
           "value": 24,
           "label": "SSS-"
         },
-        "attack": 5,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "maximum_ap",
@@ -12536,9 +12536,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 2,
+        "attack": 3,
         "defense": null,
-        "weight": 3,
+        "weight": 0,
         "effects": [
           {
             "type": "attack_speed_percent",
@@ -12576,9 +12576,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 2,
+        "attack": 4,
         "defense": null,
-        "weight": 4,
+        "weight": 0,
         "effects": [
           {
             "type": "maximum_hp",
@@ -12612,9 +12612,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 4,
+        "attack": 6,
         "defense": null,
-        "weight": 6,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_strength",
@@ -12653,9 +12653,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 3,
+        "attack": 5,
         "defense": null,
-        "weight": 5,
+        "weight": 0,
         "effects": [
           {
             "type": "attack_speed_percent",
@@ -12693,9 +12693,9 @@
           "value": 21,
           "label": "SS-"
         },
-        "attack": 6,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "maximum_hp",
@@ -12729,9 +12729,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 4,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -12769,9 +12769,9 @@
           "value": 27,
           "label": "SSSS-"
         },
-        "attack": 6,
+        "attack": 10,
         "defense": null,
-        "weight": 10,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -12813,9 +12813,9 @@
           "value": 22,
           "label": "SS"
         },
-        "attack": 6,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "strength",
@@ -12861,9 +12861,9 @@
           "value": 28,
           "label": "SSSS"
         },
-        "attack": 8,
+        "attack": 11,
         "defense": null,
-        "weight": 11,
+        "weight": 0,
         "effects": [
           {
             "type": "accuracy_percent",
@@ -12909,9 +12909,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 5,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "maximum_hp",
@@ -12945,9 +12945,9 @@
           "value": 24,
           "label": "SSS-"
         },
-        "attack": 5,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "maximum_hp",
@@ -12988,9 +12988,9 @@
           "value": 17,
           "label": "A+"
         },
-        "attack": 5,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "enemy_family_advantage",
@@ -13032,9 +13032,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 4,
+        "attack": 5,
         "defense": null,
-        "weight": 5,
+        "weight": 0,
         "effects": [
           {
             "type": "agility",
@@ -13075,9 +13075,9 @@
           "value": 28,
           "label": "SSSS"
         },
-        "attack": 10,
+        "attack": 12,
         "defense": null,
-        "weight": 12,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -13119,9 +13119,9 @@
           "value": 29,
           "label": "SSSS+"
         },
-        "attack": 10,
+        "attack": 12,
         "defense": null,
-        "weight": 12,
+        "weight": 0,
         "effects": [
           {
             "type": "intelligence",
@@ -13163,9 +13163,9 @@
           "value": 30,
           "label": "EX-"
         },
-        "attack": 11,
+        "attack": 13,
         "defense": null,
-        "weight": 13,
+        "weight": 0,
         "effects": [
           {
             "type": "spirit",
@@ -13207,9 +13207,9 @@
           "value": 31,
           "label": "EX"
         },
-        "attack": 11,
+        "attack": 14,
         "defense": null,
-        "weight": 14,
+        "weight": 0,
         "effects": [
           {
             "type": "strength",
@@ -13263,9 +13263,9 @@
           "value": 10,
           "label": "C"
         },
-        "attack": 2,
+        "attack": 5,
         "defense": null,
-        "weight": 5,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -13302,9 +13302,9 @@
           "value": 10,
           "label": "C"
         },
-        "attack": 2,
+        "attack": 5,
         "defense": null,
-        "weight": 5,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -13341,9 +13341,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 1,
+        "attack": 4,
         "defense": null,
-        "weight": 4,
+        "weight": 0,
         "effects": []
       }
     },
@@ -13372,9 +13372,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 2,
+        "attack": 4,
         "defense": null,
-        "weight": 4,
+        "weight": 0,
         "effects": [
           {
             "type": "accuracy_percent",
@@ -13408,9 +13408,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 3,
+        "attack": 5,
         "defense": null,
-        "weight": 5,
+        "weight": 0,
         "effects": []
       }
     },
@@ -13439,9 +13439,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 4,
+        "attack": 6,
         "defense": null,
-        "weight": 6,
+        "weight": 0,
         "effects": []
       }
     },
@@ -13470,9 +13470,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 5,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": []
       }
     },
@@ -13501,9 +13501,9 @@
           "value": 23,
           "label": "SS+"
         },
-        "attack": 5,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -13544,9 +13544,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 3,
+        "attack": 6,
         "defense": null,
-        "weight": 6,
+        "weight": 0,
         "effects": [
           {
             "type": "enemy_family_advantage",
@@ -13584,9 +13584,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 4,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "accuracy_percent",
@@ -13620,9 +13620,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 1,
+        "attack": 4,
         "defense": null,
-        "weight": 4,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -13656,9 +13656,9 @@
           "value": 21,
           "label": "SS-"
         },
-        "attack": 5,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -13692,9 +13692,9 @@
           "value": 27,
           "label": "SSSS-"
         },
-        "attack": 5,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "maximum_ap",
@@ -13735,9 +13735,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 2,
+        "attack": 4,
         "defense": null,
-        "weight": 4,
+        "weight": 0,
         "effects": [
           {
             "type": "attack_speed_percent",
@@ -13771,9 +13771,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 2,
+        "attack": 5,
         "defense": null,
-        "weight": 5,
+        "weight": 0,
         "effects": []
       }
     },
@@ -13802,9 +13802,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 4,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_strength",
@@ -13839,9 +13839,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 3,
+        "attack": 6,
         "defense": null,
-        "weight": 6,
+        "weight": 0,
         "effects": [
           {
             "type": "attack_speed_percent",
@@ -13875,9 +13875,9 @@
           "value": 24,
           "label": "SSS-"
         },
-        "attack": 6,
+        "attack": 10,
         "defense": null,
-        "weight": 10,
+        "weight": 0,
         "effects": []
       }
     },
@@ -13906,9 +13906,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 4,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -13942,9 +13942,9 @@
           "value": 30,
           "label": "EX-"
         },
-        "attack": 6,
+        "attack": 11,
         "defense": null,
-        "weight": 11,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -13982,9 +13982,9 @@
           "value": 25,
           "label": "SSS"
         },
-        "attack": 6,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "strength",
@@ -14026,9 +14026,9 @@
           "value": 31,
           "label": "EX"
         },
-        "attack": 8,
+        "attack": 12,
         "defense": null,
-        "weight": 12,
+        "weight": 0,
         "effects": [
           {
             "type": "accuracy_percent",
@@ -14070,9 +14070,9 @@
           "value": 21,
           "label": "SS-"
         },
-        "attack": 5,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": []
       }
     },
@@ -14101,9 +14101,9 @@
           "value": 27,
           "label": "SSSS-"
         },
-        "attack": 5,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "maximum_hp",
@@ -14144,9 +14144,9 @@
           "value": 20,
           "label": "S+"
         },
-        "attack": 5,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "enemy_family_advantage",
@@ -14184,9 +14184,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 4,
+        "attack": 6,
         "defense": null,
-        "weight": 6,
+        "weight": 0,
         "effects": [
           {
             "type": "agility",
@@ -14223,9 +14223,9 @@
           "value": 31,
           "label": "EX"
         },
-        "attack": 10,
+        "attack": 13,
         "defense": null,
-        "weight": 13,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -14263,9 +14263,9 @@
           "value": 31,
           "label": "EX"
         },
-        "attack": 10,
+        "attack": 13,
         "defense": null,
-        "weight": 13,
+        "weight": 0,
         "effects": [
           {
             "type": "intelligence",
@@ -14303,9 +14303,9 @@
           "value": 31,
           "label": "EX"
         },
-        "attack": 11,
+        "attack": 14,
         "defense": null,
-        "weight": 14,
+        "weight": 0,
         "effects": [
           {
             "type": "spirit",
@@ -14343,9 +14343,9 @@
           "value": 31,
           "label": "EX"
         },
-        "attack": 11,
+        "attack": 15,
         "defense": null,
-        "weight": 15,
+        "weight": 0,
         "effects": [
           {
             "type": "strength",
@@ -14397,7 +14397,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 0,
         "effects": []
       }
     },
@@ -14428,7 +14428,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 0,
         "effects": []
       }
     },
@@ -14459,7 +14459,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 0,
         "effects": []
       }
     },
@@ -14490,7 +14490,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 0,
         "effects": []
       }
     },
@@ -14519,9 +14519,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 5,
+        "attack": 6,
         "defense": null,
-        "weight": 6,
+        "weight": 0,
         "effects": [
           {
             "type": "movement_speed_percent",
@@ -14555,9 +14555,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 5,
+        "attack": 6,
         "defense": null,
-        "weight": 6,
+        "weight": 0,
         "effects": [
           {
             "type": "maximum_hp",
@@ -14591,9 +14591,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 11,
+        "attack": 12,
         "defense": null,
-        "weight": 12,
+        "weight": 0,
         "effects": [
           {
             "type": "strength",
@@ -14646,9 +14646,9 @@
           "value": 29,
           "label": "SSSS+"
         },
-        "attack": 12,
+        "attack": 13,
         "defense": null,
-        "weight": 13,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -14686,9 +14686,9 @@
           "value": 30,
           "label": "EX-"
         },
-        "attack": 12,
+        "attack": 14,
         "defense": null,
-        "weight": 14,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -14730,9 +14730,9 @@
           "value": 31,
           "label": "EX"
         },
-        "attack": 12,
+        "attack": 15,
         "defense": null,
-        "weight": 15,
+        "weight": 0,
         "effects": [
           {
             "type": "damage",
@@ -14770,9 +14770,9 @@
           "value": 0,
           "label": "F-"
         },
-        "attack": 6,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 16,
         "effects": []
       }
     },
@@ -14801,9 +14801,9 @@
           "value": 16,
           "label": "A"
         },
-        "attack": 15,
+        "attack": 17,
         "defense": null,
-        "weight": 17,
+        "weight": 20,
         "effects": [
           {
             "type": "ability_strength",
@@ -14838,9 +14838,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 12,
+        "attack": 13,
         "defense": null,
-        "weight": 13,
+        "weight": 17,
         "effects": [
           {
             "type": "intelligence",
@@ -14884,7 +14884,7 @@
         },
         "attack": 13,
         "defense": null,
-        "weight": 13,
+        "weight": 20,
         "effects": [
           {
             "type": "spirit",
@@ -14920,7 +14920,7 @@
         },
         "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 20,
         "effects": []
       }
     },
@@ -14949,9 +14949,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 8,
+        "attack": 10,
         "defense": null,
-        "weight": 10,
+        "weight": 20,
         "effects": []
       }
     },
@@ -14980,9 +14980,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 10,
+        "attack": 11,
         "defense": null,
-        "weight": 11,
+        "weight": 21,
         "effects": [
           {
             "type": "damage",
@@ -15016,9 +15016,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 9,
+        "attack": 10,
         "defense": null,
-        "weight": 10,
+        "weight": 21,
         "effects": [
           {
             "type": "enemy_family_advantage",
@@ -15052,9 +15052,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 10,
+        "attack": 11,
         "defense": null,
-        "weight": 11,
+        "weight": 17,
         "effects": [
           {
             "type": "casting_speed_percent",
@@ -15090,7 +15090,7 @@
         },
         "attack": 17,
         "defense": null,
-        "weight": 17,
+        "weight": 16,
         "effects": []
       }
     },
@@ -15121,7 +15121,7 @@
         },
         "attack": 13,
         "defense": null,
-        "weight": 13,
+        "weight": 16,
         "effects": [
           {
             "type": "ability_strength",
@@ -15159,9 +15159,9 @@
           "value": 2,
           "label": "F+"
         },
-        "attack": 8,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 30,
         "effects": [
           {
             "type": "strength",
@@ -15195,9 +15195,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 9,
+        "attack": 11,
         "defense": null,
-        "weight": 11,
+        "weight": 16,
         "effects": [
           {
             "type": "intelligence",
@@ -15231,9 +15231,9 @@
           "value": 7,
           "label": "D"
         },
-        "attack": 11,
+        "attack": 12,
         "defense": null,
-        "weight": 12,
+        "weight": 16,
         "effects": [
           {
             "type": "intelligence",
@@ -15267,9 +15267,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 12,
+        "attack": 13,
         "defense": null,
-        "weight": 13,
+        "weight": 16,
         "effects": [
           {
             "type": "intelligence",
@@ -15303,9 +15303,9 @@
           "value": 13,
           "label": "B"
         },
-        "attack": 13,
+        "attack": 14,
         "defense": null,
-        "weight": 14,
+        "weight": 16,
         "effects": [
           {
             "type": "intelligence",
@@ -15339,7 +15339,7 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 15,
+        "attack": 16,
         "defense": null,
         "weight": 16,
         "effects": [
@@ -15375,9 +15375,9 @@
           "value": 21,
           "label": "SS-"
         },
-        "attack": 18,
+        "attack": 20,
         "defense": null,
-        "weight": 20,
+        "weight": 16,
         "effects": [
           {
             "type": "intelligence",
@@ -15415,9 +15415,9 @@
           "value": 7,
           "label": "D"
         },
-        "attack": 10,
+        "attack": 11,
         "defense": null,
-        "weight": 11,
+        "weight": 20,
         "effects": [
           {
             "type": "maximum_hp",
@@ -15451,9 +15451,9 @@
           "value": 7,
           "label": "D"
         },
-        "attack": 10,
+        "attack": 11,
         "defense": null,
-        "weight": 11,
+        "weight": 20,
         "effects": [
           {
             "type": "damage",
@@ -15487,9 +15487,9 @@
           "value": 7,
           "label": "D"
         },
-        "attack": 10,
+        "attack": 11,
         "defense": null,
-        "weight": 11,
+        "weight": 20,
         "effects": [
           {
             "type": "maximum_ap",
@@ -15523,9 +15523,9 @@
           "value": 7,
           "label": "D"
         },
-        "attack": 10,
+        "attack": 11,
         "defense": null,
-        "weight": 11,
+        "weight": 18,
         "effects": [
           {
             "type": "evasion_percent",
@@ -15559,9 +15559,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 12,
+        "attack": 14,
         "defense": null,
-        "weight": 14,
+        "weight": 15,
         "effects": [
           {
             "type": "damage",
@@ -15607,9 +15607,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 14,
+        "attack": 15,
         "defense": null,
-        "weight": 15,
+        "weight": 18,
         "effects": [
           {
             "type": "damage",
@@ -15643,9 +15643,9 @@
           "value": 25,
           "label": "SSS"
         },
-        "attack": 20,
+        "attack": 22,
         "defense": null,
-        "weight": 22,
+        "weight": 18,
         "effects": [
           {
             "type": "intelligence",
@@ -15687,9 +15687,9 @@
           "value": 10,
           "label": "C"
         },
-        "attack": 13,
+        "attack": 14,
         "defense": null,
-        "weight": 14,
+        "weight": 15,
         "effects": [
           {
             "type": "final_damage_percent",
@@ -15723,9 +15723,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 9,
+        "attack": 11,
         "defense": null,
-        "weight": 11,
+        "weight": 18,
         "effects": [
           {
             "type": "spirit",
@@ -15761,7 +15761,7 @@
         },
         "attack": 12,
         "defense": null,
-        "weight": 12,
+        "weight": 19,
         "effects": []
       }
     },
@@ -15790,9 +15790,9 @@
           "value": 11,
           "label": "C+"
         },
-        "attack": 12,
+        "attack": 13,
         "defense": null,
-        "weight": 13,
+        "weight": 15,
         "effects": [
           {
             "type": "spirit",
@@ -15828,7 +15828,7 @@
         },
         "attack": 15,
         "defense": null,
-        "weight": 15,
+        "weight": 18,
         "effects": []
       }
     },
@@ -15857,9 +15857,9 @@
           "value": 0,
           "label": "F-"
         },
-        "attack": 7,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 17,
         "effects": []
       }
     },
@@ -15890,7 +15890,7 @@
         },
         "attack": 16,
         "defense": null,
-        "weight": 16,
+        "weight": 18,
         "effects": []
       }
     },
@@ -15919,9 +15919,9 @@
           "value": 19,
           "label": "S"
         },
-        "attack": 18,
+        "attack": 19,
         "defense": null,
-        "weight": 19,
+        "weight": 22,
         "effects": [
           {
             "type": "vitality",
@@ -15955,9 +15955,9 @@
           "value": 17,
           "label": "A+"
         },
-        "attack": 15,
+        "attack": 17,
         "defense": null,
-        "weight": 17,
+        "weight": 20,
         "effects": [
           {
             "type": "ability_level",
@@ -15992,9 +15992,9 @@
           "value": 24,
           "label": "SSS-"
         },
-        "attack": 19,
+        "attack": 21,
         "defense": null,
-        "weight": 21,
+        "weight": 16,
         "effects": [
           {
             "type": "final_damage_percent",
@@ -16032,9 +16032,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 9,
+        "attack": 10,
         "defense": null,
-        "weight": 10,
+        "weight": 16,
         "effects": []
       }
     },
@@ -16063,9 +16063,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 14,
+        "attack": 16,
         "defense": null,
-        "weight": 16,
+        "weight": 20,
         "effects": [
           {
             "type": "critical_rate_percent",
@@ -16099,7 +16099,7 @@
           "value": 0,
           "label": "F-"
         },
-        "attack": 8,
+        "attack": 10,
         "defense": null,
         "weight": 10,
         "effects": []
@@ -16130,7 +16130,7 @@
           "value": 22,
           "label": "SS"
         },
-        "attack": 19,
+        "attack": 20,
         "defense": null,
         "weight": 20,
         "effects": [
@@ -16166,9 +16166,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 11,
+        "attack": 12,
         "defense": null,
-        "weight": 12,
+        "weight": 22,
         "effects": [
           {
             "type": "maximum_hp",
@@ -16206,7 +16206,7 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 9,
+        "attack": 10,
         "defense": null,
         "weight": 10,
         "effects": [
@@ -16242,9 +16242,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 15,
+        "attack": 18,
         "defense": null,
-        "weight": 18,
+        "weight": 19,
         "effects": [
           {
             "type": "maximum_hp",
@@ -16282,9 +16282,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 16,
+        "attack": 17,
         "defense": null,
-        "weight": 17,
+        "weight": 10,
         "effects": [
           {
             "type": "casting_speed_percent",
@@ -16318,7 +16318,7 @@
           "value": 20,
           "label": "S+"
         },
-        "attack": 16,
+        "attack": 18,
         "defense": null,
         "weight": 18,
         "effects": [
@@ -16355,9 +16355,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 15,
+        "attack": 18,
         "defense": null,
-        "weight": 18,
+        "weight": 16,
         "effects": [
           {
             "type": "maximum_ap",
@@ -16395,9 +16395,9 @@
           "value": 4,
           "label": "E"
         },
-        "attack": 9,
+        "attack": 12,
         "defense": null,
-        "weight": 12,
+        "weight": 18,
         "effects": []
       }
     },
@@ -16426,9 +16426,9 @@
           "value": 23,
           "label": "SS+"
         },
-        "attack": 18,
+        "attack": 20,
         "defense": null,
-        "weight": 20,
+        "weight": 30,
         "effects": [
           {
             "type": "strength",
@@ -16468,7 +16468,7 @@
         },
         "attack": 19,
         "defense": null,
-        "weight": 19,
+        "weight": 16,
         "effects": [
           {
             "type": "intelligence",
@@ -16506,9 +16506,9 @@
           "value": 28,
           "label": "SSSS"
         },
-        "attack": 21,
+        "attack": 22,
         "defense": null,
-        "weight": 22,
+        "weight": 18,
         "effects": [
           {
             "type": "ability_level",
@@ -16547,9 +16547,9 @@
           "value": 29,
           "label": "SSSS+"
         },
-        "attack": 22,
+        "attack": 23,
         "defense": null,
-        "weight": 23,
+        "weight": 18,
         "effects": [
           {
             "type": "final_damage_percent",
@@ -16591,9 +16591,9 @@
           "value": 31,
           "label": "EX"
         },
-        "attack": 22,
+        "attack": 23,
         "defense": null,
-        "weight": 23,
+        "weight": 17,
         "effects": [
           {
             "type": "ability_level",
@@ -16640,7 +16640,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 40,
         "effects": []
       }
     },
@@ -16671,7 +16671,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 40,
         "effects": []
       }
     },
@@ -16702,7 +16702,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 40,
         "effects": []
       }
     },
@@ -16733,7 +16733,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 40,
         "effects": []
       }
     },
@@ -16762,7 +16762,7 @@
           "value": 19,
           "label": "S"
         },
-        "attack": 17,
+        "attack": 18,
         "defense": null,
         "weight": 18,
         "effects": [
@@ -16803,9 +16803,9 @@
           "value": 30,
           "label": "EX-"
         },
-        "attack": 18,
+        "attack": 24,
         "defense": null,
-        "weight": 24,
+        "weight": 28,
         "effects": [
           {
             "type": "intelligence",
@@ -16843,9 +16843,9 @@
           "value": 31,
           "label": "EX"
         },
-        "attack": 1,
+        "attack": 30,
         "defense": null,
-        "weight": 30,
+        "weight": 9,
         "effects": [
           {
             "type": "ability_level",
@@ -16905,9 +16905,9 @@
           "value": 0,
           "label": "F-"
         },
-        "attack": 6,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 8,
         "effects": []
       }
     },
@@ -16936,9 +16936,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 16,
+        "attack": 17,
         "defense": null,
-        "weight": 17,
+        "weight": 9,
         "effects": []
       }
     },
@@ -16967,9 +16967,9 @@
           "value": 0,
           "label": "F-"
         },
-        "attack": 6,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 6,
         "effects": [
           {
             "type": "attack_speed_percent",
@@ -17005,7 +17005,7 @@
         },
         "attack": 10,
         "defense": null,
-        "weight": 10,
+        "weight": 15,
         "effects": [
           {
             "type": "physical_damage_received_percent",
@@ -17043,9 +17043,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 13,
+        "attack": 15,
         "defense": null,
-        "weight": 15,
+        "weight": 10,
         "effects": [
           {
             "type": "final_damage_percent",
@@ -17079,9 +17079,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 9,
+        "attack": 10,
         "defense": null,
-        "weight": 10,
+        "weight": 12,
         "effects": [
           {
             "type": "damage",
@@ -17115,9 +17115,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 14,
+        "attack": 15,
         "defense": null,
-        "weight": 15,
+        "weight": 11,
         "effects": [
           {
             "type": "critical_rate_percent",
@@ -17151,9 +17151,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 17,
+        "attack": 18,
         "defense": null,
-        "weight": 18,
+        "weight": 10,
         "effects": [
           {
             "type": "strength",
@@ -17187,9 +17187,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 8,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 10,
         "effects": []
       }
     },
@@ -17218,9 +17218,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 15,
+        "attack": 17,
         "defense": null,
-        "weight": 17,
+        "weight": 10,
         "effects": [
           {
             "type": "ability_strength",
@@ -17255,9 +17255,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 18,
+        "attack": 19,
         "defense": null,
-        "weight": 19,
+        "weight": 11,
         "effects": [
           {
             "type": "damage",
@@ -17291,9 +17291,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 22,
+        "attack": 23,
         "defense": null,
-        "weight": 23,
+        "weight": 14,
         "effects": [
           {
             "type": "damage",
@@ -17334,7 +17334,7 @@
           "value": 0,
           "label": "F-"
         },
-        "attack": 7,
+        "attack": 8,
         "defense": null,
         "weight": 8,
         "effects": []
@@ -17365,9 +17365,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 13,
+        "attack": 14,
         "defense": null,
-        "weight": 14,
+        "weight": 9,
         "effects": []
       }
     },
@@ -17396,9 +17396,9 @@
           "value": 16,
           "label": "A"
         },
-        "attack": 23,
+        "attack": 24,
         "defense": null,
-        "weight": 24,
+        "weight": 10,
         "effects": [
           {
             "type": "accuracy_percent",
@@ -17432,9 +17432,9 @@
           "value": 21,
           "label": "SS-"
         },
-        "attack": 23,
+        "attack": 24,
         "defense": null,
-        "weight": 24,
+        "weight": 15,
         "effects": [
           {
             "type": "physical_damage_received_percent",
@@ -17476,9 +17476,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 24,
+        "attack": 25,
         "defense": null,
-        "weight": 25,
+        "weight": 10,
         "effects": [
           {
             "type": "final_damage_percent",
@@ -17512,9 +17512,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 11,
+        "attack": 12,
         "defense": null,
-        "weight": 12,
+        "weight": 9,
         "effects": [
           {
             "type": "vitality",
@@ -17548,9 +17548,9 @@
           "value": 0,
           "label": "F-"
         },
-        "attack": 10,
+        "attack": 13,
         "defense": null,
-        "weight": 13,
+        "weight": 15,
         "effects": []
       }
     },
@@ -17579,9 +17579,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 10,
+        "attack": 13,
         "defense": null,
-        "weight": 13,
+        "weight": 8,
         "effects": [
           {
             "type": "vitality",
@@ -17615,9 +17615,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 10,
+        "attack": 11,
         "defense": null,
-        "weight": 11,
+        "weight": 10,
         "effects": []
       }
     },
@@ -17646,9 +17646,9 @@
           "value": 26,
           "label": "SSS+"
         },
-        "attack": 26,
+        "attack": 27,
         "defense": null,
-        "weight": 27,
+        "weight": 8,
         "effects": [
           {
             "type": "accuracy_percent",
@@ -17686,9 +17686,9 @@
           "value": 23,
           "label": "SS+"
         },
-        "attack": 23,
+        "attack": 24,
         "defense": null,
-        "weight": 24,
+        "weight": 12,
         "effects": [
           {
             "type": "strength",
@@ -17724,7 +17724,7 @@
         },
         "attack": 11,
         "defense": null,
-        "weight": 11,
+        "weight": 10,
         "effects": [
           {
             "type": "damage",
@@ -17761,9 +17761,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 20,
+        "attack": 22,
         "defense": null,
-        "weight": 22,
+        "weight": 8,
         "effects": [
           {
             "type": "spirit",
@@ -17797,9 +17797,9 @@
           "value": 22,
           "label": "SS"
         },
-        "attack": 23,
+        "attack": 26,
         "defense": null,
-        "weight": 26,
+        "weight": 17,
         "effects": []
       }
     },
@@ -17828,9 +17828,9 @@
           "value": 24,
           "label": "SSS-"
         },
-        "attack": 25,
+        "attack": 26,
         "defense": null,
-        "weight": 26,
+        "weight": 10,
         "effects": [
           {
             "type": "damage",
@@ -17868,7 +17868,7 @@
           "value": 4,
           "label": "E"
         },
-        "attack": 10,
+        "attack": 12,
         "defense": null,
         "weight": 12,
         "effects": [
@@ -17904,9 +17904,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 16,
+        "attack": 18,
         "defense": null,
-        "weight": 18,
+        "weight": 15,
         "effects": []
       }
     },
@@ -17935,9 +17935,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 20,
+        "attack": 21,
         "defense": null,
-        "weight": 21,
+        "weight": 10,
         "effects": [
           {
             "type": "ap_converted_to_hp",
@@ -17971,9 +17971,9 @@
           "value": 17,
           "label": "A+"
         },
-        "attack": 24,
+        "attack": 25,
         "defense": null,
-        "weight": 25,
+        "weight": 30,
         "effects": [
           {
             "type": "ability_strength",
@@ -18008,9 +18008,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 13,
+        "attack": 14,
         "defense": null,
-        "weight": 14,
+        "weight": 12,
         "effects": [
           {
             "type": "dexterity",
@@ -18044,9 +18044,9 @@
           "value": 25,
           "label": "SSS"
         },
-        "attack": 24,
+        "attack": 25,
         "defense": null,
-        "weight": 25,
+        "weight": 7,
         "effects": [
           {
             "type": "accuracy_percent",
@@ -18084,9 +18084,9 @@
           "value": 28,
           "label": "SSSS"
         },
-        "attack": 25,
+        "attack": 27,
         "defense": null,
-        "weight": 27,
+        "weight": 10,
         "effects": [
           {
             "type": "attack_power",
@@ -18120,9 +18120,9 @@
           "value": 27,
           "label": "SSSS-"
         },
-        "attack": 23,
+        "attack": 27,
         "defense": null,
-        "weight": 27,
+        "weight": 12,
         "effects": [
           {
             "type": "critical_rate_percent",
@@ -18160,9 +18160,9 @@
           "value": 31,
           "label": "EX"
         },
-        "attack": 27,
+        "attack": 28,
         "defense": null,
-        "weight": 28,
+        "weight": 9,
         "effects": [
           {
             "type": "strength",
@@ -18208,9 +18208,9 @@
           "value": 29,
           "label": "SSSS+"
         },
-        "attack": 24,
+        "attack": 28,
         "defense": null,
-        "weight": 28,
+        "weight": 10,
         "effects": [
           {
             "type": "vitality",
@@ -18250,7 +18250,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 40,
         "effects": []
       }
     },
@@ -18281,7 +18281,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 40,
         "effects": []
       }
     },
@@ -18312,7 +18312,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 40,
         "effects": []
       }
     },
@@ -18343,7 +18343,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 40,
         "effects": []
       }
     },
@@ -18372,9 +18372,9 @@
           "value": 5,
           "label": "E+"
         },
-        "attack": 11,
+        "attack": 12,
         "defense": null,
-        "weight": 12,
+        "weight": 5,
         "effects": [
           {
             "type": "attack_speed_percent",
@@ -18410,7 +18410,7 @@
         },
         "attack": 16,
         "defense": null,
-        "weight": 16,
+        "weight": 11,
         "effects": [
           {
             "type": "damage",
@@ -18446,7 +18446,7 @@
         },
         "attack": 22,
         "defense": null,
-        "weight": 22,
+        "weight": 10,
         "effects": [
           {
             "type": "ability_strength",
@@ -18485,9 +18485,9 @@
           "value": 20,
           "label": "S+"
         },
-        "attack": 27,
+        "attack": 29,
         "defense": null,
-        "weight": 29,
+        "weight": 30,
         "effects": [
           {
             "type": "ability_strength",
@@ -18522,9 +18522,9 @@
           "value": 24,
           "label": "SSS-"
         },
-        "attack": 24,
+        "attack": 25,
         "defense": null,
-        "weight": 25,
+        "weight": 15,
         "effects": [
           {
             "type": "physical_damage_received_percent",
@@ -18570,9 +18570,9 @@
           "value": 29,
           "label": "SSSS+"
         },
-        "attack": 27,
+        "attack": 28,
         "defense": null,
-        "weight": 28,
+        "weight": 8,
         "effects": [
           {
             "type": "accuracy_percent",
@@ -18614,9 +18614,9 @@
           "value": 27,
           "label": "SSSS-"
         },
-        "attack": 25,
+        "attack": 26,
         "defense": null,
-        "weight": 26,
+        "weight": 15,
         "effects": [
           {
             "type": "physical_damage_received_percent",
@@ -18658,9 +18658,9 @@
           "value": 31,
           "label": "EX"
         },
-        "attack": 28,
+        "attack": 29,
         "defense": null,
-        "weight": 29,
+        "weight": 8,
         "effects": [
           {
             "type": "accuracy_percent",
@@ -18698,9 +18698,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 22,
+        "attack": 24,
         "defense": null,
-        "weight": 24,
+        "weight": 9,
         "effects": [
           {
             "type": "damage",
@@ -18741,9 +18741,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 22,
+        "attack": 24,
         "defense": null,
-        "weight": 24,
+        "weight": 9,
         "effects": [
           {
             "type": "damage",
@@ -18784,9 +18784,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 22,
+        "attack": 24,
         "defense": null,
-        "weight": 24,
+        "weight": 9,
         "effects": [
           {
             "type": "damage",
@@ -18827,9 +18827,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 22,
+        "attack": 24,
         "defense": null,
-        "weight": 24,
+        "weight": 9,
         "effects": [
           {
             "type": "damage",
@@ -18870,9 +18870,9 @@
           "value": 16,
           "label": "A"
         },
-        "attack": 19,
+        "attack": 21,
         "defense": null,
-        "weight": 21,
+        "weight": 10,
         "effects": [
           {
             "type": "critical_rate_percent",
@@ -18909,9 +18909,9 @@
           "value": 22,
           "label": "SS"
         },
-        "attack": 24,
+        "attack": 25,
         "defense": null,
-        "weight": 25,
+        "weight": 17,
         "effects": [
           {
             "type": "resistance",
@@ -18952,9 +18952,9 @@
           "value": 16,
           "label": "A"
         },
-        "attack": 20,
+        "attack": 21,
         "defense": null,
-        "weight": 21,
+        "weight": 9,
         "effects": [
           {
             "type": "spirit",
@@ -18988,9 +18988,9 @@
           "value": 16,
           "label": "A"
         },
-        "attack": 20,
+        "attack": 21,
         "defense": null,
-        "weight": 21,
+        "weight": 9,
         "effects": [
           {
             "type": "intelligence",
@@ -19024,9 +19024,9 @@
           "value": 16,
           "label": "A"
         },
-        "attack": 20,
+        "attack": 21,
         "defense": null,
-        "weight": 21,
+        "weight": 9,
         "effects": [
           {
             "type": "agility",
@@ -19060,9 +19060,9 @@
           "value": 16,
           "label": "A"
         },
-        "attack": 20,
+        "attack": 21,
         "defense": null,
-        "weight": 21,
+        "weight": 9,
         "effects": [
           {
             "type": "strength",
@@ -19096,9 +19096,9 @@
           "value": 16,
           "label": "A"
         },
-        "attack": 20,
+        "attack": 21,
         "defense": null,
-        "weight": 21,
+        "weight": 9,
         "effects": [
           {
             "type": "dexterity",
@@ -19132,9 +19132,9 @@
           "value": 19,
           "label": "S"
         },
-        "attack": 23,
+        "attack": 24,
         "defense": null,
-        "weight": 24,
+        "weight": 10,
         "effects": [
           {
             "type": "ap_converted_to_hp",
@@ -19168,9 +19168,9 @@
           "value": 25,
           "label": "SSS"
         },
-        "attack": 22,
+        "attack": 25,
         "defense": null,
-        "weight": 25,
+        "weight": 12,
         "effects": [
           {
             "type": "maximum_hp",
@@ -19204,9 +19204,9 @@
           "value": 25,
           "label": "SSS"
         },
-        "attack": 22,
+        "attack": 25,
         "defense": null,
-        "weight": 25,
+        "weight": 12,
         "effects": [
           {
             "type": "maximum_ap",
@@ -19240,9 +19240,9 @@
           "value": 28,
           "label": "SSSS"
         },
-        "attack": 26,
+        "attack": 27,
         "defense": null,
-        "weight": 27,
+        "weight": 9,
         "effects": [
           {
             "type": "strength",
@@ -23807,9 +23807,9 @@
           "value": 0,
           "label": "F-"
         },
-        "attack": 6,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 11,
         "effects": []
       }
     },
@@ -23838,7 +23838,7 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 10,
+        "attack": 11,
         "defense": null,
         "weight": 11,
         "effects": []
@@ -23869,9 +23869,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 6,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 15,
         "effects": [],
         "weapon_bonuses": [
           "three_way_shot"
@@ -23905,7 +23905,7 @@
         },
         "attack": 11,
         "defense": null,
-        "weight": 11,
+        "weight": 14,
         "effects": [
           {
             "type": "maximum_hp",
@@ -23939,9 +23939,9 @@
           "value": 16,
           "label": "A"
         },
-        "attack": 16,
+        "attack": 17,
         "defense": null,
-        "weight": 17,
+        "weight": 12,
         "effects": [
           {
             "type": "vitality",
@@ -23975,7 +23975,7 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 12,
+        "attack": 13,
         "defense": null,
         "weight": 13,
         "effects": [
@@ -24011,9 +24011,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 16,
+        "attack": 18,
         "defense": null,
-        "weight": 18,
+        "weight": 12,
         "effects": [
           {
             "type": "accuracy_percent",
@@ -24051,9 +24051,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 8,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 14,
         "effects": [
           {
             "type": "physical_defense",
@@ -24092,7 +24092,7 @@
         },
         "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 13,
         "effects": [
           {
             "type": "strength",
@@ -24126,9 +24126,9 @@
           "value": 10,
           "label": "C"
         },
-        "attack": 9,
+        "attack": 10,
         "defense": null,
-        "weight": 10,
+        "weight": 15,
         "effects": [],
         "weapon_bonuses": [
           "charm"
@@ -24162,7 +24162,7 @@
         },
         "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 15,
         "effects": [
           {
             "type": "spirit",
@@ -24199,7 +24199,7 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 10,
+        "attack": 12,
         "defense": null,
         "weight": 12,
         "effects": [
@@ -24240,7 +24240,7 @@
         },
         "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 11,
         "effects": [
           {
             "type": "dexterity",
@@ -24274,9 +24274,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 9,
+        "attack": 10,
         "defense": null,
-        "weight": 10,
+        "weight": 11,
         "effects": [
           {
             "type": "accuracy_percent",
@@ -24310,9 +24310,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 10,
+        "attack": 11,
         "defense": null,
-        "weight": 11,
+        "weight": 12,
         "effects": [
           {
             "type": "dexterity",
@@ -24346,9 +24346,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 12,
+        "attack": 13,
         "defense": null,
-        "weight": 13,
+        "weight": 12,
         "effects": [
           {
             "type": "dexterity",
@@ -24382,9 +24382,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 13,
+        "attack": 14,
         "defense": null,
-        "weight": 14,
+        "weight": 11,
         "effects": [
           {
             "type": "dexterity",
@@ -24418,9 +24418,9 @@
           "value": 0,
           "label": "F-"
         },
-        "attack": 7,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 15,
         "effects": []
       }
     },
@@ -24449,9 +24449,9 @@
           "value": 13,
           "label": "B"
         },
-        "attack": 12,
+        "attack": 14,
         "defense": null,
-        "weight": 14,
+        "weight": 17,
         "effects": [
           {
             "type": "attack_power",
@@ -24488,9 +24488,9 @@
           "value": 22,
           "label": "SS"
         },
-        "attack": 18,
+        "attack": 19,
         "defense": null,
-        "weight": 19,
+        "weight": 11,
         "effects": [
           {
             "type": "resistance",
@@ -24528,9 +24528,9 @@
           "value": 24,
           "label": "SSS-"
         },
-        "attack": 19,
+        "attack": 21,
         "defense": null,
-        "weight": 21,
+        "weight": 11,
         "effects": []
       }
     },
@@ -24559,9 +24559,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 10,
+        "attack": 13,
         "defense": null,
-        "weight": 13,
+        "weight": 20,
         "effects": [
           {
             "type": "strength",
@@ -24602,9 +24602,9 @@
           "value": 20,
           "label": "S+"
         },
-        "attack": 13,
+        "attack": 16,
         "defense": null,
-        "weight": 16,
+        "weight": 15,
         "effects": [
           {
             "type": "strength",
@@ -24641,9 +24641,9 @@
           "value": 23,
           "label": "SS+"
         },
-        "attack": 19,
+        "attack": 20,
         "defense": null,
-        "weight": 20,
+        "weight": 14,
         "effects": [
           {
             "type": "evasion_percent",
@@ -24681,9 +24681,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 8,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 12,
         "effects": [
           {
             "type": "intelligence",
@@ -24720,9 +24720,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 14,
+        "attack": 15,
         "defense": null,
-        "weight": 15,
+        "weight": 13,
         "effects": [
           {
             "type": "intelligence",
@@ -24764,9 +24764,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 16,
+        "attack": 17,
         "defense": null,
-        "weight": 17,
+        "weight": 12,
         "effects": [
           {
             "type": "intelligence",
@@ -24810,7 +24810,7 @@
         },
         "attack": 10,
         "defense": null,
-        "weight": 10,
+        "weight": 14,
         "effects": []
       }
     },
@@ -24839,9 +24839,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 12,
+        "attack": 15,
         "defense": null,
-        "weight": 15,
+        "weight": 12,
         "effects": [],
         "weapon_bonuses": [
           "two_shot_burst"
@@ -24875,7 +24875,7 @@
         },
         "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 13,
         "effects": []
       }
     },
@@ -24904,9 +24904,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 11,
+        "attack": 12,
         "defense": null,
-        "weight": 12,
+        "weight": 13,
         "effects": [
           {
             "type": "strength",
@@ -24951,9 +24951,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 15,
+        "attack": 16,
         "defense": null,
-        "weight": 16,
+        "weight": 12,
         "effects": [
           {
             "type": "accuracy_percent",
@@ -24987,9 +24987,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 14,
+        "attack": 16,
         "defense": null,
-        "weight": 16,
+        "weight": 13,
         "effects": [
           {
             "type": "spirit",
@@ -25028,7 +25028,7 @@
         },
         "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 14,
         "effects": [],
         "weapon_bonuses": [
           "two_shot_burst"
@@ -25060,9 +25060,9 @@
           "value": 21,
           "label": "SS-"
         },
-        "attack": 17,
+        "attack": 18,
         "defense": null,
-        "weight": 18,
+        "weight": 13,
         "effects": [
           {
             "type": "physical_defense",
@@ -25100,9 +25100,9 @@
           "value": 25,
           "label": "SSS"
         },
-        "attack": 12,
+        "attack": 14,
         "defense": null,
-        "weight": 14,
+        "weight": 12,
         "effects": [
           {
             "type": "physical_damage_received_percent",
@@ -25143,9 +25143,9 @@
           "value": 2,
           "label": "F+"
         },
-        "attack": 4,
+        "attack": 5,
         "defense": null,
-        "weight": 5,
+        "weight": 15,
         "effects": [],
         "weapon_bonuses": [
           "three_way_shot"
@@ -25177,9 +25177,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 10,
+        "attack": 11,
         "defense": null,
-        "weight": 11,
+        "weight": 13,
         "effects": [
           {
             "type": "damage",
@@ -25213,9 +25213,9 @@
           "value": 8,
           "label": "D+"
         },
-        "attack": 7,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 12,
         "effects": [
           {
             "type": "ability_strength",
@@ -25253,9 +25253,9 @@
           "value": 11,
           "label": "C+"
         },
-        "attack": 12,
+        "attack": 14,
         "defense": null,
-        "weight": 14,
+        "weight": 12,
         "effects": []
       }
     },
@@ -25286,7 +25286,7 @@
         },
         "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 11,
         "effects": []
       }
     },
@@ -25315,9 +25315,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 13,
+        "attack": 14,
         "defense": null,
-        "weight": 14,
+        "weight": 11,
         "effects": []
       }
     },
@@ -25346,9 +25346,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 17,
+        "attack": 18,
         "defense": null,
-        "weight": 18,
+        "weight": 14,
         "effects": [],
         "weapon_bonuses": [
           "rear_shot"
@@ -25382,7 +25382,7 @@
         },
         "attack": 12,
         "defense": null,
-        "weight": 12,
+        "weight": 15,
         "effects": [],
         "weapon_bonuses": [
           "two_shot_burst"
@@ -25414,9 +25414,9 @@
           "value": 26,
           "label": "SSS+"
         },
-        "attack": 14,
+        "attack": 17,
         "defense": null,
-        "weight": 17,
+        "weight": 11,
         "effects": [
           {
             "type": "movement_speed_percent",
@@ -25461,9 +25461,9 @@
           "value": 25,
           "label": "SSS"
         },
-        "attack": 15,
+        "attack": 16,
         "defense": null,
-        "weight": 16,
+        "weight": 11,
         "effects": [
           {
             "type": "ability_level",
@@ -25501,9 +25501,9 @@
           "value": 27,
           "label": "SSSS-"
         },
-        "attack": 22,
+        "attack": 24,
         "defense": null,
-        "weight": 24,
+        "weight": 12,
         "effects": [
           {
             "type": "maximum_hp",
@@ -25545,9 +25545,9 @@
           "value": 29,
           "label": "SSSS+"
         },
-        "attack": 19,
+        "attack": 22,
         "defense": null,
-        "weight": 22,
+        "weight": 9,
         "effects": [
           {
             "type": "physical_damage_received_percent",
@@ -25588,9 +25588,9 @@
           "value": 31,
           "label": "EX"
         },
-        "attack": 16,
+        "attack": 18,
         "defense": null,
-        "weight": 18,
+        "weight": 11,
         "effects": [
           {
             "type": "movement_speed_percent",
@@ -25637,7 +25637,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 40,
         "effects": []
       }
     },
@@ -25668,7 +25668,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 40,
         "effects": []
       }
     },
@@ -25699,7 +25699,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 40,
         "effects": []
       }
     },
@@ -25730,7 +25730,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 40,
         "effects": []
       }
     },
@@ -25759,9 +25759,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 17,
+        "attack": 18,
         "defense": null,
-        "weight": 18,
+        "weight": 15,
         "effects": [
           {
             "type": "evasion_percent",
@@ -25799,9 +25799,9 @@
           "value": 24,
           "label": "SSS-"
         },
-        "attack": 18,
+        "attack": 19,
         "defense": null,
-        "weight": 19,
+        "weight": 13,
         "effects": [
           {
             "type": "maximum_hp",
@@ -25842,9 +25842,9 @@
           "value": 19,
           "label": "S"
         },
-        "attack": 18,
+        "attack": 19,
         "defense": null,
-        "weight": 19,
+        "weight": 12,
         "effects": [
           {
             "type": "spirit",
@@ -25885,9 +25885,9 @@
           "value": 28,
           "label": "SSSS"
         },
-        "attack": 15,
+        "attack": 17,
         "defense": null,
-        "weight": 17,
+        "weight": 12,
         "effects": [
           {
             "type": "attack_speed_percent",
@@ -25930,7 +25930,7 @@
         },
         "attack": 23,
         "defense": null,
-        "weight": 23,
+        "weight": 10,
         "effects": [
           {
             "type": "movement_speed_percent",
@@ -25984,9 +25984,9 @@
           "value": 31,
           "label": "EX"
         },
-        "attack": 1,
+        "attack": 30,
         "defense": null,
-        "weight": 30,
+        "weight": 9,
         "effects": [
           {
             "type": "ability_level",
@@ -26044,9 +26044,9 @@
           "value": 0,
           "label": "F-"
         },
-        "attack": 1,
+        "attack": 2,
         "defense": null,
-        "weight": 2,
+        "weight": 0,
         "effects": []
       }
     },
@@ -26075,9 +26075,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 4,
+        "attack": 6,
         "defense": null,
-        "weight": 6,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -26114,7 +26114,7 @@
         },
         "attack": 5,
         "defense": null,
-        "weight": 5,
+        "weight": 0,
         "effects": []
       }
     },
@@ -26143,9 +26143,9 @@
           "value": 0,
           "label": "F-"
         },
-        "attack": 2,
+        "attack": 3,
         "defense": null,
-        "weight": 3,
+        "weight": 0,
         "effects": [
           {
             "type": "intelligence",
@@ -26181,7 +26181,7 @@
         },
         "attack": 4,
         "defense": null,
-        "weight": 4,
+        "weight": 0,
         "effects": [
           {
             "type": "spirit",
@@ -26215,9 +26215,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 5,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -26252,9 +26252,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 5,
+        "attack": 6,
         "defense": null,
-        "weight": 6,
+        "weight": 0,
         "effects": []
       }
     },
@@ -26283,9 +26283,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 6,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -26324,9 +26324,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 6,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -26361,9 +26361,9 @@
           "value": 16,
           "label": "A"
         },
-        "attack": 6,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "intelligence",
@@ -26401,9 +26401,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 5,
+        "attack": 6,
         "defense": null,
-        "weight": 6,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -26438,9 +26438,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 7,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": []
       }
     },
@@ -26469,9 +26469,9 @@
           "value": 0,
           "label": "F-"
         },
-        "attack": 2,
+        "attack": 3,
         "defense": null,
-        "weight": 3,
+        "weight": 0,
         "effects": []
       }
     },
@@ -26500,9 +26500,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 3,
+        "attack": 4,
         "defense": null,
-        "weight": 4,
+        "weight": 0,
         "effects": []
       }
     },
@@ -26531,9 +26531,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 4,
+        "attack": 5,
         "defense": null,
-        "weight": 5,
+        "weight": 0,
         "effects": []
       }
     },
@@ -26562,9 +26562,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 5,
+        "attack": 6,
         "defense": null,
-        "weight": 6,
+        "weight": 0,
         "effects": []
       }
     },
@@ -26593,9 +26593,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 6,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": []
       }
     },
@@ -26624,9 +26624,9 @@
           "value": 19,
           "label": "S"
         },
-        "attack": 5,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -26661,9 +26661,9 @@
           "value": 0,
           "label": "F-"
         },
-        "attack": 3,
+        "attack": 4,
         "defense": null,
-        "weight": 4,
+        "weight": 0,
         "effects": [
           {
             "type": "spirit",
@@ -26697,9 +26697,9 @@
           "value": 21,
           "label": "SS-"
         },
-        "attack": 6,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -26734,9 +26734,9 @@
           "value": 23,
           "label": "SS+"
         },
-        "attack": 6,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -26773,7 +26773,7 @@
         },
         "attack": 6,
         "defense": null,
-        "weight": 6,
+        "weight": 0,
         "effects": [
           {
             "type": "intelligence",
@@ -26807,9 +26807,9 @@
           "value": 24,
           "label": "SSS-"
         },
-        "attack": 6,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -26844,9 +26844,9 @@
           "value": 17,
           "label": "A+"
         },
-        "attack": 6,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -26881,9 +26881,9 @@
           "value": 11,
           "label": "C+"
         },
-        "attack": 6,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -26920,7 +26920,7 @@
         },
         "attack": 6,
         "defense": null,
-        "weight": 6,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -26957,7 +26957,7 @@
         },
         "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -26994,7 +26994,7 @@
         },
         "attack": 6,
         "defense": null,
-        "weight": 6,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -27031,7 +27031,7 @@
         },
         "attack": 4,
         "defense": null,
-        "weight": 4,
+        "weight": 0,
         "effects": [
           {
             "type": "spirit",
@@ -27077,9 +27077,9 @@
           "value": 19,
           "label": "S"
         },
-        "attack": 6,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "intelligence",
@@ -27113,9 +27113,9 @@
           "value": 20,
           "label": "S+"
         },
-        "attack": 7,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -27150,9 +27150,9 @@
           "value": 22,
           "label": "SS"
         },
-        "attack": 7,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -27191,9 +27191,9 @@
           "value": 26,
           "label": "SSS+"
         },
-        "attack": 8,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "critical_rate_percent",
@@ -27243,9 +27243,9 @@
           "value": 16,
           "label": "A"
         },
-        "attack": 1,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "evasion_percent",
@@ -27283,9 +27283,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 4,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -27328,9 +27328,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 5,
+        "attack": 6,
         "defense": null,
-        "weight": 6,
+        "weight": 0,
         "effects": [
           {
             "type": "maximum_hp",
@@ -27368,9 +27368,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 2,
+        "attack": 4,
         "defense": null,
-        "weight": 4,
+        "weight": 0,
         "effects": [
           {
             "type": "intelligence",
@@ -27412,9 +27412,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 4,
+        "attack": 5,
         "defense": null,
-        "weight": 5,
+        "weight": 0,
         "effects": [
           {
             "type": "spirit",
@@ -27456,9 +27456,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 5,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -27501,9 +27501,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 5,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "maximum_hp",
@@ -27541,9 +27541,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 6,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -27590,9 +27590,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 6,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -27635,9 +27635,9 @@
           "value": 19,
           "label": "S"
         },
-        "attack": 6,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "intelligence",
@@ -27683,9 +27683,9 @@
           "value": 21,
           "label": "SS-"
         },
-        "attack": 5,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -27728,9 +27728,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 7,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "maximum_hp",
@@ -27768,9 +27768,9 @@
           "value": 22,
           "label": "SS"
         },
-        "attack": 5,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -27817,9 +27817,9 @@
           "value": 3,
           "label": "E-"
         },
-        "attack": 3,
+        "attack": 5,
         "defense": null,
-        "weight": 5,
+        "weight": 0,
         "effects": [
           {
             "type": "spirit",
@@ -27861,9 +27861,9 @@
           "value": 24,
           "label": "SSS-"
         },
-        "attack": 6,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -27910,9 +27910,9 @@
           "value": 26,
           "label": "SSS+"
         },
-        "attack": 6,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -27959,9 +27959,9 @@
           "value": 11,
           "label": "C+"
         },
-        "attack": 6,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "intelligence",
@@ -28003,9 +28003,9 @@
           "value": 27,
           "label": "SSSS-"
         },
-        "attack": 6,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -28052,9 +28052,9 @@
           "value": 20,
           "label": "S+"
         },
-        "attack": 6,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -28097,9 +28097,9 @@
           "value": 14,
           "label": "B+"
         },
-        "attack": 6,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -28146,9 +28146,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 6,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -28195,9 +28195,9 @@
           "value": 29,
           "label": "SSSS+"
         },
-        "attack": 7,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -28244,9 +28244,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 6,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -28293,9 +28293,9 @@
           "value": 23,
           "label": "SS+"
         },
-        "attack": 7,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -28342,9 +28342,9 @@
           "value": 25,
           "label": "SSS"
         },
-        "attack": 7,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -28387,9 +28387,9 @@
           "value": 29,
           "label": "SSSS+"
         },
-        "attack": 8,
+        "attack": 10,
         "defense": null,
-        "weight": 10,
+        "weight": 0,
         "effects": [
           {
             "type": "critical_rate_percent",
@@ -28443,9 +28443,9 @@
           "value": 19,
           "label": "S"
         },
-        "attack": 1,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "evasion_percent",
@@ -28491,9 +28491,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 4,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -28532,9 +28532,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 5,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": []
       }
     },
@@ -28563,9 +28563,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 2,
+        "attack": 5,
         "defense": null,
-        "weight": 5,
+        "weight": 0,
         "effects": [
           {
             "type": "intelligence",
@@ -28599,9 +28599,9 @@
           "value": 9,
           "label": "C-"
         },
-        "attack": 4,
+        "attack": 6,
         "defense": null,
-        "weight": 6,
+        "weight": 0,
         "effects": [
           {
             "type": "spirit",
@@ -28635,9 +28635,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 5,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -28676,9 +28676,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 5,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": []
       }
     },
@@ -28707,9 +28707,9 @@
           "value": 21,
           "label": "SS-"
         },
-        "attack": 6,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -28748,9 +28748,9 @@
           "value": 21,
           "label": "SS-"
         },
-        "attack": 6,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -28789,9 +28789,9 @@
           "value": 22,
           "label": "SS"
         },
-        "attack": 6,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "intelligence",
@@ -28829,9 +28829,9 @@
           "value": 24,
           "label": "SSS-"
         },
-        "attack": 6,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -28866,9 +28866,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 8,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": []
       }
     },
@@ -28897,9 +28897,9 @@
           "value": 25,
           "label": "SSS"
         },
-        "attack": 5,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -28938,9 +28938,9 @@
           "value": 6,
           "label": "D-"
         },
-        "attack": 4,
+        "attack": 6,
         "defense": null,
-        "weight": 6,
+        "weight": 0,
         "effects": [
           {
             "type": "spirit",
@@ -28974,9 +28974,9 @@
           "value": 27,
           "label": "SSSS-"
         },
-        "attack": 6,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -29015,9 +29015,9 @@
           "value": 29,
           "label": "SSSS+"
         },
-        "attack": 6,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -29056,9 +29056,9 @@
           "value": 14,
           "label": "B+"
         },
-        "attack": 6,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "intelligence",
@@ -29092,9 +29092,9 @@
           "value": 30,
           "label": "EX-"
         },
-        "attack": 6,
+        "attack": 10,
         "defense": null,
-        "weight": 10,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -29133,9 +29133,9 @@
           "value": 23,
           "label": "SS+"
         },
-        "attack": 6,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -29174,9 +29174,9 @@
           "value": 17,
           "label": "A+"
         },
-        "attack": 6,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -29215,9 +29215,9 @@
           "value": 15,
           "label": "A-"
         },
-        "attack": 6,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -29256,9 +29256,9 @@
           "value": 31,
           "label": "EX"
         },
-        "attack": 7,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -29297,9 +29297,9 @@
           "value": 18,
           "label": "S-"
         },
-        "attack": 6,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -29338,9 +29338,9 @@
           "value": 26,
           "label": "SSS+"
         },
-        "attack": 7,
+        "attack": 10,
         "defense": null,
-        "weight": 10,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -29379,9 +29379,9 @@
           "value": 28,
           "label": "SSSS"
         },
-        "attack": 7,
+        "attack": 10,
         "defense": null,
-        "weight": 10,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_level",
@@ -29420,9 +29420,9 @@
           "value": 31,
           "label": "EX"
         },
-        "attack": 8,
+        "attack": 11,
         "defense": null,
-        "weight": 11,
+        "weight": 0,
         "effects": [
           {
             "type": "critical_rate_percent",
@@ -29472,9 +29472,9 @@
           "value": 22,
           "label": "SS"
         },
-        "attack": 1,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "evasion_percent",
@@ -29514,7 +29514,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 0,
         "effects": []
       }
     },
@@ -29545,7 +29545,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 0,
         "effects": []
       }
     },
@@ -29576,7 +29576,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 0,
         "effects": []
       }
     },
@@ -29607,7 +29607,7 @@
         },
         "attack": 1,
         "defense": null,
-        "weight": 1,
+        "weight": 0,
         "effects": []
       }
     },
@@ -29636,9 +29636,9 @@
           "value": 19,
           "label": "S"
         },
-        "attack": 5,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "vitality",
@@ -29676,9 +29676,9 @@
           "value": 21,
           "label": "SS-"
         },
-        "attack": 6,
+        "attack": 8,
         "defense": null,
-        "weight": 8,
+        "weight": 0,
         "effects": [
           {
             "type": "vitality",
@@ -29724,9 +29724,9 @@
           "value": 24,
           "label": "SSS-"
         },
-        "attack": 7,
+        "attack": 9,
         "defense": null,
-        "weight": 9,
+        "weight": 0,
         "effects": [
           {
             "type": "vitality",
@@ -29766,7 +29766,7 @@
         },
         "attack": 10,
         "defense": null,
-        "weight": 10,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_strength",
@@ -29801,9 +29801,9 @@
           "value": 30,
           "label": "EX-"
         },
-        "attack": 10,
+        "attack": 11,
         "defense": null,
-        "weight": 11,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_strength",
@@ -29846,9 +29846,9 @@
           "value": 31,
           "label": "EX"
         },
-        "attack": 10,
+        "attack": 12,
         "defense": null,
-        "weight": 12,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_strength",
@@ -29893,9 +29893,9 @@
           "value": 12,
           "label": "B-"
         },
-        "attack": 5,
+        "attack": 7,
         "defense": null,
-        "weight": 7,
+        "weight": 0,
         "effects": [
           {
             "type": "ability_strength",
