@@ -3617,7 +3617,7 @@
         },
         {
           "tier": "silver",
-          "player_action": "Keep at least one third of your starting maximum HP until the Djinn sequence ends.",
+          "player_action": "Keep your HP at or above one third of your maximum HP at quest entry, rounded down. Maintain this from quest entry through the four Stone Statues in the final room and the scene after their defeat, until the reward chest appears. If your HP falls below the threshold before then, healing does not restore eligibility.",
           "variants": [],
           "rewards": [
             {
@@ -7192,7 +7192,7 @@
         },
         {
           "tier": "gold",
-          "player_action": "Open the Silver chest on an earlier clear. On the current clear, the party must carry one item from each pair: 勇気の輝き or 勇気のしずく; 愛の輝き or 愛のしずく; and 希望の輝き or 希望のしずく. Use portable items at least 14 times in total. The chest appears on two out of five clears. If any party member carries 照魔のランタン, the chest always appears.",
+          "player_action": "Open the Silver chest on an earlier clear. On the current clear, the party must carry one item from each pair: 勇気の輝き or 勇気のしずく; 愛の輝き or 愛のしずく; and 希望の輝き or 希望のしずく. After all three pairs are satisfied, personally use portable items successfully at least 14 times before the final reward scene. Earlier uses and other players' uses do not count. For a reusable item, bring 秘蒼貝 from an earlier clear and use it 14 times. This quest awards 秘蒼貝 when you complete the three item-pair requirements. It is not consumed when used. The chest appears on two out of five clears. If any party member carries 照魔のランタン, the chest always appears. A separate rare random result can also award Gold without the item-use requirement.",
           "variants": [],
           "rewards": [
             {
