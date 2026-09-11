@@ -13654,7 +13654,7 @@
         },
         {
           "tier": "gold",
-          "player_action": "Open the Silver chest on an earlier clear. Wait for the random audio cue, which plays 30 to 300 seconds after the quest starts. Use Force within one second after the cue starts. When you do this, the chest appears on two out of five clears. If any party member carries 照魔のランタン, the chest always appears.",
+          "player_action": "Open the Silver chest on an earlier clear. When your game's random audio cue sounds, use Force immediately. Your Force action must be active during the one-second interval that starts at the cue's scheduled time. A Force started before the cue also counts if it is still active during that interval. No specific position or Arts use is required. When you meet this condition, the chest appears on two out of five clears. If any party member carries 照魔のランタン, this random check always passes. A separate rare random result can also award Gold without the Force timing requirement.",
           "variants": [],
           "rewards": [
             {
@@ -19991,7 +19991,7 @@
         },
         {
           "tier": "gold",
-          "player_action": "Open the Silver chest on an earlier clear. Wait for the random audio cue, which plays 30 to 300 seconds after the quest starts. Use Force within one second after the cue starts. When you do this, the chest appears on two out of five clears. If any party member carries 照魔のランタン, the chest always appears.",
+          "player_action": "Open the Silver chest on an earlier clear. When your game's random audio cue sounds, use Force immediately. Your Force action must be active during the one-second interval that starts at the cue's scheduled time. A Force started before the cue also counts if it is still active during that interval. No specific position or Arts use is required. When you meet this condition, the chest appears on two out of five clears. If any party member carries 照魔のランタン, this random check always passes. A separate rare random result can also award Gold without the Force timing requirement.",
           "variants": [],
           "rewards": [
             {
