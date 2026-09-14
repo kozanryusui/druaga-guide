@@ -18,8 +18,8 @@
     },
     {
       "id": "present-1",
-      "name": "10 quest clears",
-      "acquisition": "Clear 10 quests. Return to the Tower.",
+      "name": "10 play sessions",
+      "acquisition": "Start 10 play sessions with this character card. The Station counts each session before you clear a quest. Save your character data and return to the Tower.",
       "repeatability": "One time for each character card.",
       "rewards": [
         {
@@ -50,8 +50,8 @@
     },
     {
       "id": "present-2",
-      "name": "50 quest clears",
-      "acquisition": "Clear 50 quests. Return to the Tower.",
+      "name": "50 play sessions",
+      "acquisition": "Start 50 play sessions with this character card. The Station counts each session before you clear a quest. Save your character data and return to the Tower.",
       "repeatability": "One time for each character card.",
       "rewards": [
         {
@@ -82,8 +82,8 @@
     },
     {
       "id": "present-3",
-      "name": "100 quest clears",
-      "acquisition": "Clear 100 quests. Return to the Tower.",
+      "name": "100 play sessions",
+      "acquisition": "Start 100 play sessions with this character card. The Station counts each session before you clear a quest. Save your character data and return to the Tower.",
       "repeatability": "One time for each character card.",
       "rewards": [
         {
@@ -114,8 +114,8 @@
     },
     {
       "id": "present-4",
-      "name": "150 quest clears",
-      "acquisition": "Clear 150 quests. Return to the Tower.",
+      "name": "150 play sessions",
+      "acquisition": "Start 150 play sessions with this character card. The Station counts each session before you clear a quest. Save your character data and return to the Tower.",
       "repeatability": "One time for each character card.",
       "rewards": [
         {
@@ -146,8 +146,8 @@
     },
     {
       "id": "present-5",
-      "name": "200 quest clears",
-      "acquisition": "Clear 200 quests. Return to the Tower.",
+      "name": "200 play sessions",
+      "acquisition": "Start 200 play sessions with this character card. The Station counts each session before you clear a quest. Save your character data and return to the Tower.",
       "repeatability": "One time for each character card.",
       "rewards": [
         {
@@ -178,8 +178,8 @@
     },
     {
       "id": "present-6",
-      "name": "250 quest clears",
-      "acquisition": "Clear 250 quests. Return to the Tower.",
+      "name": "250 play sessions",
+      "acquisition": "Start 250 play sessions with this character card. The Station counts each session before you clear a quest. Save your character data and return to the Tower.",
       "repeatability": "One time for each character card.",
       "rewards": [
         {
@@ -210,8 +210,8 @@
     },
     {
       "id": "present-7",
-      "name": "300 quest clears",
-      "acquisition": "Clear 300 quests. Return to the Tower.",
+      "name": "300 play sessions",
+      "acquisition": "Start 300 play sessions with this character card. The Station counts each session before you clear a quest. Save your character data and return to the Tower.",
       "repeatability": "One time for each character card.",
       "rewards": [
         {
@@ -242,8 +242,8 @@
     },
     {
       "id": "present-8",
-      "name": "350 quest clears",
-      "acquisition": "Clear 350 quests. Return to the Tower.",
+      "name": "350 play sessions",
+      "acquisition": "Start 350 play sessions with this character card. The Station counts each session before you clear a quest. Save your character data and return to the Tower.",
       "repeatability": "One time for each character card.",
       "rewards": [
         {
@@ -274,8 +274,8 @@
     },
     {
       "id": "present-9",
-      "name": "400 quest clears",
-      "acquisition": "Clear 400 quests. Return to the Tower.",
+      "name": "400 play sessions",
+      "acquisition": "Start 400 play sessions with this character card. The Station counts each session before you clear a quest. Save your character data and return to the Tower.",
       "repeatability": "One time for each character card.",
       "rewards": [
         {
@@ -306,8 +306,8 @@
     },
     {
       "id": "present-10",
-      "name": "500 quest clears",
-      "acquisition": "Clear 500 quests. Return to the Tower.",
+      "name": "500 play sessions",
+      "acquisition": "Start 500 play sessions with this character card. The Station counts each session before you clear a quest. Save your character data and return to the Tower.",
       "repeatability": "One time for each character card.",
       "rewards": [
         {

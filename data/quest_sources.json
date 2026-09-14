@@ -3352,56 +3352,56 @@
       "rewards": [
         {
           "item_id": 8223,
-          "chance_numerator": null,
-          "chance_denominator": null,
+          "chance_numerator": 1,
+          "chance_denominator": 11,
           "selection_condition": null
         },
         {
           "item_id": 8224,
-          "chance_numerator": null,
-          "chance_denominator": null,
+          "chance_numerator": 1,
+          "chance_denominator": 11,
           "selection_condition": null
         },
         {
           "item_id": 8225,
-          "chance_numerator": null,
-          "chance_denominator": null,
+          "chance_numerator": 1,
+          "chance_denominator": 11,
           "selection_condition": null
         },
         {
           "item_id": 8226,
-          "chance_numerator": null,
-          "chance_denominator": null,
+          "chance_numerator": 1,
+          "chance_denominator": 11,
           "selection_condition": null
         },
         {
           "item_id": 8298,
-          "chance_numerator": null,
-          "chance_denominator": null,
+          "chance_numerator": 1,
+          "chance_denominator": 11,
           "selection_condition": null
         },
         {
           "item_id": 8299,
-          "chance_numerator": null,
-          "chance_denominator": null,
+          "chance_numerator": 1,
+          "chance_denominator": 11,
           "selection_condition": null
         },
         {
           "item_id": 8300,
-          "chance_numerator": null,
-          "chance_denominator": null,
+          "chance_numerator": 1,
+          "chance_denominator": 11,
           "selection_condition": null
         },
         {
           "item_id": 8301,
-          "chance_numerator": null,
-          "chance_denominator": null,
+          "chance_numerator": 1,
+          "chance_denominator": 11,
           "selection_condition": null
         },
         {
           "item_id": 8331,
-          "chance_numerator": null,
-          "chance_denominator": null,
+          "chance_numerator": 3,
+          "chance_denominator": 11,
           "selection_condition": null
         }
       ]

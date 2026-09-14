@@ -1,0 +1,4766 @@
+{
+  "schema_version": 1,
+  "game_version": "1.60",
+  "source": "work/resources/1.60/tower/item/present.dat",
+  "titles": [
+    {
+      "id": 0,
+      "tab": 1,
+      "position": 1,
+      "names": [
+        "黄金の騎士",
+        "正義と戦いの女神",
+        "イシターの巫女",
+        "白銀の魔神"
+      ],
+      "stars": 0,
+      "character_mask": 255,
+      "conditions": [],
+      "requirement": {
+        "action": "Available when you create the character.",
+        "confirmed": true,
+        "evidence": "PRES title 0 has no conditions.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 1,
+      "tab": 1,
+      "position": 2,
+      "names": [
+        "復活した英雄",
+        "堕ちた女神",
+        "青き杖の使徒",
+        "謎の巨人"
+      ],
+      "stars": 1,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 1,
+          "second": 1
+        }
+      ],
+      "requirement": {
+        "action": "Clear Chapter 1, Section 1: 女神降臨 / 審判 / 時を越えて / 大鷲の目覚め. The quest name depends on your character.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 2,
+      "tab": 1,
+      "position": 3,
+      "names": [
+        "バビリムの王",
+        "誇り高き女神",
+        "過去からの来訪者",
+        "ガーディアン"
+      ],
+      "stars": 1,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 1,
+          "second": 2
+        }
+      ],
+      "requirement": {
+        "action": "Clear Chapter 1, Section 2: オーンの地 / 失われた翼 / 魔城からの脱出 / オーンの子ら. The quest name depends on your character.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 3,
+      "tab": 1,
+      "position": 4,
+      "names": [
+        "栄光ある者",
+        "伝説の女神",
+        "イシターの使徒",
+        "伝説の巨人"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 1
+        }
+      ],
+      "requirement": {
+        "action": "Clear 零下３０度の罠.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          0
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 4,
+      "tab": 1,
+      "position": 5,
+      "names": [
+        "聖地解放者",
+        "聖地解放者",
+        "聖地解放者",
+        "聖地解放者"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 2
+        }
+      ],
+      "requirement": {
+        "action": "Clear 聖地奪還.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          1
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 5,
+      "tab": 1,
+      "position": 6,
+      "names": [
+        "守護神",
+        "守護神",
+        "守護神",
+        "守護神"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 4
+        }
+      ],
+      "requirement": {
+        "action": "Clear 命を賭して.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          3
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 6,
+      "tab": 1,
+      "position": 7,
+      "names": [
+        "ドラゴンバスター",
+        "ドラゴンバスター",
+        "ドラゴンバスター",
+        "ドラゴンバスター"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 5
+        }
+      ],
+      "requirement": {
+        "action": "Clear とらわれの英雄たち.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          4
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 7,
+      "tab": 1,
+      "position": 8,
+      "names": [
+        "魔宮の兵",
+        "魔宮の兵",
+        "魔宮の兵",
+        "魔宮の兵"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 6
+        }
+      ],
+      "requirement": {
+        "action": "Clear 魔都に眠る死霊.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          5
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 8,
+      "tab": 1,
+      "position": 9,
+      "names": [
+        "探求せし者",
+        "探求せし者",
+        "探求せし者",
+        "探求せし者"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 8
+        }
+      ],
+      "requirement": {
+        "action": "Clear 石巨人の洞窟.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          7
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 9,
+      "tab": 1,
+      "position": 10,
+      "names": [
+        "神の使徒",
+        "神の使徒",
+        "神の使徒",
+        "神の使徒"
+      ],
+      "stars": 1,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 1,
+          "second": 3
+        }
+      ],
+      "requirement": {
+        "action": "Clear Chapter 1, Section 3: 決意と約束 / 伝説のはじまり / 遥かなる旅路 / ゼオの人型. The quest name depends on your character.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 10,
+      "tab": 1,
+      "position": 11,
+      "names": [
+        "闇と戦う者",
+        "闇と戦う者",
+        "闇と戦う者",
+        "闇と戦う者"
+      ],
+      "stars": 1,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 2,
+          "second": 1
+        }
+      ],
+      "requirement": {
+        "action": "Clear Chapter 2, Section 1: 黒金の騎士 / 黒き刺客 / 闇の追跡者 / 三天使出現. The quest name depends on your character.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 11,
+      "tab": 1,
+      "position": 12,
+      "names": [
+        "クオックスの友",
+        "クオックスの友",
+        "クオックスの友",
+        "クオックスの友"
+      ],
+      "stars": 1,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 2,
+          "second": 2
+        }
+      ],
+      "requirement": {
+        "action": "Clear Chapter 2, Section 2: クオックス. The quest name depends on your character.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 12,
+      "tab": 1,
+      "position": 13,
+      "names": [
+        "盟約の破棄者",
+        "盟約の破棄者",
+        "盟約の破棄者",
+        "盟約の破棄者"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 3,
+          "second": 1
+        }
+      ],
+      "requirement": {
+        "action": "Clear Chapter 3, Section 1: 盟約. The quest name depends on your character.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 13,
+      "tab": 1,
+      "position": 14,
+      "names": [
+        "熟練した戦士",
+        "熟練した射手",
+        "熟練した巫女",
+        "熟練した兵士"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 3,
+          "second": 2
+        }
+      ],
+      "requirement": {
+        "action": "Clear Chapter 3, Section 2: 魔界の罠 / 過去の呪縛 / 青き杖の意志 / 記憶の断片. The quest name depends on your character.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 14,
+      "tab": 1,
+      "position": 15,
+      "names": [
+        "虹の使者",
+        "虹の使者",
+        "虹の使者",
+        "虹の使者"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 4,
+          "second": 1
+        }
+      ],
+      "requirement": {
+        "action": "Clear Chapter 4, Section 1: 七つを一つに. The quest name depends on your character.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 15,
+      "tab": 1,
+      "position": 16,
+      "names": [
+        "制覇せし者",
+        "制覇せし者",
+        "制覇せし者",
+        "制覇せし者"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 4,
+          "second": 2
+        }
+      ],
+      "requirement": {
+        "action": "Clear Chapter 4, Section 2: 吹雪を越えて. The quest name depends on your character.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 16,
+      "tab": 1,
+      "position": 17,
+      "names": [
+        "突破する者",
+        "突破する者",
+        "突破する者",
+        "突破する者"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 4,
+          "second": 3
+        }
+      ],
+      "requirement": {
+        "action": "Clear Chapter 4, Section 3: 悪夢の回廊. The quest name depends on your character.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 17,
+      "tab": 1,
+      "position": 18,
+      "names": [
+        "悪魔を倒せし者",
+        "悪魔を倒せし者",
+        "悪魔を倒せし者",
+        "悪魔を倒せし者"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 4,
+          "second": 4
+        }
+      ],
+      "requirement": {
+        "action": "Clear Chapter 4, Section 4: 決戦、そして…. The quest name depends on your character.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 18,
+      "tab": 1,
+      "position": 19,
+      "names": [
+        "真の勇気を持つ者",
+        "立ち上がりし者",
+        "運命を越えた者",
+        "不死鳥"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 5,
+          "second": 1
+        }
+      ],
+      "requirement": {
+        "action": "Clear Chapter 5, Section 1: アヌ神の試練 / 失われた翼Ⅱ / 死のさだめ / 絆. The quest name depends on your character.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 19,
+      "tab": 1,
+      "position": 20,
+      "names": [
+        "伝説を継ぐ者",
+        "目覚めた翼",
+        "帰ってきた巫女",
+        "ラストミッション"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 5,
+          "second": 2
+        }
+      ],
+      "requirement": {
+        "action": "Clear Chapter 5, Section 2: 光と闇と / 飛翔 / 扉を開けて / 新たなる力. The quest name depends on your character.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 20,
+      "tab": 1,
+      "position": 21,
+      "names": [
+        "神龍士",
+        "神龍士",
+        "神龍士",
+        "神龍士"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 6,
+          "second": 1
+        }
+      ],
+      "requirement": {
+        "action": "Clear Chapter 6, Section 1: 炎のみちびき. The quest name depends on your character.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 21,
+      "tab": 1,
+      "position": 22,
+      "names": [
+        "ゴールドナイト",
+        "折れない翼",
+        "女神のご加護を",
+        "敗れざる巨人"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 6,
+          "second": 2
+        }
+      ],
+      "requirement": {
+        "action": "Clear Chapter 6, Section 2: 魔城ふたたび. The quest name depends on your character.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 22,
+      "tab": 1,
+      "position": 23,
+      "names": [
+        "最後の騎士",
+        "最後の女神",
+        "最後の巫女",
+        "最後の巨人"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 6,
+          "second": 3
+        }
+      ],
+      "requirement": {
+        "action": "Clear Chapter 6, Section 3: 野望の終焉. The quest name depends on your character.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 23,
+      "tab": 1,
+      "position": 24,
+      "names": [
+        "救世主",
+        "救世主",
+        "救世主",
+        "救世主"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 6,
+          "second": 4
+        }
+      ],
+      "requirement": {
+        "action": "Clear Chapter 6, Section 4: 神魔. The quest name depends on your character.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 24,
+      "tab": 2,
+      "position": 1,
+      "names": [
+        "天空の勇者",
+        "天空の勇者",
+        "天空の勇者",
+        "天空の勇者"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 3
+        }
+      ],
+      "requirement": {
+        "action": "Clear 空の聖都ラ・ケウ.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          2
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 25,
+      "tab": 2,
+      "position": 2,
+      "names": [
+        "天を目指す者",
+        "天を目指す者",
+        "天を目指す者",
+        "天を目指す者"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 7
+        }
+      ],
+      "requirement": {
+        "action": "Clear 騎士たちの試練.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          6
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 26,
+      "tab": 2,
+      "position": 3,
+      "names": [
+        "真実を追う者",
+        "真実を追う者",
+        "真実を追う者",
+        "真実を追う者"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 9
+        }
+      ],
+      "requirement": {
+        "action": "Clear 国家機密を追え.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          8
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 27,
+      "tab": 2,
+      "position": 4,
+      "names": [
+        "奪還せし者",
+        "奪還せし者",
+        "奪還せし者",
+        "奪還せし者"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 10
+        }
+      ],
+      "requirement": {
+        "action": "Clear 眠れる竜ラパックス.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          9
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 28,
+      "tab": 2,
+      "position": 5,
+      "names": [
+        "海竜の封印者",
+        "海竜の封印者",
+        "海竜の封印者",
+        "海竜の封印者"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 11
+        }
+      ],
+      "requirement": {
+        "action": "Clear 深淵にひそむ大蛇.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          10
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 29,
+      "tab": 2,
+      "position": 6,
+      "names": [
+        "謎を追う者",
+        "謎を追う者",
+        "謎を追う者",
+        "謎を追う者"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 12
+        }
+      ],
+      "requirement": {
+        "action": "Clear 熱砂の神殿.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          11
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 30,
+      "tab": 2,
+      "position": 7,
+      "names": [
+        "魅せられし者",
+        "魅せられし者",
+        "魅せられし者",
+        "魅せられし者"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 13
+        }
+      ],
+      "requirement": {
+        "action": "Clear 虚ろなる魔塔.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          12
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 31,
+      "tab": 2,
+      "position": 8,
+      "names": [
+        "雪山の探索者",
+        "雪山の探索者",
+        "雪山の探索者",
+        "雪山の探索者"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 14
+        }
+      ],
+      "requirement": {
+        "action": "Clear 絶対零度の罠.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          13
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 32,
+      "tab": 2,
+      "position": 9,
+      "names": [
+        "炎をまといし者",
+        "炎をまといし者",
+        "炎をまといし者",
+        "炎をまといし者"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 15
+        }
+      ],
+      "requirement": {
+        "action": "Clear 飛沫をかけて.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          14
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 33,
+      "tab": 2,
+      "position": 10,
+      "names": [
+        "永遠の騎士",
+        "永遠の女神",
+        "永遠の少女",
+        "永遠の巨人"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 16
+        }
+      ],
+      "requirement": {
+        "action": "Clear 魔神の地下要塞.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          15
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 34,
+      "tab": 2,
+      "position": 11,
+      "names": [
+        "竜族の天敵",
+        "竜族の天敵",
+        "竜族の天敵",
+        "竜族の天敵"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 17
+        }
+      ],
+      "requirement": {
+        "action": "Clear 怒れる竜ラパックス.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          16
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 35,
+      "tab": 2,
+      "position": 12,
+      "names": [
+        "天使を狩る者",
+        "天使を狩る者",
+        "天使を狩る者",
+        "天使を狩る者"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 18
+        }
+      ],
+      "requirement": {
+        "action": "Clear 魔都に降りた天使.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          17
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 36,
+      "tab": 2,
+      "position": 13,
+      "names": [
+        "エージェント",
+        "エージェント",
+        "エージェント",
+        "エージェント"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 19
+        }
+      ],
+      "requirement": {
+        "action": "Clear 盗賊砦の秘密.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          18
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 37,
+      "tab": 2,
+      "position": 14,
+      "names": [
+        "財宝ハンター",
+        "財宝ハンター",
+        "財宝ハンター",
+        "財宝ハンター"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 20
+        }
+      ],
+      "requirement": {
+        "action": "Clear 財宝を求めて.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          19
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 38,
+      "tab": 2,
+      "position": 15,
+      "names": [
+        "試練を越えた者",
+        "試練を越えた者",
+        "試練を越えた者",
+        "試練を越えた者"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 21
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 39,
+      "tab": 2,
+      "position": 16,
+      "names": [
+        "初級",
+        "初級",
+        "初級",
+        "初級"
+      ],
+      "stars": 1,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 5,
+          "first": 3,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Reach rank E− or higher.",
+        "confirmed": true,
+        "evidence": "Tower 00442400: unsigned character rank byte +0x40 >= first. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 40,
+      "tab": 2,
+      "position": 17,
+      "names": [
+        "中級",
+        "中級",
+        "中級",
+        "中級"
+      ],
+      "stars": 1,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 5,
+          "first": 6,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Reach rank D− or higher.",
+        "confirmed": true,
+        "evidence": "Tower 00442400: unsigned character rank byte +0x40 >= first. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 41,
+      "tab": 2,
+      "position": 18,
+      "names": [
+        "上級",
+        "上級",
+        "上級",
+        "上級"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 5,
+          "first": 9,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Reach rank C− or higher.",
+        "confirmed": true,
+        "evidence": "Tower 00442400: unsigned character rank byte +0x40 >= first. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 42,
+      "tab": 2,
+      "position": 19,
+      "names": [
+        "超上級",
+        "超上級",
+        "超上級",
+        "超上級"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 5,
+          "first": 12,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Reach rank B− or higher.",
+        "confirmed": true,
+        "evidence": "Tower 00442400: unsigned character rank byte +0x40 >= first. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 43,
+      "tab": 2,
+      "position": 20,
+      "names": [
+        "超弩級",
+        "超弩級",
+        "超弩級",
+        "超弩級"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 5,
+          "first": 15,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Reach rank A− or higher.",
+        "confirmed": true,
+        "evidence": "Tower 00442400: unsigned character rank byte +0x40 >= first. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 44,
+      "tab": 2,
+      "position": 21,
+      "names": [
+        "名人",
+        "名人",
+        "名人",
+        "名人"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 5,
+          "first": 18,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Reach rank S− or higher.",
+        "confirmed": true,
+        "evidence": "Tower 00442400: unsigned character rank byte +0x40 >= first. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 45,
+      "tab": 2,
+      "position": 22,
+      "names": [
+        "達人",
+        "達人",
+        "達人",
+        "達人"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 5,
+          "first": 21,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Reach rank SS− or higher.",
+        "confirmed": true,
+        "evidence": "Tower 00442400: unsigned character rank byte +0x40 >= first. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 46,
+      "tab": 2,
+      "position": 23,
+      "names": [
+        "疾風の名人",
+        "疾風の名人",
+        "疾風の名人",
+        "疾風の名人"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 5,
+          "first": 24,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Reach rank SSS− or higher.",
+        "confirmed": true,
+        "evidence": "Tower 00442400: unsigned character rank byte +0x40 >= first. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 47,
+      "tab": 2,
+      "position": 24,
+      "names": [
+        "雷鳴の達人",
+        "雷鳴の達人",
+        "雷鳴の達人",
+        "雷鳴の達人"
+      ],
+      "stars": 4,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 5,
+          "first": 27,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Reach rank SSSS− or higher.",
+        "confirmed": true,
+        "evidence": "Tower 00442400: unsigned character rank byte +0x40 >= first. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 48,
+      "tab": 3,
+      "position": 1,
+      "names": [
+        "怒涛の名人",
+        "怒涛の名人",
+        "怒涛の名人",
+        "怒涛の名人"
+      ],
+      "stars": 4,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 5,
+          "first": 28,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Reach rank SSSS or higher.",
+        "confirmed": true,
+        "evidence": "Tower 00442400: unsigned character rank byte +0x40 >= first. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 49,
+      "tab": 3,
+      "position": 2,
+      "names": [
+        "伝説の達人",
+        "伝説の達人",
+        "伝説の達人",
+        "伝説の達人"
+      ],
+      "stars": 4,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 5,
+          "first": 29,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Reach rank SSSS+ or higher.",
+        "confirmed": true,
+        "evidence": "Tower 00442400: unsigned character rank byte +0x40 >= first. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 50,
+      "tab": 3,
+      "position": 3,
+      "names": [
+        "マスタープレイヤー",
+        "マスタープレイヤー",
+        "マスタープレイヤー",
+        "マスタープレイヤー"
+      ],
+      "stars": 4,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 5,
+          "first": 30,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Reach rank EX− or higher.",
+        "confirmed": true,
+        "evidence": "Tower 00442400: unsigned character rank byte +0x40 >= first. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 51,
+      "tab": 3,
+      "position": 4,
+      "names": [
+        "グランドマスター",
+        "グランドマスター",
+        "グランドマスター",
+        "グランドマスター"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 5,
+          "first": 31,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Reach rank EX or higher.",
+        "confirmed": true,
+        "evidence": "Tower 00442400: unsigned character rank byte +0x40 >= first. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 52,
+      "tab": 3,
+      "position": 5,
+      "names": [
+        "１０００Ｇ獲得！",
+        "１０００Ｇ獲得！",
+        "１０００Ｇ獲得！",
+        "１０００Ｇ獲得！"
+      ],
+      "stars": 1,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 8,
+          "first": 1000,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Have at least 1000 Gold when you insert your card in the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 00442460: current wallet +0x38 >= combined u32. Station SetCharacterMoney and CommitResultNumericRewards confirm this is not lifetime earnings. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 53,
+      "tab": 3,
+      "position": 6,
+      "names": [
+        "一万Ｇ獲得！",
+        "一万Ｇ獲得！",
+        "一万Ｇ獲得！",
+        "一万Ｇ獲得！"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 8,
+          "first": 10000,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Have at least 10000 Gold when you insert your card in the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 00442460: current wallet +0x38 >= combined u32. Station SetCharacterMoney and CommitResultNumericRewards confirm this is not lifetime earnings. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 54,
+      "tab": 3,
+      "position": 7,
+      "names": [
+        "十万Ｇ獲得！",
+        "十万Ｇ獲得！",
+        "十万Ｇ獲得！",
+        "十万Ｇ獲得！"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 8,
+          "first": 34464,
+          "second": 1
+        }
+      ],
+      "requirement": {
+        "action": "Have at least 100000 Gold when you insert your card in the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 00442460: current wallet +0x38 >= combined u32. Station SetCharacterMoney and CommitResultNumericRewards confirm this is not lifetime earnings. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 55,
+      "tab": 3,
+      "position": 8,
+      "names": [
+        "百万Ｇ獲得！",
+        "百万Ｇ獲得！",
+        "百万Ｇ獲得！",
+        "百万Ｇ獲得！"
+      ],
+      "stars": 4,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 8,
+          "first": 16960,
+          "second": 15
+        }
+      ],
+      "requirement": {
+        "action": "Have at least 1000000 Gold when you insert your card in the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 00442460: current wallet +0x38 >= combined u32. Station SetCharacterMoney and CommitResultNumericRewards confirm this is not lifetime earnings. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 56,
+      "tab": 3,
+      "position": 9,
+      "names": [
+        "壱千万Ｇ獲得！",
+        "壱千万Ｇ獲得！",
+        "壱千万Ｇ獲得！",
+        "壱千万Ｇ獲得！"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 8,
+          "first": 38528,
+          "second": 152
+        }
+      ],
+      "requirement": {
+        "action": "Have at least 10000000 Gold when you insert your card in the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 00442460: current wallet +0x38 >= combined u32. Station SetCharacterMoney and CommitResultNumericRewards confirm this is not lifetime earnings. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 57,
+      "tab": 3,
+      "position": 10,
+      "names": [
+        "ナーガル神の使徒",
+        "ナーガル神の使徒",
+        "ナーガル神の使徒",
+        "ナーガル神の使徒"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 11,
+          "first": 8267,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Keep the required item in your inventory when you insert your card in the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 004424c0 calls 00431aa0. It scans the 32 inventory slots or the quest-item inventory. This is current possession, not an acquisition record. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": [
+          8267
+        ]
+      }
+    },
+    {
+      "id": 58,
+      "tab": 3,
+      "position": 11,
+      "names": [
+        "ガールー神の使徒",
+        "ガールー神の使徒",
+        "ガールー神の使徒",
+        "ガールー神の使徒"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 11,
+          "first": 8268,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Keep the required item in your inventory when you insert your card in the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 004424c0 calls 00431aa0. It scans the 32 inventory slots or the quest-item inventory. This is current possession, not an acquisition record. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": [
+          8268
+        ]
+      }
+    },
+    {
+      "id": 59,
+      "tab": 3,
+      "position": 12,
+      "names": [
+        "アヌ神の使徒",
+        "アヌ神の使徒",
+        "アヌ神の使徒",
+        "アヌ神の使徒"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 11,
+          "first": 8270,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Keep the required item in your inventory when you insert your card in the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 004424c0 calls 00431aa0. It scans the 32 inventory slots or the quest-item inventory. This is current possession, not an acquisition record. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": [
+          8270
+        ]
+      }
+    },
+    {
+      "id": 60,
+      "tab": 3,
+      "position": 13,
+      "names": [
+        "大女神の使徒",
+        "大女神の使徒",
+        "大女神の使徒",
+        "大女神の使徒"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 11,
+          "first": 8271,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Keep the required item in your inventory when you insert your card in the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 004424c0 calls 00431aa0. It scans the 32 inventory slots or the quest-item inventory. This is current possession, not an acquisition record. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": [
+          8271
+        ]
+      }
+    },
+    {
+      "id": 61,
+      "tab": 3,
+      "position": 14,
+      "names": [
+        "アスラの使徒",
+        "アスラの使徒",
+        "アスラの使徒",
+        "アスラの使徒"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 11,
+          "first": 8273,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Keep the required item in your inventory when you insert your card in the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 004424c0 calls 00431aa0. It scans the 32 inventory slots or the quest-item inventory. This is current possession, not an acquisition record. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": [
+          8273
+        ]
+      }
+    },
+    {
+      "id": 62,
+      "tab": 3,
+      "position": 15,
+      "names": [
+        "錬金術師",
+        "錬金術師",
+        "錬金術師",
+        "錬金術師"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 11,
+          "first": 8279,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Keep the required item in your inventory when you insert your card in the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 004424c0 calls 00431aa0. It scans the 32 inventory slots or the quest-item inventory. This is current possession, not an acquisition record. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": [
+          8279
+        ]
+      }
+    },
+    {
+      "id": 63,
+      "tab": 3,
+      "position": 16,
+      "names": [
+        "運命の機織",
+        "運命の機織",
+        "運命の機織",
+        "運命の機織"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 11,
+          "first": 8283,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Keep the required item in your inventory when you insert your card in the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 004424c0 calls 00431aa0. It scans the 32 inventory slots or the quest-item inventory. This is current possession, not an acquisition record. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": [
+          8283
+        ]
+      }
+    },
+    {
+      "id": 64,
+      "tab": 3,
+      "position": 17,
+      "names": [
+        "黒魔術の達人",
+        "黒魔術の達人",
+        "黒魔術の達人",
+        "黒魔術の達人"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 11,
+          "first": 8284,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Keep the required item in your inventory when you insert your card in the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 004424c0 calls 00431aa0. It scans the 32 inventory slots or the quest-item inventory. This is current possession, not an acquisition record. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": [
+          8284
+        ]
+      }
+    },
+    {
+      "id": 65,
+      "tab": 3,
+      "position": 18,
+      "names": [
+        "死の彫金師",
+        "死の彫金師",
+        "死の彫金師",
+        "死の彫金師"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 11,
+          "first": 8285,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Keep the required item in your inventory when you insert your card in the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 004424c0 calls 00431aa0. It scans the 32 inventory slots or the quest-item inventory. This is current possession, not an acquisition record. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": [
+          8285
+        ]
+      }
+    },
+    {
+      "id": 66,
+      "tab": 3,
+      "position": 19,
+      "names": [
+        "太陽の翼",
+        "太陽の翼",
+        "太陽の翼",
+        "太陽の翼"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 11,
+          "first": 8286,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Keep the required item in your inventory when you insert your card in the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 004424c0 calls 00431aa0. It scans the 32 inventory slots or the quest-item inventory. This is current possession, not an acquisition record. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": [
+          8286
+        ]
+      }
+    },
+    {
+      "id": 67,
+      "tab": 3,
+      "position": 20,
+      "names": [
+        "スキルプロ",
+        "スキルプロ",
+        "スキルプロ",
+        "スキルプロ"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 12,
+          "first": 100,
+          "second": 1
+        }
+      ],
+      "requirement": {
+        "action": "Finish 2 quests with a weapon from the same category equipped. Different weapons in the same category count as one category.",
+        "confirmed": true,
+        "evidence": "Tower 00442510 counts 64 bytes at +0x100 that reach first, requiring second entries. Station 0014eb20 adds 86, capped at 255; gameplay state 15 updates equipped attack categories. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 68,
+      "tab": 3,
+      "position": 21,
+      "names": [
+        "スキルアデプト",
+        "スキルアデプト",
+        "スキルアデプト",
+        "スキルアデプト"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 12,
+          "first": 255,
+          "second": 1
+        }
+      ],
+      "requirement": {
+        "action": "Finish 3 quests with a weapon from the same category equipped. Different weapons in the same category count as one category.",
+        "confirmed": true,
+        "evidence": "Tower 00442510 counts 64 bytes at +0x100 that reach first, requiring second entries. Station 0014eb20 adds 86, capped at 255; gameplay state 15 updates equipped attack categories. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 69,
+      "tab": 3,
+      "position": 22,
+      "names": [
+        "スキルマスター",
+        "スキルマスター",
+        "スキルマスター",
+        "スキルマスター"
+      ],
+      "stars": 4,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 12,
+          "first": 255,
+          "second": 10
+        }
+      ],
+      "requirement": {
+        "action": "Finish 3 quests with a weapon from the same category equipped. Do this for 10 different weapon categories. Different weapons in the same category count as one category.",
+        "confirmed": true,
+        "evidence": "Tower 00442510 counts 64 bytes at +0x100 that reach first, requiring second entries. Station 0014eb20 adds 86, capped at 255; gameplay state 15 updates equipped attack categories. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 70,
+      "tab": 3,
+      "position": 23,
+      "names": [
+        "ウェポンマスター",
+        "ウェポンマスター",
+        "ウェポンマスター",
+        "ウェポンマスター"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 12,
+          "first": 255,
+          "second": 20
+        }
+      ],
+      "requirement": {
+        "action": "Finish 3 quests with a weapon from the same category equipped. Do this for 20 different weapon categories. Different weapons in the same category count as one category.",
+        "confirmed": true,
+        "evidence": "Tower 00442510 counts 64 bytes at +0x100 that reach first, requiring second entries. Station 0014eb20 adds 86, capped at 255; gameplay state 15 updates equipped attack categories. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 71,
+      "tab": 3,
+      "position": 24,
+      "names": [
+        "ゴッドオブウォー",
+        "ゴッドオブウォー",
+        "ゴッドオブウォー",
+        "ゴッドオブウォー"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 12,
+          "first": 255,
+          "second": 30
+        }
+      ],
+      "requirement": {
+        "action": "Finish 3 quests with a weapon from the same category equipped. Do this for 30 different weapon categories. Different weapons in the same category count as one category.",
+        "confirmed": true,
+        "evidence": "Tower 00442510 counts 64 bytes at +0x100 that reach first, requiring second entries. Station 0014eb20 adds 86, capped at 255; gameplay state 15 updates equipped attack categories. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 72,
+      "tab": 4,
+      "position": 1,
+      "names": [
+        "魔界の勇者",
+        "魔界の勇者",
+        "魔界の勇者",
+        "魔界の勇者"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 9,
+          "first": 100,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Start 100 play sessions with this character card. A session counts when the Station accepts the card and starts play, before you clear a quest. Save your character data and return to the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 00442480 checks character u32 +0x2c. Station 00282630 state 12 increments it after card-start success, capped at 99999, next to the card-use decrement and start-credit charge. New-character state 2 at 0013cf70 also increments it. This is not a quest-clear counter.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 73,
+      "tab": 4,
+      "position": 2,
+      "names": [
+        "人のカタチ",
+        "人のカタチ",
+        "人のカタチ",
+        "人のカタチ"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 9,
+          "first": 200,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Start 200 play sessions with this character card. A session counts when the Station accepts the card and starts play, before you clear a quest. Save your character data and return to the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 00442480 checks character u32 +0x2c. Station 00282630 state 12 increments it after card-start success, capped at 99999, next to the card-use decrement and start-credit charge. New-character state 2 at 0013cf70 also increments it. This is not a quest-clear counter.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 74,
+      "tab": 4,
+      "position": 3,
+      "names": [
+        "境界線",
+        "境界線",
+        "境界線",
+        "境界線"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 9,
+          "first": 300,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Start 300 play sessions with this character card. A session counts when the Station accepts the card and starts play, before you clear a quest. Save your character data and return to the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 00442480 checks character u32 +0x2c. Station 00282630 state 12 increments it after card-start success, capped at 99999, next to the card-use decrement and start-credit charge. New-character state 2 at 0013cf70 also increments it. This is not a quest-clear counter.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 75,
+      "tab": 4,
+      "position": 4,
+      "names": [
+        "覚悟せし者",
+        "覚悟せし者",
+        "覚悟せし者",
+        "覚悟せし者"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 9,
+          "first": 400,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Start 400 play sessions with this character card. A session counts when the Station accepts the card and starts play, before you clear a quest. Save your character data and return to the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 00442480 checks character u32 +0x2c. Station 00282630 state 12 increments it after card-start success, capped at 99999, next to the card-use decrement and start-credit charge. New-character state 2 at 0013cf70 also increments it. This is not a quest-clear counter.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 76,
+      "tab": 4,
+      "position": 5,
+      "names": [
+        "限界を超える者",
+        "限界を超える者",
+        "限界を超える者",
+        "限界を超える者"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 9,
+          "first": 500,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Start 500 play sessions with this character card. A session counts when the Station accepts the card and starts play, before you clear a quest. Save your character data and return to the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 00442480 checks character u32 +0x2c. Station 00282630 state 12 increments it after card-start success, capped at 99999, next to the card-use decrement and start-credit charge. New-character state 2 at 0013cf70 also increments it. This is not a quest-clear counter.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 77,
+      "tab": 4,
+      "position": 6,
+      "names": [
+        "限界を超えた者",
+        "限界を超えた者",
+        "限界を超えた者",
+        "限界を超えた者"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 9,
+          "first": 600,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Start 600 play sessions with this character card. A session counts when the Station accepts the card and starts play, before you clear a quest. Save your character data and return to the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 00442480 checks character u32 +0x2c. Station 00282630 state 12 increments it after card-start success, capped at 99999, next to the card-use decrement and start-credit charge. New-character state 2 at 0013cf70 also increments it. This is not a quest-clear counter.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 78,
+      "tab": 4,
+      "position": 7,
+      "names": [
+        "突き詰めし者",
+        "突き詰めし者",
+        "突き詰めし者",
+        "突き詰めし者"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 9,
+          "first": 700,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Start 700 play sessions with this character card. A session counts when the Station accepts the card and starts play, before you clear a quest. Save your character data and return to the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 00442480 checks character u32 +0x2c. Station 00282630 state 12 increments it after card-start success, capped at 99999, next to the card-use decrement and start-credit charge. New-character state 2 at 0013cf70 also increments it. This is not a quest-clear counter.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 79,
+      "tab": 4,
+      "position": 8,
+      "names": [
+        "限界のない者",
+        "限界のない者",
+        "限界のない者",
+        "限界のない者"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 9,
+          "first": 800,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Start 800 play sessions with this character card. A session counts when the Station accepts the card and starts play, before you clear a quest. Save your character data and return to the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 00442480 checks character u32 +0x2c. Station 00282630 state 12 increments it after card-start success, capped at 99999, next to the card-use decrement and start-credit charge. New-character state 2 at 0013cf70 also increments it. This is not a quest-clear counter.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 80,
+      "tab": 4,
+      "position": 9,
+      "names": [
+        "悪魔に魅入られし",
+        "悪魔に魅入られし",
+        "悪魔に魅入られし",
+        "悪魔に魅入られし"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 9,
+          "first": 900,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Start 900 play sessions with this character card. A session counts when the Station accepts the card and starts play, before you clear a quest. Save your character data and return to the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 00442480 checks character u32 +0x2c. Station 00282630 state 12 increments it after card-start success, capped at 99999, next to the card-use decrement and start-credit charge. New-character state 2 at 0013cf70 also increments it. This is not a quest-clear counter.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 81,
+      "tab": 4,
+      "position": 10,
+      "names": [
+        "魔王に魅入られし",
+        "魔王に魅入られし",
+        "魔王に魅入られし",
+        "魔王に魅入られし"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 9,
+          "first": 1000,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Start 1000 play sessions with this character card. A session counts when the Station accepts the card and starts play, before you clear a quest. Save your character data and return to the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 00442480 checks character u32 +0x2c. Station 00282630 state 12 increments it after card-start success, capped at 99999, next to the card-use decrement and start-credit charge. New-character state 2 at 0013cf70 also increments it. This is not a quest-clear counter.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 82,
+      "tab": 4,
+      "position": 11,
+      "names": [
+        "強き力を持つ者",
+        "強き力を持つ者",
+        "強き力を持つ者",
+        "強き力を持つ者"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 13,
+          "first": 0,
+          "second": 20
+        }
+      ],
+      "requirement": {
+        "action": "Place in the top 20 on the Tower’s 本日の最強プレイヤー ranking. Insert your card while your character is still on that ranking.",
+        "confirmed": true,
+        "evidence": "Tower 00442560 -> 00415f20 searches table 0, 20 records by character ID +0x18. 00416160 supplies character score to 0/1 and quest score to 2/3. 00416130 resets 0/2 each day. Labels confirmed in if_csl/c03b0704.tga; ranking renderer 00428a60 draws texture entry 7 + table index. Rankings are stored in this Tower, not a national server table.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 83,
+      "tab": 4,
+      "position": 12,
+      "names": [
+        "最強の力を持つ者",
+        "最強の力を持つ者",
+        "最強の力を持つ者",
+        "最強の力を持つ者"
+      ],
+      "stars": 4,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 13,
+          "first": 0,
+          "second": 1
+        }
+      ],
+      "requirement": {
+        "action": "Place first on the Tower’s 本日の最強プレイヤー ranking. Insert your card while your character is still on that ranking.",
+        "confirmed": true,
+        "evidence": "Tower 00442560 -> 00415f20 searches table 0, 20 records by character ID +0x18. 00416160 supplies character score to 0/1 and quest score to 2/3. 00416130 resets 0/2 each day. Labels confirmed in if_csl/c03b0704.tga; ranking renderer 00428a60 draws texture entry 7 + table index. Rankings are stored in this Tower, not a national server table.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 84,
+      "tab": 4,
+      "position": 13,
+      "names": [
+        "名を連ねし強者",
+        "名を連ねし強者",
+        "名を連ねし強者",
+        "名を連ねし強者"
+      ],
+      "stars": 4,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 13,
+          "first": 1,
+          "second": 20
+        }
+      ],
+      "requirement": {
+        "action": "Place in the top 20 on the Tower’s 歴代の最強プレイヤー ranking. Insert your card while your character is still on that ranking.",
+        "confirmed": true,
+        "evidence": "Tower 00442560 -> 00415f20 searches table 1, 20 records by character ID +0x18. 00416160 supplies character score to 0/1 and quest score to 2/3. 00416130 resets 0/2 each day. Labels confirmed in if_csl/c03b0704.tga; ranking renderer 00428a60 draws texture entry 7 + table index. Rankings are stored in this Tower, not a national server table.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 85,
+      "tab": 4,
+      "position": 14,
+      "names": [
+        "無二なる強者",
+        "無二なる強者",
+        "無二なる強者",
+        "無二なる強者"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 13,
+          "first": 1,
+          "second": 1
+        }
+      ],
+      "requirement": {
+        "action": "Place first on the Tower’s 歴代の最強プレイヤー ranking. Insert your card while your character is still on that ranking.",
+        "confirmed": true,
+        "evidence": "Tower 00442560 -> 00415f20 searches table 1, 20 records by character ID +0x18. 00416160 supplies character score to 0/1 and quest score to 2/3. 00416130 resets 0/2 each day. Labels confirmed in if_csl/c03b0704.tga; ranking renderer 00428a60 draws texture entry 7 + table index. Rankings are stored in this Tower, not a national server table.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 86,
+      "tab": 4,
+      "position": 15,
+      "names": [
+        "英雄に近づきし者",
+        "英雄に近づきし者",
+        "英雄に近づきし者",
+        "英雄に近づきし者"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 13,
+          "first": 2,
+          "second": 20
+        }
+      ],
+      "requirement": {
+        "action": "Place in the top 20 on the Tower’s 本日の英雄プレイヤー ranking. Insert your card while your character is still on that ranking.",
+        "confirmed": true,
+        "evidence": "Tower 00442560 -> 00415f20 searches table 2, 20 records by character ID +0x18. 00416160 supplies character score to 0/1 and quest score to 2/3. 00416130 resets 0/2 each day. Labels confirmed in if_csl/c03b0704.tga; ranking renderer 00428a60 draws texture entry 7 + table index. Rankings are stored in this Tower, not a national server table.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 87,
+      "tab": 4,
+      "position": 16,
+      "names": [
+        "英雄と呼ばれし者",
+        "英雄と呼ばれし者",
+        "英雄と呼ばれし者",
+        "英雄と呼ばれし者"
+      ],
+      "stars": 4,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 13,
+          "first": 2,
+          "second": 1
+        }
+      ],
+      "requirement": {
+        "action": "Place first on the Tower’s 本日の英雄プレイヤー ranking. Insert your card while your character is still on that ranking.",
+        "confirmed": true,
+        "evidence": "Tower 00442560 -> 00415f20 searches table 2, 20 records by character ID +0x18. 00416160 supplies character score to 0/1 and quest score to 2/3. 00416130 resets 0/2 each day. Labels confirmed in if_csl/c03b0704.tga; ranking renderer 00428a60 draws texture entry 7 + table index. Rankings are stored in this Tower, not a national server table.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 88,
+      "tab": 4,
+      "position": 17,
+      "names": [
+        "名を連ねし英雄",
+        "名を連ねし英雄",
+        "名を連ねし英雄",
+        "名を連ねし英雄"
+      ],
+      "stars": 4,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 13,
+          "first": 3,
+          "second": 20
+        }
+      ],
+      "requirement": {
+        "action": "Place in the top 20 on the Tower’s 歴代の英雄プレイヤー ranking. Insert your card while your character is still on that ranking.",
+        "confirmed": true,
+        "evidence": "Tower 00442560 -> 00415f20 searches table 3, 20 records by character ID +0x18. 00416160 supplies character score to 0/1 and quest score to 2/3. 00416130 resets 0/2 each day. Labels confirmed in if_csl/c03b0704.tga; ranking renderer 00428a60 draws texture entry 7 + table index. Rankings are stored in this Tower, not a national server table.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 89,
+      "tab": 4,
+      "position": 18,
+      "names": [
+        "無二なる英雄",
+        "無二なる英雄",
+        "無二なる英雄",
+        "無二なる英雄"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 13,
+          "first": 3,
+          "second": 1
+        }
+      ],
+      "requirement": {
+        "action": "Place first on the Tower’s 歴代の英雄プレイヤー ranking. Insert your card while your character is still on that ranking.",
+        "confirmed": true,
+        "evidence": "Tower 00442560 -> 00415f20 searches table 3, 20 records by character ID +0x18. 00416160 supplies character score to 0/1 and quest score to 2/3. 00416130 resets 0/2 each day. Labels confirmed in if_csl/c03b0704.tga; ranking renderer 00428a60 draws texture entry 7 + table index. Rankings are stored in this Tower, not a national server table.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 90,
+      "tab": 4,
+      "position": 19,
+      "names": [
+        "軽騎兵",
+        "軽騎兵",
+        "軽騎兵",
+        "軽騎兵"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 150,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 財宝を求めて when the opening text shows 『幻の金剛石』.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          19
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 91,
+      "tab": 4,
+      "position": 20,
+      "names": [
+        "黒魔術師",
+        "黒魔術師",
+        "黒魔術師",
+        "黒魔術師"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 151,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 財宝を求めて when the opening text shows 『黒き宝玉を求めて』.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          19
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 92,
+      "tab": 4,
+      "position": 21,
+      "names": [
+        "白魔術師",
+        "白魔術師",
+        "白魔術師",
+        "白魔術師"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 152,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 財宝を求めて when the opening text shows 『生命の果実』.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          19
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 93,
+      "tab": 4,
+      "position": 22,
+      "names": [
+        "グルメ",
+        "グルメ",
+        "グルメ",
+        "グルメ"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 153,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 財宝を求めて when the opening text shows 『至高の料理』.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          19
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 94,
+      "tab": 4,
+      "position": 23,
+      "names": [
+        "植物学者",
+        "植物学者",
+        "植物学者",
+        "植物学者"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 154,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 財宝を求めて when the opening text shows 『化石樹の謎を追え』.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          19
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 95,
+      "tab": 4,
+      "position": 24,
+      "names": [
+        "聖職者",
+        "聖職者",
+        "聖職者",
+        "聖職者"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 155,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 財宝を求めて when the opening text shows 『聖銀探索』.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          19
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 96,
+      "tab": 5,
+      "position": 1,
+      "names": [
+        "氷の騎士",
+        "雪原の狩人",
+        "氷の魔術師",
+        "寒冷地仕様"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 156,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 財宝を求めて when the opening text shows 『オパールの魔神』.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          19
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 97,
+      "tab": 5,
+      "position": 2,
+      "names": [
+        "森の騎士",
+        "森の狩人",
+        "森の魔術師",
+        "密林戦用"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 157,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 財宝を求めて when the opening text shows 『オパールの城』.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          19
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 98,
+      "tab": 5,
+      "position": 3,
+      "names": [
+        "海の騎士",
+        "海の狩人",
+        "海の魔術師",
+        "水陸両用型"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 158,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 財宝を求めて when the opening text shows 『オパールの秘密』.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          19
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 99,
+      "tab": 5,
+      "position": 4,
+      "names": [
+        "闘士",
+        "闘士",
+        "闘士",
+        "闘士"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 159,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 財宝を求めて when the opening text shows 『黄金の毛皮』.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          19
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 100,
+      "tab": 5,
+      "position": 5,
+      "names": [
+        "竜騎士",
+        "竜騎士",
+        "竜騎士",
+        "竜騎士"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 160,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 財宝を求めて when the opening text shows 『竜の精髄を奪え』.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          19
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 101,
+      "tab": 5,
+      "position": 6,
+      "names": [
+        "魔戦士",
+        "魔戦士",
+        "魔戦士",
+        "魔戦士"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 161,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 財宝を求めて when the opening text shows 『魔鉱石探索』.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          19
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 102,
+      "tab": 5,
+      "position": 7,
+      "names": [
+        "司祭",
+        "司祭",
+        "司祭",
+        "司祭"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 162,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 財宝を求めて when the opening text shows 『聖魔の遺骸』.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          19
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 103,
+      "tab": 5,
+      "position": 8,
+      "names": [
+        "ネクロマンサー",
+        "ネクロマンサー",
+        "ネクロマンサー",
+        "ネクロマンサー"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 163,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 財宝を求めて when the opening text shows 『黒竜の遺産』.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          19
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 104,
+      "tab": 5,
+      "position": 9,
+      "names": [
+        "賢者",
+        "賢者",
+        "賢者",
+        "賢者"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 164,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 財宝を求めて when the opening text shows 『世界樹を探して』.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          19
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 105,
+      "tab": 5,
+      "position": 10,
+      "names": [
+        "旅人",
+        "旅人",
+        "旅人",
+        "旅人"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 165,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 財宝を求めて when the opening text shows 『芳しき香油』.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          19
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 106,
+      "tab": 5,
+      "position": 11,
+      "names": [
+        "追跡者",
+        "追跡者",
+        "追跡者",
+        "追跡者"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 166,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 財宝を求めて when the opening text shows 『消えた逆鱗』.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          19
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 107,
+      "tab": 5,
+      "position": 12,
+      "names": [
+        "武士",
+        "武士",
+        "武士",
+        "武士"
+      ],
+      "stars": 2,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 167,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 財宝を求めて when the opening text shows 『赤玉鋼探索』.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          19
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 108,
+      "tab": 5,
+      "position": 13,
+      "names": [
+        "炎の騎士",
+        "炎の女神",
+        "炎の魔術師",
+        "耐熱仕様"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 186,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪火星の試練≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 109,
+      "tab": 5,
+      "position": 14,
+      "names": [
+        "ガウリの戦士",
+        "ガウリの戦士",
+        "ガウリの戦士",
+        "ガウリの戦士"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 187,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪ガウリ砦の戦い≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 110,
+      "tab": 5,
+      "position": 15,
+      "names": [
+        "セイント",
+        "セイント",
+        "セイント",
+        "セイント"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 188,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪失われし白羊宮≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 111,
+      "tab": 5,
+      "position": 16,
+      "names": [
+        "機械騎士",
+        "機械女神",
+        "機械魔術師",
+        "機械戦士"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 189,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪混沌の大魔龍≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 112,
+      "tab": 5,
+      "position": 17,
+      "names": [
+        "天空神殿衛士",
+        "天空神殿衛士",
+        "天空神殿衛士",
+        "天空神殿衛士"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 190,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪天空神殿の戦い≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 113,
+      "tab": 5,
+      "position": 18,
+      "names": [
+        "アバター",
+        "アバター",
+        "アバター",
+        "アバター"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 191,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪魔法都市サルバン≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 114,
+      "tab": 5,
+      "position": 19,
+      "names": [
+        "水騎士",
+        "水女神",
+        "水術士",
+        "深海戦闘用"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 192,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪水星の試練≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 115,
+      "tab": 5,
+      "position": 20,
+      "names": [
+        "修道士",
+        "修道士",
+        "修道士",
+        "修道士"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 193,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪修道院の決戦≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 116,
+      "tab": 5,
+      "position": 21,
+      "names": [
+        "エクスプローラー",
+        "エクスプローラー",
+        "エクスプローラー",
+        "エクスプローラー"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 194,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪カーレの水門≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 117,
+      "tab": 5,
+      "position": 22,
+      "names": [
+        "月影の騎士",
+        "月の女神",
+        "月光の魔術師",
+        "無重力仕様"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 195,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪月の試練≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 118,
+      "tab": 5,
+      "position": 23,
+      "names": [
+        "禿鷹砦の英雄",
+        "禿鷹砦の英雄",
+        "禿鷹砦の英雄",
+        "禿鷹砦の英雄"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 196,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪禿鷹砦の戦い≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 119,
+      "tab": 5,
+      "position": 24,
+      "names": [
+        "アドベンチャラー",
+        "アドベンチャラー",
+        "アドベンチャラー",
+        "アドベンチャラー"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 197,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪ジッグラト≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 120,
+      "tab": 6,
+      "position": 1,
+      "names": [
+        "太陽の騎士",
+        "太陽の女神",
+        "太陽の魔術師",
+        "太陽電池駆動"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 198,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪太陽の試練≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 121,
+      "tab": 6,
+      "position": 2,
+      "names": [
+        "幻の男",
+        "幻の女",
+        "幻の少女",
+        "幻の戦士"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 199,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪幻影城攻略戦≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 122,
+      "tab": 6,
+      "position": 3,
+      "names": [
+        "スペランカー",
+        "スペランカー",
+        "スペランカー",
+        "スペランカー"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 200,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪消滅の都≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 123,
+      "tab": 6,
+      "position": 4,
+      "names": [
+        "疾風の騎士",
+        "嵐の女神",
+        "風の魔術師",
+        "風力発電装置搭載"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 201,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪風星の試練≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 124,
+      "tab": 6,
+      "position": 5,
+      "names": [
+        "砂漠の遊牧民",
+        "砂漠の遊牧民",
+        "砂漠の遊牧民",
+        "砂漠の遊牧民"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 202,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪オアシスの死闘≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 125,
+      "tab": 6,
+      "position": 6,
+      "names": [
+        "チャレンジャー",
+        "チャレンジャー",
+        "チャレンジャー",
+        "チャレンジャー"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 203,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪地底湖城≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 126,
+      "tab": 6,
+      "position": 7,
+      "names": [
+        "木星の騎士",
+        "世界樹の女神",
+        "木漏れ日の巫女",
+        "木製"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 204,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪木星の試練≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 127,
+      "tab": 6,
+      "position": 8,
+      "names": [
+        "樹海の王",
+        "樹海の王",
+        "樹海の王",
+        "樹海の王"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 205,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪樹海最前線の戦い≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 128,
+      "tab": 6,
+      "position": 9,
+      "names": [
+        "チャンピオン",
+        "チャンピオン",
+        "チャンピオン",
+        "チャンピオン"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 206,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪獅子の神殿≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 129,
+      "tab": 6,
+      "position": 10,
+      "names": [
+        "大地の騎士",
+        "大地の女神",
+        "大地の魔術師",
+        "地熱発電装置搭載"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 207,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪土星の試練≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 130,
+      "tab": 6,
+      "position": 11,
+      "names": [
+        "死神",
+        "死神",
+        "死神",
+        "死神"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 208,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪空中要塞ガールゾシー≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 131,
+      "tab": 6,
+      "position": 12,
+      "names": [
+        "トレッカー",
+        "トレッカー",
+        "トレッカー",
+        "トレッカー"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 209,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪幻の楽園≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 132,
+      "tab": 6,
+      "position": 13,
+      "names": [
+        "稲妻の騎士",
+        "雷鳴の女神",
+        "雷の魔術師",
+        "超電磁魔神"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 210,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪金星の試練≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 133,
+      "tab": 6,
+      "position": 14,
+      "names": [
+        "作戦参謀",
+        "作戦参謀",
+        "作戦参謀",
+        "作戦参謀"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 211,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪ムスタバル川を渡れ≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 134,
+      "tab": 6,
+      "position": 15,
+      "names": [
+        "クエスター",
+        "クエスター",
+        "クエスター",
+        "クエスター"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 212,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 試練の旅 when the opening text shows ≪王家の墓≫.",
+        "confirmed": true,
+        "evidence": "Station party19 unit 12 sets 150 + variant; party20 ending sets 186 + variant. Match the displayed opening subtitle, not the chest-tier flags at 168/213. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          20
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 135,
+      "tab": 6,
+      "position": 16,
+      "names": [
+        "白虎",
+        "玄武",
+        "朱雀",
+        "青龍"
+      ],
+      "stars": 4,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 64,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 神魔 (Chapter 6, Section 4) alone. Continuing does not disqualify this title.",
+        "confirmed": true,
+        "evidence": "Station partyepic64 ending: active count == 1, no death-latch test.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 136,
+      "tab": 6,
+      "position": 17,
+      "names": [
+        "黄薔薇",
+        "赤薔薇",
+        "白薔薇",
+        "黒薔薇"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 65,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 神魔 (Chapter 6, Section 4) with exactly two players. Your partner can use any character.",
+        "confirmed": true,
+        "evidence": "Station partyepic64 tests all four character slots, including the local slot. Each local-character branch accepts its own character ID. The pair restriction therefore adds no condition.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 137,
+      "tab": 6,
+      "position": 18,
+      "names": [
+        "世界を創造せし者",
+        "世界を創造せし者",
+        "世界を創造せし者",
+        "世界を創造せし者"
+      ],
+      "stars": 4,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 70,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Requirement not yet confirmed. No unlock action was found in the Version 1.60 quest scripts.",
+        "confirmed": false,
+        "evidence": "PRES requires extended record flag 70. Follow-up checked 130 effective Station scripts, all ten native bit-setter call sites, record synchronization, Tower pending awards, card initialization, and transfer summaries. No normal unlock action was found. Archive-only Tower scripts were also checked. This does not prove the title is unobtainable or staff-only. See druaga-title-requirements-audit.md.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 138,
+      "tab": 6,
+      "position": 19,
+      "names": [
+        "邪神",
+        "邪神",
+        "邪神",
+        "邪神"
+      ],
+      "stars": 4,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 71,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Requirement not yet confirmed. No unlock action was found in the Version 1.60 quest scripts.",
+        "confirmed": false,
+        "evidence": "PRES requires extended record flag 71. Follow-up checked 130 effective Station scripts, all ten native bit-setter call sites, record synchronization, Tower pending awards, card initialization, and transfer summaries. No normal unlock action was found. Archive-only Tower scripts were also checked. This does not prove the title is unobtainable or staff-only. See druaga-title-requirements-audit.md.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 139,
+      "tab": 6,
+      "position": 20,
+      "names": [
+        "ドルアーガの塔",
+        "時の鍵伝説",
+        "カイの冒険",
+        "ファードラウト"
+      ],
+      "stars": 4,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 72,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Requirement not yet confirmed. No unlock action was found in the Version 1.60 quest scripts.",
+        "confirmed": false,
+        "evidence": "PRES requires extended record flag 72. Follow-up checked 130 effective Station scripts, all ten native bit-setter call sites, record synchronization, Tower pending awards, card initialization, and transfer summaries. No normal unlock action was found. Archive-only Tower scripts were also checked. This does not prove the title is unobtainable or staff-only. See druaga-title-requirements-audit.md.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 140,
+      "tab": 6,
+      "position": 21,
+      "names": [
+        "騎士を極めし者",
+        "女神を極めし者",
+        "巫女を極めし者",
+        "巨人を極めし者"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 60,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 神魔 (Chapter 6, Section 4) with exactly four players. No party member may die during the quest.",
+        "confirmed": true,
+        "evidence": "Station effective-story/partyepic64: value[7] latches party death event 5; ending tests active count == 4 and value[7] == 0.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 141,
+      "tab": 6,
+      "position": 22,
+      "names": [
+        "武聖",
+        "闘翼",
+        "巫女神",
+        "拳聖"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 61,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 神魔 (Chapter 6, Section 4) with exactly three players. No party member may die during the quest.",
+        "confirmed": true,
+        "evidence": "Station partyepic64 ending: active count == 3 and party-death latch == 0.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 142,
+      "tab": 6,
+      "position": 23,
+      "names": [
+        "神に愛されし者",
+        "神に愛されし者",
+        "神に愛されし者",
+        "神に愛されし者"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 62,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 神魔 (Chapter 6, Section 4) with exactly two players. No party member may die during the quest.",
+        "confirmed": true,
+        "evidence": "Station partyepic64 ending: active count == 2 and party-death latch == 0.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 143,
+      "tab": 6,
+      "position": 24,
+      "names": [
+        "奇跡を紡ぐ者",
+        "奇跡を紡ぐ者",
+        "奇跡を紡ぐ者",
+        "奇跡を紡ぐ者"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 63,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 神魔 (Chapter 6, Section 4) alone without dying.",
+        "confirmed": true,
+        "evidence": "Station partyepic64 ending: active count == 1 and party-death latch == 0.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 144,
+      "tab": 7,
+      "position": 1,
+      "names": [
+        "キャラバン隊長",
+        "キャラバン隊長",
+        "キャラバン隊長",
+        "キャラバン隊長"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 22
+        }
+      ],
+      "requirement": {
+        "action": "Clear 死の砂漠を越えて.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          21
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 145,
+      "tab": 7,
+      "position": 2,
+      "names": [
+        "密林の散歩者",
+        "密林の散歩者",
+        "密林の散歩者",
+        "密林の散歩者"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 23
+        }
+      ],
+      "requirement": {
+        "action": "Clear 彷徨える賢者達.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          22
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 146,
+      "tab": 7,
+      "position": 3,
+      "names": [
+        "海賊王",
+        "海賊王",
+        "海賊王",
+        "海賊王"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 24
+        }
+      ],
+      "requirement": {
+        "action": "Clear 謎の鉄仮面.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          23
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 147,
+      "tab": 7,
+      "position": 4,
+      "names": [
+        "悪夢克服者",
+        "悪夢克服者",
+        "悪夢克服者",
+        "悪夢克服者"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 25
+        }
+      ],
+      "requirement": {
+        "action": "Clear ザ・ナイトメア.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          24
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 148,
+      "tab": 7,
+      "position": 5,
+      "names": [
+        "イシターの獅子",
+        "イシターの親友",
+        "イシターの娘",
+        "イシターの戦士"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 26
+        }
+      ],
+      "requirement": {
+        "action": "Clear 桂冠は誰の手に.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          25
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 149,
+      "tab": 7,
+      "position": 6,
+      "names": [
+        "冒険野郎",
+        "冒険野郎",
+        "冒険野郎",
+        "冒険野郎"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 27
+        }
+      ],
+      "requirement": {
+        "action": "Clear 大王の遺産.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          26
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 150,
+      "tab": 7,
+      "position": 7,
+      "names": [
+        "竜を喰らう者",
+        "竜を喰らう者",
+        "竜を喰らう者",
+        "竜を喰らう者"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 28
+        }
+      ],
+      "requirement": {
+        "action": "Clear 混沌を生み出す者.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          27
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 151,
+      "tab": 7,
+      "position": 8,
+      "names": [
+        "イシターの復活",
+        "イシターの復活",
+        "イシターの復活",
+        "イシターの復活"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 29
+        }
+      ],
+      "requirement": {
+        "action": "Clear 女神の凱旋.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          28
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 152,
+      "tab": 7,
+      "position": 9,
+      "names": [
+        "夜明けの星",
+        "夜明けの星",
+        "夜明けの星",
+        "夜明けの星"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 30
+        }
+      ],
+      "requirement": {
+        "action": "Clear 疾風の勇者達.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          29
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 153,
+      "tab": 7,
+      "position": 10,
+      "names": [
+        "アキンドバスター",
+        "アキンドバスター",
+        "アキンドバスター",
+        "アキンドバスター"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 31
+        }
+      ],
+      "requirement": {
+        "action": "Clear もうひとつの悪魔.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          30
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 154,
+      "tab": 7,
+      "position": 11,
+      "names": [
+        "退魔師",
+        "退魔師",
+        "退魔師",
+        "退魔師"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 32
+        }
+      ],
+      "requirement": {
+        "action": "Clear 幽霊城の怪.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          31
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 155,
+      "tab": 7,
+      "position": 12,
+      "names": [
+        "マーベルレイス",
+        "マーベルレイス",
+        "マーベルレイス",
+        "マーベルレイス"
+      ],
+      "stars": 3,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 1,
+          "first": 11,
+          "second": 33
+        }
+      ],
+      "requirement": {
+        "action": "Clear 戦乙女の記憶.",
+        "confirmed": true,
+        "evidence": "Tower 00442350: HasQuestRecordFlag(chapter, section, 1). Quest names: scenario.csv. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [
+          32
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 156,
+      "tab": 7,
+      "position": 13,
+      "names": [
+        "混沌の夜明け",
+        "混沌の夜明け",
+        "混沌の夜明け",
+        "混沌の夜明け"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 76,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "In 混沌を生み出す者 or its [並] version, reach the Illuyankas EX final boss and defeat it alone without dying. Use the Gold instructions to reach this boss.",
+        "confirmed": true,
+        "evidence": "Station party27/69: ending requires value[8] == 1 (active count), value[33] == 0 (death latch), value[172] != 0 (strong final boss).",
+        "quest_ids": [
+          27,
+          69
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 157,
+      "tab": 7,
+      "position": 14,
+      "names": [
+        "伝説を紡ぎし者",
+        "伝説を紡ぎし者",
+        "伝説を紡ぎし者",
+        "伝説を紡ぎし者"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 74,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 悪夢（あくむ） or its [並] version alone without your character dying.",
+        "confirmed": true,
+        "evidence": "Station party55/72: value[108] captures active count before the last battle; value[106] latches local event 5; ending requires count == 1 and latch == 0.",
+        "quest_ids": [
+          55,
+          72
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 158,
+      "tab": 7,
+      "position": 15,
+      "names": [
+        "虚ろなる住人",
+        "虚ろなる住人",
+        "虚ろなる住人",
+        "虚ろなる住人"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 75,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "With 照魔のランタン carried by any party member, finish the floor-60 finale in 虚ろなる魔塔 or 魔塔（まとう）, or finish your own final run in 女神の凱旋 or 女神（めがみ）. The final 女神 run starts at floor 121.",
+        "confirmed": true,
+        "evidence": "Station party12/45 unit 17 and party28/59 unit 17 set flag 75 after their finale when the shared lantern latch is set. The alternate random comparison 5963 is outside the 0..2000 roll.",
+        "quest_ids": [
+          12,
+          45,
+          28,
+          59
+        ],
+        "item_ids": [
+          16414
+        ]
+      }
+    },
+    {
+      "id": 159,
+      "tab": 7,
+      "position": 16,
+      "names": [
+        "神々の王",
+        "神々の王",
+        "神々の王",
+        "神々の王"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 11,
+          "first": 40812,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Keep the required item in your inventory when you insert your card in the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 004424c0 calls 00431aa0. It scans the 32 inventory slots or the quest-item inventory. This is current possession, not an acquisition record. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": [
+          40812
+        ]
+      }
+    },
+    {
+      "id": 160,
+      "tab": 7,
+      "position": 17,
+      "names": [
+        "迷宮の覇者",
+        "迷宮の覇者",
+        "迷宮の覇者",
+        "迷宮の覇者"
+      ],
+      "stars": 4,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 506,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Complete your own 187-room cycle in 天と地を繋ぐもの or 天地（てんち）. Finish the finale after you have completed all 187 different rooms and the required Room Master milestones.",
+        "confirmed": true,
+        "evidence": "Station party64 unit finale state 28 / party65 state 61 sets flag 506 before final reward scene. This is the full-cycle finale, not an ordinary six-room run.",
+        "quest_ids": [
+          64,
+          65
+        ],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 161,
+      "tab": 7,
+      "position": 18,
+      "names": [
+        "王国書記官",
+        "王国書記官",
+        "王国書記官",
+        "王国書記官"
+      ],
+      "stars": 4,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 11,
+          "first": 45664,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Keep the required item in your inventory when you insert your card in the Tower.",
+        "confirmed": true,
+        "evidence": "Tower 004424c0 calls 00431aa0. It scans the 32 inventory slots or the quest-item inventory. This is current possession, not an acquisition record. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": [
+          45664
+        ]
+      }
+    },
+    {
+      "id": 162,
+      "tab": 7,
+      "position": 19,
+      "names": [
+        "深遠を越えし者",
+        "深遠を越えし者",
+        "深遠を越えし者",
+        "深遠を越えし者"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 7,
+          "first": 64760,
+          "second": 90
+        }
+      ],
+      "requirement": {
+        "action": "Reach 5963000 experience points.",
+        "confirmed": true,
+        "evidence": "Tower 00442440: character +0x3c >= combined u32. Station CommitResultNumericRewards writes rank experience here. Tab order: Tower 00422500 selects title ID = tab * 24.",
+        "quest_ids": [],
+        "item_ids": []
+      }
+    },
+    {
+      "id": 163,
+      "tab": 7,
+      "position": 20,
+      "names": [
+        "聖軍枢機卿",
+        "聖軍枢機卿",
+        "聖軍枢機卿",
+        "聖軍枢機卿"
+      ],
+      "stars": 4,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 80,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 悪魔（あくま） or its [並] version while any party member carries 照魔のランタン.",
+        "confirmed": true,
+        "evidence": "Station party61/75 ending: shared lantern latch value[121] or impossible roll value[125] == 5963 (roll range 0..2000).",
+        "quest_ids": [
+          61,
+          75
+        ],
+        "item_ids": [
+          16414
+        ]
+      }
+    },
+    {
+      "id": 164,
+      "tab": 7,
+      "position": 21,
+      "names": [
+        "一騎当千",
+        "一騎当千",
+        "やればできる子",
+        "一騎当千"
+      ],
+      "stars": 4,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 81,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 悪夢（あくむ） or its [並] version while any party member carries 照魔のランタン.",
+        "confirmed": true,
+        "evidence": "Station party55/72 ending: shared lantern latch value[134] or impossible roll value[130] == 5963 (roll range 0..2000).",
+        "quest_ids": [
+          55,
+          72
+        ],
+        "item_ids": [
+          16414
+        ]
+      }
+    },
+    {
+      "id": 165,
+      "tab": 7,
+      "position": 22,
+      "names": [
+        "要塞",
+        "要塞",
+        "要塞",
+        "要塞"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 82,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "Clear 要塞（ようさい） or its [並] version while any party member carries 照魔のランタン.",
+        "confirmed": true,
+        "evidence": "Station party48/71 ending: shared lantern latch value[29] or impossible roll value[30] == 5963 (roll range 0..2000).",
+        "quest_ids": [
+          48,
+          71
+        ],
+        "item_ids": [
+          16414
+        ]
+      }
+    },
+    {
+      "id": 166,
+      "tab": 7,
+      "position": 23,
+      "names": [
+        "金庫番",
+        "銀行員",
+        "貯金箱",
+        "集金マシン"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 83,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "In one of the quests below, qualify for Blue and no higher chest color. Finish the quest while any party member carries 照魔のランタン.",
+        "confirmed": true,
+        "evidence": "Station party24/67,27/69,48/71,55/72,58/74,61/75: Blue true AND Red/Silver/Gold false AND shared lantern latch. Alternate comparison 6109 cannot occur in the 0..2000 roll.",
+        "quest_ids": [
+          24,
+          67,
+          27,
+          69,
+          48,
+          71,
+          55,
+          72,
+          58,
+          74,
+          61,
+          75
+        ],
+        "item_ids": [
+          16414
+        ]
+      }
+    },
+    {
+      "id": 167,
+      "tab": 7,
+      "position": 24,
+      "names": [
+        "不撓不屈",
+        "不撓不屈",
+        "不撓不屈",
+        "不撓不屈"
+      ],
+      "stars": 5,
+      "character_mask": 255,
+      "conditions": [
+        {
+          "opcode": 4,
+          "first": 84,
+          "second": 0
+        }
+      ],
+      "requirement": {
+        "action": "In 『驚愕の未来』 or its [並] version, take the extended route and defeat the final boss without your character dying. Follow the Silver instructions. You do not need the random Gold chest.",
+        "confirmed": true,
+        "evidence": "Station party66/77 extended ending (value[59] == 0) and no local death (value[54] == 0) sets flag 84 unconditionally, outside the 1-in-16 Gold roll.",
+        "quest_ids": [
+          66,
+          77
+        ],
+        "item_ids": []
+      }
+    }
+  ]
+}
